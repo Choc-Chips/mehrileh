@@ -2,8 +2,8 @@ import { useState } from "react";
 import "./App.css";
 import dictionary from "./dictionary.json";
 
-function App() {
-  const [baseWords] = useState(dictionary);
+function Dictionary({ baseWords, language }) {
+
   const [input, setInput] = useState("");
   const words = baseWords.filter((word) => word.english.match(`${input}`));
   const [chosen, setChosen] = useState(null);
@@ -12,15 +12,12 @@ function App() {
     setInput(e.target.value);
   }
 
-  function handleClick(e) {
-    const tempChosen = e.target.textContent;
-    setChosen(words.find((w) => w.english === tempChosen));
+  function handleClick(clickedWord) {
+    setChosen(words.find((w) => w.english === clickedWord));
   }
 
-  return (
-    <>
-      <h1>Mehrileh Dictionary</h1>
-      <div className="cards">
+  return(
+    <div className="cards">
         <div className='card'>
           <form action="">
             <input
@@ -32,8 +29,8 @@ function App() {
           </form>
           <div>
             {words.map((word) => (
-              <p  key={word.id} onClick={handleClick} className={`word ${word === chosen?'chosen':null}`}>
-                {word.english}
+              <p key={word.id} onClick={() => handleClick(word.english)} className={`word ${word === chosen?'chosen':null}`}>
+                {language==="english" ? word.english : word.mehrileh}
               </p>
             ))}
           </div>
@@ -42,13 +39,28 @@ function App() {
         <div className='card'>
           {chosen ? (
             <>
-              <h2>{chosen.mehrileh}</h2>
+              <h3>{chosen.mehrileh}</h3>
               <p>/{chosen.pronunciation}/</p>
               <p>{chosen.english}</p>
             </>
           ): <></>}
         </div>
       </div>
+  )
+}
+
+function App() {
+
+  const [baseWords] = useState(dictionary.sort((a, b) => a.english > b.english));
+  const [baseWordsDifSort] = useState(baseWords.sort((a, b) => a.mehrileh > b.mehrileh));
+
+  return (
+    <>
+      <h1>Mehrileh Dictionary</h1>
+      <h2>English to Mehrileh</h2>
+      <Dictionary baseWords={baseWords} language="english" />
+      <h2>Mehrileh to English</h2>
+      <Dictionary baseWords={baseWordsDifSort} language="mehrileh" />
     </>
   );
 }
