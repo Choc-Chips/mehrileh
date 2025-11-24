@@ -2,13 +2,43 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
+}
+
+h1 {
   text-align: center;
+  margin-bottom: 100px;
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.cards {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .card {
-  padding: 2em;
+  padding: 20px;
+  width: 350px;
+  overflow: scroll;
+  height: 300px;
 }
 
-.read-the-docs {
-  color: #888;
+.separation {
+  margin: 10px;
+  width: 1px;
+  background-color: black;
+}
+
+.card input {
+  width: 200px;
+}
+
+.word:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.chosen {
+  font-weight: bold;
 }
