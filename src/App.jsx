@@ -54,10 +54,12 @@ function App() {
   const [baseWords] = useState(
     dictionary.sort((a, b) => a.english > b.english)
   );
+  console.log(baseWords)
   // Sort dictionary for mehrileh
   const [baseWordsDifSort] = useState(
-    baseWords.sort((a, b) => a.mehrileh > b.mehrileh)
+    dictionary.sort((a, b) => a.mehrileh > b.mehrileh)
   );
+
 
   return (
     <>
