@@ -6,13 +6,24 @@
 
 h1 {
   text-align: center;
-  margin-bottom: 100px;
   font-size: 3.2em;
   line-height: 1.1;
 }
 
-h2 {
+.sections {
   margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.section {
+  background-color: #f1f1f1ee;
+  border-radius: 20px;
+}
+
+h2 {
   text-align: center;
 }
 
@@ -23,8 +34,8 @@ h2 {
 }
 
 .card {
-  padding: 20px;
-  width: 350px;
+  padding: 10px;
+  width: 250px;
   overflow: scroll;
   height: 300px;
 }
@@ -36,7 +47,15 @@ h2 {
 }
 
 .card input {
-  width: 200px;
+  width: 220px;
+  height: 1.8em;
+  background: url(./assets/search.svg) no-repeat left;
+  background-size: 18px;
+  background-position: 3px;
+  padding-left: 25px;
+  fill: gray;
+  border: 2px solid gray;
+  border-radius: 10px;
 }
 
 .word:hover {
@@ -46,8 +65,4 @@ h2 {
 
 .chosen {
   font-weight: bold;
-}
-
-.mehrileh {
-
 }
