@@ -40,8 +40,13 @@ function App() {
         </div>
         <div className="separation"></div>
         <div className='card'>
-          <h2>{chosen?.english}</h2>
-          <p>{chosen?.mehrileh}</p>
+          {chosen ? (
+            <>
+              <h2>{chosen.mehrileh}</h2>
+              <p>/{chosen.pronunciation}/</p>
+              <p>{chosen.english}</p>
+            </>
+          ): <></>}
         </div>
       </div>
     </>

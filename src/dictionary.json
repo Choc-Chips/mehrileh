@@ -1,1 +1,13 @@
-[{ "id": 1, "english": "land", "mehrileh": "djani"}, {"id": 2, "english": "northern land", "mehrileh": "djani'hweh"}]
+[
+  { "id": 1, "english": "land", "mehrileh": "djani", "pronunciation": "dʒani" },
+  { "id": 2, "english": "north", "mehrileh": "hweh", "pronunciation": "ʍɛ" },
+  {
+    "id": 3,
+    "english": "big word that cannot fit neatly aaaaaaa",
+    "mehrileh": "uhafhfef ifew hiofe hioefwhioewfhioewfhi"
+  },
+  { "id": 4, "english": "world", "mehrileh": "tshihv", "pronunciation": "tʃɪv" },
+  { "id": 5, "english": "northern land", "mehrileh": "djani'hweh" },
+  { "id": 6, "english": "northern land", "mehrileh": "djani'hweh" },
+  { "id": 7, "english": "northern land", "mehrileh": "djani'hweh" }
+]
