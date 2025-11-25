@@ -34,7 +34,7 @@ function Dictionary({ baseWords, language }) {
   return (
     <div className="cards">
       <div className="card">
-        <form action="">
+        <form action="" onSubmit={(e) => e.preventDefault()}>
           <input
             type="text"
             name="word"
