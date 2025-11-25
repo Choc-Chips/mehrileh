@@ -2,12 +2,10 @@ import { useState } from "react";
 import "./App.css";
 import dictionary from "./dictionary.json";
 
-
 function Word({ word, language, selected, setSelected }) {
-
   function handleClick() {
     setSelected(word);
-  } 
+  }
 
   return (
     <p
@@ -23,8 +21,10 @@ function Word({ word, language, selected, setSelected }) {
 function Dictionary({ baseWords, language }) {
   const [input, setInput] = useState("");
   let words;
-  if (language === "english") words = baseWords.filter((word) => word.english.match(`${input}`));
-  if (language === "mehrileh") words = baseWords.filter((word) => word.mehrileh.match(`${input}`));
+  if (language === "english")
+    words = baseWords.filter((word) => word.english.match(`${input}`));
+  if (language === "mehrileh")
+    words = baseWords.filter((word) => word.mehrileh.match(`${input}`));
   const [selected, setSelected] = useState(null);
 
   function handleInput(e) {
@@ -45,7 +45,12 @@ function Dictionary({ baseWords, language }) {
         </form>
         <div>
           {words.map((word) => (
-           <Word word={word} language={language} selected={selected} setSelected={setSelected} />
+            <Word
+              word={word}
+              language={language}
+              selected={selected}
+              setSelected={setSelected}
+            />
           ))}
         </div>
       </div>
