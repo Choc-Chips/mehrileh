@@ -52,12 +52,12 @@ function Dictionary({ baseWords, language }) {
 function App() {
   // Sort dictionary alphabetically
   const [baseWords] = useState(
-    dictionary.sort((a, b) => a.english > b.english)
+    [... dictionary.sort((a, b) => a.english > b.english)]
   );
-  console.log(baseWords)
+
   // Sort dictionary for mehrileh
   const [baseWordsDifSort] = useState(
-    dictionary.sort((a, b) => a.mehrileh > b.mehrileh)
+    [... dictionary.sort((a, b) => a.mehrileh > b.mehrileh)]
   );
 
 
