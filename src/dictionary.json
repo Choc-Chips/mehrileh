@@ -1,91 +1,7138 @@
 [
-  { "id": 1, "english": "world/server", "mehrileh": "tshihv", "pronunciation": "tʃɪv" },
-  { "id": 2, "english": "mob/animal", "mehrileh": "mehy", "pronunciation": "mɛɪ" },
-  { "id": 3, "english": "tree", "mehrileh": "thiy", "pronunciation": "θij" },
-  { "id": 4, "english": "grass", "mehrileh": "moz", "pronunciation": "moz [mɔz]" },
-  { "id": 5, "english": "sun", "mehrileh": "tshola", "pronunciation": "t͡ʃɔla" },
-  { "id": 6, "english": "stone", "mehrileh": "toch", "pronunciation": "tɔχ" },
-  { "id": 7, "english": "vision", "mehrileh": "niy", "pronunciation": "nij" },
-  { "id": 8, "english": "see/percieve/know/look/think", "mehrileh": "niy", "pronunciation": "nij" },
-  { "id": 9, "english": "do/mine", "mehrileh": "mihn", "pronunciation": "mɪn" },
-  { "id": 10, "english": "craft/make/create/work", "mehrileh": "krhach", "pronunciation": "kʁaχ" },
-  { "id": 11, "english": "fire", "mehrileh": "ladjo", "pronunciation": "ladʒɔ" },
-  { "id": 12, "english": "burn", "mehrileh": "ladjo", "pronunciation": "ladʒɔ" },
-  { "id": 13, "english": "mery", "mehrileh": "mehri", "pronunciation": "mɛri" },
-  { "id": 14, "english": "water", "mehrileh": "lo", "pronunciation": "lɔ" },
-  { "id": 15, "english": "big/tall/imposing/serious/old/more", "mehrileh": "krha", "pronunciation": "kʁa" },
-  { "id": 16, "english": "small/short/innocent/childish/young/less", "mehrileh": "mi", "pronunciation": "mi" },
-  { "id": 17, "english": "path/road", "mehrileh": "limeh", "pronunciation": "limɛ" },
-  { "id": 18, "english": "go/walk", "mehrileh": "limeh", "pronunciation": "limɛ" },
-  { "id": 19, "english": "haunt/terrify/torment", "mehrileh": "zrha", "pronunciation": "zʁa" },
-  { "id": 20, "english": "night/darkness", "mehrileh": "sithrol", "pronunciation": "siθrɔl" },
-  { "id": 21, "english": "the (singular)", "mehrileh": "thi", "pronunciation": "θi" },
-  { "id": 22, "english": "the (plural)", "mehrileh": "thir", "pronunciation": "θir" },
-  { "id": 23, "english": "be", "mehrileh": "tehla", "pronunciation": "tɛla" },
-  { "id": 24, "english": "land", "mehrileh": "djani", "pronunciation": "dʒani" },
-  { "id": 25, "english": "sky", "mehrileh": "tawir", "pronunciation": "tawir" },
-  { "id": 26, "english": "sky-gaze/rest/be at peace/be free", "mehrileh": "tawir", "pronunciation": "tawir" },
-  { "id": 27, "english": "horse", "mehrileh": "sha'yo", "pronunciation": "ʃa.jɔ" },
-  { "id": 28, "english": "something/thing/block", "mehrileh": "tili", "pronunciation": "tili" },
-  { "id": 29, "english": "color", "mehrileh": "got", "pronunciation": "gɔt" },
-  { "id": 30, "english": "mouth/language/speaker/speak/say", "mehrileh": "lato", "pronunciation": "latɔ" },
-  { "id": 31, "english": "wander", "mehrileh": "tehreh", "pronunciation": "tɛrɛ" },
-  { "id": 32, "english": "cow", "mehrileh": "meul", "pronunciation": "məl" },
-  { "id": 33, "english": "half", "mehrileh": "heulm", "pronunciation": "həlm" },
-  { "id": 34, "english": "many/much/share/shared/mutual", "mehrileh": "ra", "pronunciation": "ra" },
-  { "id": 35, "english": "direction", "mehrileh": "chla", "pronunciation": "χla" },
-  { "id": 36, "english": "eastern", "mehrileh": "na", "pronunciation": "na" },
-  { "id": 37, "english": "western", "mehrileh": "ta", "pronunciation": "ta" },
-  { "id": 38, "english": "northern", "mehrileh": "hweh", "pronunciation": "ʍɛ" },
-  { "id": 39, "english": "southern", "mehrileh": "vweh", "pronunciation": "vwɛ" },
-  { "id": 40, "english": "day/today", "mehrileh": "dan", "pronunciation": "dan" },
-  { "id": 42, "english": "have/wear", "mehrileh": "zyeh", "pronunciation": "zjɛ" },
-  { "id": 43, "english": "start/birth", "mehrileh": "tala", "pronunciation": "tala" },
-  { "id": 44, "english": "end/death", "mehrileh": "fihla", "pronunciation": "fɪla" },
-  { "id": 45, "english": "take/recieve", "mehrileh": "prang", "pronunciation": "praŋ" },
-  { "id": 46, "english": "command", "mehrileh": "frostsh", "pronunciation": "frɔstʃ" },
-  { "id": 47, "english": "like/love", "mehrileh": "tshil", "pronunciation": "tʃil" },
-  { "id": 48, "english": "friendship", "mehrileh": "tshil", "pronunciation": "tʃil" },
-  { "id": 49, "english": "hunt", "mehrileh": "vheuleh", "pronunciation": "ðəlɛ" },
-  { "id": 50, "english": "place/area", "mehrileh": "gul", "pronunciation": "gul" },
-  { "id": 51, "english": "tool", "mehrileh": "tor", "pronunciation": "tor" },
-  { "id": 52, "english": "use", "mehrileh": "tor", "pronunciation": "tor" },
-  { "id": 53, "english": "shine/help/sacrifice/light/sunray/aid", "mehrileh": "rha'ya", "pronunciation": "ʁaja" },
-  { "id": 54, "english": "no/not/none/without/nothing/zero", "mehrileh": "nil", "pronunciation": "nil" },
-  { "id": 55, "english": "similar", "mehrileh": "teht", "pronunciation": "tɛt" },
-  { "id": 56, "english": "as/of", "mehrileh": "teht", "pronunciation": "tɛt" },
-  { "id": 57, "english": "after/under/forwards/inferior", "mehrileh": "chiya", "pronunciation": "χija" },
-  { "id": 58, "english": "before/over/backwards/superior", "mehrileh": "shan'g", "pronunciation": "ʃang" },
-  { "id": 59, "english": "from/by", "mehrileh": "shal", "pronunciation": "ʃal" },
-  { "id": 60, "english": "to/for", "mehrileh": "shil", "pronunciation": "ʃil" },
-  { "id": 61, "english": "through", "mehrileh": "tshali", "pronunciation": "tʃali" },
-  { "id": 62, "english": "between", "mehrileh": "tati", "pronunciation": "tati" },
-  { "id": 63, "english": "in/at/by/here", "mehrileh": "tutsh", "pronunciation": "tutʃ" },
-  { "id": 64, "english": "close/near", "mehrileh": "tutsh", "pronunciation": "tutʃ" },
-  { "id": 65, "english": "give/gift", "mehrileh": "dehneh", "pronunciation": "dɛnɛ" },
-  { "id": 66, "english": "of", "mehrileh": "tig", "pronunciation": "tig" },
-  { "id": 67, "english": "every", "mehrileh": "rara", "pronunciation": "ra" },
-  { "id": 68, "english": "if", "mehrileh": "feh", "pronunciation": "fɛ" },
-  { "id": 69, "english": "clay/book/document/write", "mehrileh": "plin", "pronunciation": "plin" },
-  { "id": 70, "english": "ink", "mehrileh": "shleun", "pronunciation": "ʃlən" },
-  { "id": 71, "english": "food", "mehrileh": "tarhk", "pronunciation": "taʁk" },
-  { "id": 72, "english": "blood/soul", "mehrileh": "veh'ya", "pronunciation": "vɛja" },
-  { "id": 73, "english": "wind", "mehrileh": "shul", "pronunciation": "ʃul" },
-  { "id": 74, "english": "time", "mehrileh": "yehta", "pronunciation": "jɛta" },
-  { "id": 75, "english": "body (living)", "mehrileh": "sdont", "pronunciation": "sdɔnt" },
-  { "id": 76, "english": "stripe", "mehrileh": "mnehd", "pronunciation": "mnɛd" },
-  { "id": 77, "english": "and", "mehrileh": "veh", "pronunciation": "vɛ" },
-  { "id": 78, "english": "cry/weep", "mehrileh": "buln", "pronunciation": "buln" },
-  { "id": 79, "english": "wall/side/enclose/trap/imprison", "mehrileh": "tal", "pronunciation": "tal" },
-  { "id": 80, "english": "fox", "mehrileh": "smal", "pronunciation": "smal" },
-  { "id": 81, "english": "place/put", "mehrileh": "hehst", "pronunciation": "hɛst" },
-  { "id": 82, "english": "air", "mehrileh": "vho", "pronunciation": "ðɔ" },
-  { "id": 83, "english": "leaf", "mehrileh": "joyl", "pronunciation": "ʒɔɪl" },
-  { "id": 84, "english": "flower", "mehrileh": "pung", "pronunciation": "puŋ" },
-  { "id": 85, "english": "arm", "mehrileh": "geus", "pronunciation": "gəs" },
-  { "id": 86, "english": "skin/covering/wrapping", "mehrileh": "mlehvh", "pronunciation": "mlɛð" },
-  { "id": 87, "english": "or", "mehrileh": "leh", "pronunciation": "lɛ" },
-  { "id": 88, "english": "chicken", "mehrileh": "siw", "pronunciation": "siw" },
-  { "id": 89, "english": "fall", "mehrileh": "yiwi", "pronunciation": "jiwi" },
-  { "id": 90, "english": "base/foundation", "mehrileh": "sang", "pronunciation": "saŋ" }
+  {
+    "id": 1,
+    "english": "world",
+    "mehrileh": "tshihv",
+    "pronunciation": "tʃɪv",
+    "englishFull": "the world, the server",
+    "class": "noun"
+  },
+  {
+    "id": 2,
+    "english": "server",
+    "mehrileh": "tshihv",
+    "pronunciation": "tʃɪv",
+    "englishFull": "the world, the server",
+    "class": "noun"
+  },
+  {
+    "id": 3,
+    "english": "mob",
+    "mehrileh": "mehy",
+    "pronunciation": "mɛɪ",
+    "englishFull": "a mob, an animal (excluding horses)",
+    "class": "noun"
+  },
+  {
+    "id": 4,
+    "english": "animal",
+    "mehrileh": "mehy",
+    "pronunciation": "mɛɪ",
+    "englishFull": "a mob, an animal (excluding horses)",
+    "class": "noun"
+  },
+  {
+    "id": 5,
+    "english": "tree",
+    "mehrileh": "thiy",
+    "pronunciation": "θij",
+    "englishFull": "a tree",
+    "class": "noun"
+  },
+  {
+    "id": 6,
+    "english": "grass",
+    "mehrileh": "moz",
+    "pronunciation": "mɔz",
+    "englishFull": "grass, uncommonly: dirt, the ground",
+    "class": "noun"
+  },
+  {
+    "id": 7,
+    "english": "dirt",
+    "mehrileh": "moz",
+    "pronunciation": "mɔz",
+    "englishFull": "grass, uncommonly: dirt, the ground",
+    "class": "noun"
+  },
+  {
+    "id": 8,
+    "english": "ground",
+    "mehrileh": "moz",
+    "pronunciation": "mɔz",
+    "englishFull": "grass, uncommonly: dirt, the ground",
+    "class": "noun"
+  },
+  {
+    "id": 9,
+    "english": "sun",
+    "mehrileh": "tshola",
+    "pronunciation": "tʃɔla",
+    "englishFull": "the sun, in mythology, the sun-god responsible for creating humanity and all other living creatures as well as the land",
+    "class": "noun"
+  },
+  {
+    "id": 10,
+    "english": "sun-god",
+    "mehrileh": "tshola",
+    "pronunciation": "tʃɔla",
+    "englishFull": "the sun, in mythology, the sun-god responsible for creating humanity and all other living creatures as well as the land",
+    "class": "noun"
+  },
+  {
+    "id": 11,
+    "english": "stone",
+    "mehrileh": "toch",
+    "pronunciation": "tɔχ",
+    "englishFull": "stone, cobblestone, a rock, any type of stone",
+    "class": "noun"
+  },
+  {
+    "id": 12,
+    "english": "cobblestone",
+    "mehrileh": "toch",
+    "pronunciation": "tɔχ",
+    "englishFull": "stone, cobblestone, a rock, any type of stone",
+    "class": "noun"
+  },
+  {
+    "id": 13,
+    "english": "rock",
+    "mehrileh": "toch",
+    "pronunciation": "tɔχ",
+    "englishFull": "stone, cobblestone, a rock, any type of stone",
+    "class": "noun"
+  },
+  {
+    "id": 14,
+    "english": "vision",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "field of vision, area of sight, vision",
+    "class": "noun"
+  },
+  {
+    "id": 15,
+    "english": "sight",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "field of vision, area of sight, vision",
+    "class": "noun"
+  },
+  {
+    "id": 16,
+    "english": "see",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "to see, to percieve, to know, to look at, to think",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 17,
+    "english": "perceive",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "to see, to percieve, to know, to look at, to think",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 18,
+    "english": "know",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "to see, to percieve, to know, to look at, to think",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 19,
+    "english": "look at",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "to see, to percieve, to know, to look at, to think",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 20,
+    "english": "think",
+    "mehrileh": "niy",
+    "pronunciation": "nij",
+    "englishFull": "to see, to percieve, to know, to look at, to think",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 21,
+    "english": "do",
+    "mehrileh": "mihn",
+    "pronunciation": "mɪn",
+    "englishFull": "to do, (archaic) to mine",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 22,
+    "english": "mine",
+    "mehrileh": "mihn",
+    "pronunciation": "mɪn",
+    "englishFull": "to do, (archaic) to mine",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 23,
+    "english": "craft",
+    "mehrileh": "krhach",
+    "pronunciation": "kʁaχ",
+    "englishFull": "to craft, to make, to create, colloquially, to work",
+    "class": "verb"
+  },
+  {
+    "id": 24,
+    "english": "make",
+    "mehrileh": "krhach",
+    "pronunciation": "kʁaχ",
+    "englishFull": "to craft, to make, to create, colloquially, to work",
+    "class": "verb"
+  },
+  {
+    "id": 25,
+    "english": "create",
+    "mehrileh": "krhach",
+    "pronunciation": "kʁaχ",
+    "englishFull": "to craft, to make, to create, colloquially, to work",
+    "class": "verb"
+  },
+  {
+    "id": 26,
+    "english": "work",
+    "mehrileh": "krhach",
+    "pronunciation": "kʁaχ",
+    "englishFull": "to craft, to make, to create, colloquially, to work",
+    "class": "verb"
+  },
+  {
+    "id": 27,
+    "english": "fire",
+    "mehrileh": "ladjo",
+    "pronunciation": "ladʒɔ",
+    "englishFull": "fire",
+    "class": "noun"
+  },
+  {
+    "id": 28,
+    "english": "light on fire",
+    "mehrileh": "ladjo",
+    "pronunciation": "ladʒɔ",
+    "englishFull": "to light something on fire, to burn",
+    "class": "verb"
+  },
+  {
+    "id": 29,
+    "english": "burn",
+    "mehrileh": "ladjo",
+    "pronunciation": "ladʒɔ",
+    "englishFull": "to light something on fire, to burn",
+    "class": "verb"
+  },
+  {
+    "id": 30,
+    "english": "mery person",
+    "mehrileh": "mehri",
+    "pronunciation": "mɛri",
+    "englishFull": "a Mery person (apart of the Mery people), the Mery people",
+    "class": "noun"
+  },
+  {
+    "id": 31,
+    "english": "mery people",
+    "mehrileh": "mehri",
+    "pronunciation": "mɛri",
+    "englishFull": "a Mery person (apart of the Mery people), the Mery people",
+    "class": "noun"
+  },
+  {
+    "id": 32,
+    "english": "mery",
+    "mehrileh": "mehri",
+    "pronunciation": "mɛri",
+    "englishFull": "relating to a Mery person (apart of the Mery people) or the Mery people",
+    "class": "adjective"
+  },
+  {
+    "id": 33,
+    "english": "water",
+    "mehrileh": "lo",
+    "pronunciation": "lɔ",
+    "englishFull": "water",
+    "class": "noun"
+  },
+  {
+    "id": 34,
+    "english": "big",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 35,
+    "english": "tall",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 36,
+    "english": "imposing",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 37,
+    "english": "serious",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 38,
+    "english": "old",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 39,
+    "english": "more",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "big, tall, imposing, serious, old, more",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 40,
+    "english": "head",
+    "mehrileh": "krha",
+    "pronunciation": "kʁa",
+    "englishFull": "the head (from: shankrha)",
+    "class": "noun"
+  },
+  {
+    "id": 41,
+    "english": "small",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 42,
+    "english": "short",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 43,
+    "english": "innocent",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 44,
+    "english": "childish",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 45,
+    "english": "young",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 46,
+    "english": "less",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "small, short, innocent, childish, young, less",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 47,
+    "english": "child",
+    "mehrileh": "mi",
+    "pronunciation": "mi",
+    "englishFull": "a child (especially of an animal)",
+    "class": "noun"
+  },
+  {
+    "id": 48,
+    "english": "path",
+    "mehrileh": "limeh",
+    "pronunciation": "limɛ",
+    "englishFull": "a path, a road",
+    "class": "noun"
+  },
+  {
+    "id": 49,
+    "english": "road",
+    "mehrileh": "limeh",
+    "pronunciation": "limɛ",
+    "englishFull": "a path, a road",
+    "class": "noun"
+  },
+  {
+    "id": 50,
+    "english": "go",
+    "mehrileh": "limeh",
+    "pronunciation": "limɛ",
+    "englishFull": "to go, to walk with the intention of going to a destination",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 51,
+    "english": "walk",
+    "mehrileh": "limeh",
+    "pronunciation": "limɛ",
+    "englishFull": "to go, to walk with the intention of going to a destination",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 52,
+    "english": "haunt",
+    "mehrileh": "zrha",
+    "pronunciation": "zʁa",
+    "englishFull": "to haunt, to terrify, to cause nightmares, to torment",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 53,
+    "english": "terrify",
+    "mehrileh": "zrha",
+    "pronunciation": "zʁa",
+    "englishFull": "to haunt, to terrify, to cause nightmares, to torment",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 54,
+    "english": "cause nightmares",
+    "mehrileh": "zrha",
+    "pronunciation": "zʁa",
+    "englishFull": "to haunt, to terrify, to cause nightmares, to torment",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 55,
+    "english": "torment",
+    "mehrileh": "zrha",
+    "pronunciation": "zʁa",
+    "englishFull": "to haunt, to terrify, to cause nightmares, to torment",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 56,
+    "english": "night time",
+    "mehrileh": "sithrol",
+    "pronunciation": "siθrɔl",
+    "englishFull": "night time, darkness, in mythology: an evil being chased to the center of the earth by Tshola",
+    "class": "noun"
+  },
+  {
+    "id": 57,
+    "english": "darkness",
+    "mehrileh": "sithrol",
+    "pronunciation": "siθrɔl",
+    "englishFull": "night time, darkness, in mythology: an evil being chased to the center of the earth by Tshola",
+    "class": "noun"
+  },
+  {
+    "id": 58,
+    "english": "evil being",
+    "mehrileh": "sithrol",
+    "pronunciation": "siθrɔl",
+    "englishFull": "night time, darkness, in mythology: an evil being chased to the center of the earth by Tshola",
+    "class": "noun"
+  },
+  {
+    "id": 59,
+    "english": "the",
+    "mehrileh": "thi",
+    "pronunciation": "θi",
+    "englishFull": "the (singular); when used in front of an adj., turns the adj. into a noun representing the associated concept, ex: thi sithrol, evilness",
+    "class": "article"
+  },
+  {
+    "id": 60,
+    "english": "the",
+    "mehrileh": "thir",
+    "pronunciation": "θir",
+    "englishFull": "the (plural)",
+    "class": "article"
+  },
+  {
+    "id": 61,
+    "english": "be",
+    "mehrileh": "tehla",
+    "pronunciation": "tɛla",
+    "englishFull": "to be",
+    "class": "verb"
+  },
+  {
+    "id": 62,
+    "english": "realm",
+    "mehrileh": "djani",
+    "pronunciation": "dʒani",
+    "englishFull": "realm, land, territory",
+    "class": "noun"
+  },
+  {
+    "id": 63,
+    "english": "land",
+    "mehrileh": "djani",
+    "pronunciation": "dʒani",
+    "englishFull": "realm, land, territory",
+    "class": "noun"
+  },
+  {
+    "id": 64,
+    "english": "territory",
+    "mehrileh": "djani",
+    "pronunciation": "dʒani",
+    "englishFull": "realm, land, territory",
+    "class": "noun"
+  },
+  {
+    "id": 65,
+    "english": "sky",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "the sky, the heavens",
+    "class": "noun"
+  },
+  {
+    "id": 66,
+    "english": "heavens",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "the sky, the heavens",
+    "class": "noun"
+  },
+  {
+    "id": 67,
+    "english": "sky-gaze",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "to sky-gaze, to rest, to be at peace, to be free",
+    "class": "verb (intransitive)"
+  },
+  {
+    "id": 68,
+    "english": "rest",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "to sky-gaze, to rest, to be at peace, to be free",
+    "class": "verb (intransitive)"
+  },
+  {
+    "id": 69,
+    "english": "be at peace",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "to sky-gaze, to rest, to be at peace, to be free",
+    "class": "verb (intransitive)"
+  },
+  {
+    "id": 70,
+    "english": "be free",
+    "mehrileh": "tawir",
+    "pronunciation": "tawir",
+    "englishFull": "to sky-gaze, to rest, to be at peace, to be free",
+    "class": "verb (intransitive)"
+  },
+  {
+    "id": 71,
+    "english": "horse",
+    "mehrileh": "sha'yo",
+    "pronunciation": "ʃa.jɔ",
+    "englishFull": "a horse",
+    "class": "noun"
+  },
+  {
+    "id": 72,
+    "english": "something",
+    "mehrileh": "tili",
+    "pronunciation": "tili",
+    "englishFull": "something, any object or thing, a thing, a block",
+    "class": "noun"
+  },
+  {
+    "id": 73,
+    "english": "object",
+    "mehrileh": "tili",
+    "pronunciation": "tili",
+    "englishFull": "something, any object or thing, a thing, a block",
+    "class": "noun"
+  },
+  {
+    "id": 74,
+    "english": "thing",
+    "mehrileh": "tili",
+    "pronunciation": "tili",
+    "englishFull": "something, any object or thing, a thing, a block",
+    "class": "noun"
+  },
+  {
+    "id": 75,
+    "english": "block",
+    "mehrileh": "tili",
+    "pronunciation": "tili",
+    "englishFull": "something, any object or thing, a thing, a block",
+    "class": "noun"
+  },
+  {
+    "id": 76,
+    "english": "color",
+    "mehrileh": "got",
+    "pronunciation": "gɔt",
+    "englishFull": "a color",
+    "class": "noun"
+  },
+  {
+    "id": 77,
+    "english": "mouth",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "a mouth, a language, an ambassador/speaker (ex: Lato Mehriteht Mehdishil, Mouth of the Mery to the Medi Sea, or Ambassador to the Medi Sea)",
+    "class": "noun"
+  },
+  {
+    "id": 78,
+    "english": "language",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "a mouth, a language, an ambassador/speaker (ex: Lato Mehriteht Mehdishil, Mouth of the Mery to the Medi Sea, or Ambassador to the Medi Sea)",
+    "class": "noun"
+  },
+  {
+    "id": 79,
+    "english": "ambassador",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "a mouth, a language, an ambassador/speaker (ex: Lato Mehriteht Mehdishil, Mouth of the Mery to the Medi Sea, or Ambassador to the Medi Sea)",
+    "class": "noun"
+  },
+  {
+    "id": 80,
+    "english": "speaker",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "a mouth, a language, an ambassador/speaker (ex: Lato Mehriteht Mehdishil, Mouth of the Mery to the Medi Sea, or Ambassador to the Medi Sea)",
+    "class": "noun"
+  },
+  {
+    "id": 81,
+    "english": "speak",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "to speak, to say, to call someone by name",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 82,
+    "english": "say",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "to speak, to say, to call someone by name",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 83,
+    "english": "call by name",
+    "mehrileh": "lato",
+    "pronunciation": "latɔ",
+    "englishFull": "to speak, to say, to call someone by name",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 84,
+    "english": "wander",
+    "mehrileh": "tehreh",
+    "pronunciation": "tɛrɛ",
+    "englishFull": "to go or walk without intention, to wander",
+    "class": "verb (intransitive)"
+  },
+  {
+    "id": 85,
+    "english": "cow",
+    "mehrileh": "meul",
+    "pronunciation": "məl",
+    "englishFull": "a cow, bull or buffalo, colloquially: essentially any large land mammal",
+    "class": "noun"
+  },
+  {
+    "id": 86,
+    "english": "bull",
+    "mehrileh": "meul",
+    "pronunciation": "məl",
+    "englishFull": "a cow, bull or buffalo, colloquially: essentially any large land mammal",
+    "class": "noun"
+  },
+  {
+    "id": 87,
+    "english": "buffalo",
+    "mehrileh": "meul",
+    "pronunciation": "məl",
+    "englishFull": "a cow, bull or buffalo, colloquially: essentially any large land mammal",
+    "class": "noun"
+  },
+  {
+    "id": 88,
+    "english": "large land mammal",
+    "mehrileh": "meul",
+    "pronunciation": "məl",
+    "englishFull": "a cow, bull or buffalo, colloquially: essentially any large land mammal",
+    "class": "noun"
+  },
+  {
+    "id": 89,
+    "english": "half",
+    "mehrileh": "heulm",
+    "pronunciation": "həlm",
+    "englishFull": "a half",
+    "class": "noun"
+  },
+  {
+    "id": 90,
+    "english": "many",
+    "mehrileh": "ra",
+    "pronunciation": "ra",
+    "englishFull": "many, much, shared, mutual",
+    "class": "adjective"
+  },
+  {
+    "id": 91,
+    "english": "much",
+    "mehrileh": "ra",
+    "pronunciation": "ra",
+    "englishFull": "many, much, shared, mutual",
+    "class": "adjective"
+  },
+  {
+    "id": 92,
+    "english": "shared",
+    "mehrileh": "ra",
+    "pronunciation": "ra",
+    "englishFull": "many, much, shared, mutual",
+    "class": "adjective"
+  },
+  {
+    "id": 93,
+    "english": "mutual",
+    "mehrileh": "ra",
+    "pronunciation": "ra",
+    "englishFull": "many, much, shared, mutual",
+    "class": "adjective"
+  },
+  {
+    "id": 94,
+    "english": "share with",
+    "mehrileh": "ra",
+    "pronunciation": "ra",
+    "englishFull": "to share with",
+    "class": "verb"
+  },
+  {
+    "id": 95,
+    "english": "direction",
+    "mehrileh": "chla",
+    "pronunciation": "χla",
+    "englishFull": "direction",
+    "class": "noun"
+  },
+  {
+    "id": 96,
+    "english": "eastern",
+    "mehrileh": "na",
+    "pronunciation": "na",
+    "englishFull": "eastern",
+    "class": "adjective"
+  },
+  {
+    "id": 97,
+    "english": "western",
+    "mehrileh": "ta",
+    "pronunciation": "ta",
+    "englishFull": "western",
+    "class": "adjective"
+  },
+  {
+    "id": 98,
+    "english": "northern",
+    "mehrileh": "hweh",
+    "pronunciation": "ɦɛ",
+    "englishFull": "northern",
+    "class": "adjective"
+  },
+  {
+    "id": 99,
+    "english": "southern",
+    "mehrileh": "vweh",
+    "pronunciation": "vwɛ",
+    "englishFull": "southern",
+    "class": "adjective"
+  },
+  {
+    "id": 100,
+    "english": "day",
+    "mehrileh": "dan",
+    "pronunciation": "dan",
+    "englishFull": "a day, today",
+    "class": "noun"
+  },
+    {
+    "id": 101,
+    "english": "today",
+    "mehrileh": "dan",
+    "pronunciation": "dan",
+    "englishFull": "a day, today",
+    "class": "noun"
+  },
+  {
+    "id": 102,
+    "english": "today",
+    "mehrileh": "dan",
+    "pronunciation": "dan",
+    "englishFull": "today",
+    "class": "adverb"
+  },
+  {
+    "id": 103,
+    "english": "have",
+    "mehrileh": "zyeh",
+    "pronunciation": "zjɛ",
+    "englishFull": "to have, to wear",
+    "class": "verb"
+  },
+  {
+    "id": 104,
+    "english": "wear",
+    "mehrileh": "zyeh",
+    "pronunciation": "zjɛ",
+    "englishFull": "to have, to wear",
+    "class": "verb"
+  },
+  {
+    "id": 105,
+    "english": "start",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "a start, when used with thi (the): the birth (of someone)",
+    "class": "noun"
+  },
+  {
+    "id": 106,
+    "english": "birth",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "a start, when used with thi (the): the birth (of someone)",
+    "class": "noun"
+  },
+  {
+    "id": 107,
+    "english": "end",
+    "mehrileh": "fihla",
+    "pronunciation": "fɪla",
+    "englishFull": "an end, when used with thi (the): the death (of someone)",
+    "class": "noun"
+  },
+  {
+    "id": 108,
+    "english": "death",
+    "mehrileh": "fihla",
+    "pronunciation": "fɪla",
+    "englishFull": "an end, when used with thi (the): the death (of someone)",
+    "class": "noun"
+  },
+  {
+    "id": 109,
+    "english": "begin",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "to begin, to start, to commence, often inflected -tala on a verb to mean \"to start x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 110,
+    "english": "start",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "to begin, to start, to commence, often inflected -tala on a verb to mean \"to start x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 111,
+    "english": "commence",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "to begin, to start, to commence, often inflected -tala on a verb to mean \"to start x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 112,
+    "english": "end",
+    "mehrileh": "fihla",
+    "pronunciation": "fɪla",
+    "englishFull": "to end, to stop, to finish, often inflected -fihla on a verb to mean \"to end x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 113,
+    "english": "stop",
+    "mehrileh": "fihla",
+    "pronunciation": "fɪla",
+    "englishFull": "to end, to stop, to finish, often inflected -fihla on a verb to mean \"to end x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 114,
+    "english": "finish",
+    "mehrileh": "fihla",
+    "pronunciation": "fɪla",
+    "englishFull": "to end, to stop, to finish, often inflected -fihla on a verb to mean \"to end x verb\"",
+    "class": "verb"
+  },
+  {
+    "id": 115,
+    "english": "take",
+    "mehrileh": "prang",
+    "pronunciation": "praŋ",
+    "englishFull": "to take, to recieve",
+    "class": "verb"
+  },
+  {
+    "id": 116,
+    "english": "receive",
+    "mehrileh": "prang",
+    "pronunciation": "praŋ",
+    "englishFull": "to take, to recieve",
+    "class": "verb"
+  },
+  {
+    "id": 117,
+    "english": "command",
+    "mehrileh": "frostsh",
+    "pronunciation": "frɔstʃ",
+    "englishFull": "to command",
+    "class": "verb"
+  },
+  {
+    "id": 118,
+    "english": "like",
+    "mehrileh": "tshil",
+    "pronunciation": "tʃil",
+    "englishFull": "to like or love",
+    "class": "verb"
+  },
+  {
+    "id": 119,
+    "english": "love",
+    "mehrileh": "tshil",
+    "pronunciation": "tʃil",
+    "englishFull": "to like or love",
+    "class": "verb"
+  },
+  {
+    "id": 120,
+    "english": "friendship",
+    "mehrileh": "tshil",
+    "pronunciation": "tʃil",
+    "englishFull": "the concept of friendship",
+    "class": "noun"
+  },
+  {
+    "id": 121,
+    "english": "hunt",
+    "mehrileh": "vheuleh",
+    "pronunciation": "ðəlɛ",
+    "englishFull": "to hunt",
+    "class": "verb"
+  },
+  {
+    "id": 122,
+    "english": "place",
+    "mehrileh": "gul",
+    "pronunciation": "gul",
+    "englishFull": "a place, an area",
+    "class": "noun"
+  },
+  {
+    "id": 123,
+    "english": "area",
+    "mehrileh": "gul",
+    "pronunciation": "gul",
+    "englishFull": "a place, an area",
+    "class": "noun"
+  },
+  {
+    "id": 124,
+    "english": "tool",
+    "mehrileh": "tor",
+    "pronunciation": "tor",
+    "englishFull": "a tool",
+    "class": "noun"
+  },
+  {
+    "id": 125,
+    "english": "use",
+    "mehrileh": "tor",
+    "pronunciation": "tor",
+    "englishFull": "to use",
+    "class": "verb"
+  },
+  {
+    "id": 126,
+    "english": "shine",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "to shine (on), to help, to sacrifice to, can be inflected \"-rha'ya\" after an verb to mean \"helping to..\"",
+    "class": "verb"
+  },
+  {
+    "id": 127,
+    "english": "help",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "to shine (on), to help, to sacrifice to, can be inflected \"-rha'ya\" after an verb to mean \"helping to..\"",
+    "class": "verb"
+  },
+  {
+    "id": 128,
+    "english": "sacrifice to",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "to shine (on), to help, to sacrifice to, can be inflected \"-rha'ya\" after an verb to mean \"helping to..\"",
+    "class": "verb"
+  },
+  {
+    "id": 129,
+    "english": "light",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 130,
+    "english": "ray of light",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 131,
+    "english": "sunray",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 132,
+    "english": "sunbeam",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 133,
+    "english": "aid",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 134,
+    "english": "sacrifice",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 135,
+    "english": "help",
+    "mehrileh": "rha'ya",
+    "pronunciation": "ʁaja",
+    "englishFull": "light, a ray of light, a sunray, a sunbeam, aid (especially to tshola), a \"sacrifice\"/a help",
+    "class": "noun"
+  },
+  {
+    "id": 136,
+    "english": "nothing",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 137,
+    "english": "zero",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 138,
+    "english": "no",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 139,
+    "english": "not",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 140,
+    "english": "none",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 141,
+    "english": "without",
+    "mehrileh": "nil",
+    "pronunciation": "nil",
+    "englishFull": "nothing, the number zero, no, not, none, without (in mythology, \"thi nil\" is the great void surrounding the earth, where the Lords live)",
+    "class": "noun"
+  },
+  {
+    "id": 142,
+    "english": "be similar to",
+    "mehrileh": "teht",
+    "pronunciation": "tɛt",
+    "englishFull": "to be similar to, to bear ressemblances to",
+    "class": "verb"
+  },
+  {
+    "id": 143,
+    "english": "bear resemblances to",
+    "mehrileh": "teht",
+    "pronunciation": "tɛt",
+    "englishFull": "to be similar to, to bear ressemblances to",
+    "class": "verb"
+  },
+  {
+    "id": 144,
+    "english": "as",
+    "mehrileh": "teht",
+    "pronunciation": "tɛt",
+    "englishFull": "as (like in the sentence: \"they do as they wish\", or \"to see water as lava\")",
+    "class": "conjunction"
+  },
+  {
+    "id": 145,
+    "english": "of",
+    "mehrileh": "teht",
+    "pronunciation": "tɛt",
+    "englishFull": "of, relating to",
+    "class": "postposition"
+  },
+  {
+    "id": 146,
+    "english": "relating to",
+    "mehrileh": "teht",
+    "pronunciation": "tɛt",
+    "englishFull": "of, relating to",
+    "class": "postposition"
+  },
+  {
+    "id": 147,
+    "english": "after",
+    "mehrileh": "chiya",
+    "pronunciation": "χija",
+    "englishFull": "after, under, forwards in time, inferior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 148,
+    "english": "under",
+    "mehrileh": "chiya",
+    "pronunciation": "χija",
+    "englishFull": "after, under, forwards in time, inferior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 149,
+    "english": "forwards in time",
+    "mehrileh": "chiya",
+    "pronunciation": "χija",
+    "englishFull": "after, under, forwards in time, inferior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 150,
+    "english": "inferior to",
+    "mehrileh": "chiya",
+    "pronunciation": "χija",
+    "englishFull": "after, under, forwards in time, inferior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 151,
+    "english": "before",
+    "mehrileh": "shan'g",
+    "pronunciation": "ʃang",
+    "englishFull": "before, over, backwards in time, superior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 152,
+    "english": "over",
+    "mehrileh": "shan'g",
+    "pronunciation": "ʃang",
+    "englishFull": "before, over, backwards in time, superior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 153,
+    "english": "backwards in time",
+    "mehrileh": "shan'g",
+    "pronunciation": "ʃang",
+    "englishFull": "before, over, backwards in time, superior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 154,
+    "english": "superior to",
+    "mehrileh": "shan'g",
+    "pronunciation": "ʃang",
+    "englishFull": "before, over, backwards in time, superior to (judgement)",
+    "class": "postposition"
+  },
+  {
+    "id": 155,
+    "english": "from",
+    "mehrileh": "shal",
+    "pronunciation": "ʃal",
+    "englishFull": "from (location, or someone/something), by (someone/something)",
+    "class": "postpositon"
+  },
+  {
+    "id": 156,
+    "english": "by",
+    "mehrileh": "shal",
+    "pronunciation": "ʃal",
+    "englishFull": "from (location, or someone/something), by (someone/something)",
+    "class": "postpositon"
+  },
+  {
+    "id": 157,
+    "english": "to",
+    "mehrileh": "shil",
+    "pronunciation": "ʃil",
+    "englishFull": "to (location), for (someone/something)",
+    "class": "postpositon"
+  },
+  {
+    "id": 158,
+    "english": "for",
+    "mehrileh": "shil",
+    "pronunciation": "ʃil",
+    "englishFull": "to (location), for (someone/something)",
+    "class": "postpositon"
+  },
+  {
+    "id": 159,
+    "english": "through",
+    "mehrileh": "tshali",
+    "pronunciation": "tʃali",
+    "englishFull": "through",
+    "class": "postposition"
+  },
+  {
+    "id": 160,
+    "english": "between",
+    "mehrileh": "tati",
+    "pronunciation": "tati",
+    "englishFull": "between",
+    "class": "postposition"
+  },
+  {
+    "id": 161,
+    "english": "in",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "in/at/by, here (closeby)",
+    "class": "postposition"
+  },
+  {
+    "id": 162,
+    "english": "at",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "in/at/by, here (closeby)",
+    "class": "postposition"
+  },
+  {
+    "id": 163,
+    "english": "by",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "in/at/by, here (closeby)",
+    "class": "postposition"
+  },
+  {
+    "id": 164,
+    "english": "here",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "in/at/by, here (closeby)",
+    "class": "postposition"
+  },
+  {
+    "id": 165,
+    "english": "close",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "close(by), near(by)",
+    "class": "adjective"
+  },
+  {
+    "id": 166,
+    "english": "near",
+    "mehrileh": "tutsh",
+    "pronunciation": "tutʃ",
+    "englishFull": "close(by), near(by)",
+    "class": "adjective"
+  },
+  {
+    "id": 167,
+    "english": "give",
+    "mehrileh": "dehneh",
+    "pronunciation": "dɛnɛ",
+    "englishFull": "to give, to gift",
+    "class": "verb"
+  },
+  {
+    "id": 168,
+    "english": "gift",
+    "mehrileh": "dehneh",
+    "pronunciation": "dɛnɛ",
+    "englishFull": "to give, to gift",
+    "class": "verb"
+  },
+  {
+    "id": 169,
+    "english": "gift",
+    "mehrileh": "dehneh",
+    "pronunciation": "dɛnɛ",
+    "englishFull": "a gift",
+    "class": "noun"
+  },
+  {
+    "id": 170,
+    "english": "of",
+    "mehrileh": "tig",
+    "pronunciation": "tig",
+    "englishFull": "of, relating to (archaic)",
+    "class": "postposition"
+  },
+  {
+    "id": 171,
+    "english": "relating to",
+    "mehrileh": "tig",
+    "pronunciation": "tig",
+    "englishFull": "of, relating to (archaic)",
+    "class": "postposition"
+  },
+  {
+    "id": 172,
+    "english": "every",
+    "mehrileh": "rara",
+    "pronunciation": "ra",
+    "englishFull": "every, often inflected \"-rara\"",
+    "class": "adjective"
+  },
+  {
+    "id": 173,
+    "english": "if",
+    "mehrileh": "feh",
+    "pronunciation": "fɛ",
+    "englishFull": "if (archaic)",
+    "class": "conjunction"
+  },
+  {
+    "id": 174,
+    "english": "clay",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "clay, a clay tablet, a book, a document",
+    "class": "noun"
+  },
+  {
+    "id": 175,
+    "english": "clay tablet",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "clay, a clay tablet, a book, a document",
+    "class": "noun"
+  },
+  {
+    "id": 176,
+    "english": "book",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "clay, a clay tablet, a book, a document",
+    "class": "noun"
+  },
+  {
+    "id": 177,
+    "english": "document",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "clay, a clay tablet, a book, a document",
+    "class": "noun"
+  },
+  {
+    "id": 178,
+    "english": "write",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "to write (originally: on a clay tablet)",
+    "class": "verb"
+  },
+  {
+    "id": 179,
+    "english": "ink",
+    "mehrileh": "shleun",
+    "pronunciation": "ʃløn",
+    "englishFull": "ink",
+    "class": "noun"
+  },
+  {
+    "id": 180,
+    "english": "food",
+    "mehrileh": "tarhk",
+    "pronunciation": "taʁk",
+    "englishFull": "food",
+    "class": "noun"
+  },
+  {
+    "id": 181,
+    "english": "blood",
+    "mehrileh": "veh'ya",
+    "pronunciation": "vɛja",
+    "englishFull": "blood, soul (the mery believe these to be the same)",
+    "class": "noun"
+  },
+  {
+    "id": 182,
+    "english": "soul",
+    "mehrileh": "veh'ya",
+    "pronunciation": "vɛja",
+    "englishFull": "blood, soul (the mery believe these to be the same)",
+    "class": "noun"
+  },
+  {
+    "id": 183,
+    "english": "wind",
+    "mehrileh": "shul",
+    "pronunciation": "ʃul",
+    "englishFull": "wind",
+    "class": "noun"
+  },
+  {
+    "id": 184,
+    "english": "time",
+    "mehrileh": "yehta",
+    "pronunciation": "jɛta",
+    "englishFull": "(the concept of) time (borrowed from the Jevokro'uv word \"eta\")",
+    "class": "noun"
+  },
+  {
+    "id": 185,
+    "english": "body",
+    "mehrileh": "sdont",
+    "pronunciation": "sdɔnt",
+    "englishFull": "a (living) body",
+    "class": "noun"
+  },
+  {
+    "id": 186,
+    "english": "stripe",
+    "mehrileh": "mnehd",
+    "pronunciation": "mnɛd",
+    "englishFull": "a stripe, an element in a pattern, a subdivision",
+    "class": "noun"
+  },
+  {
+    "id": 187,
+    "english": "element in a pattern",
+    "mehrileh": "mnehd",
+    "pronunciation": "mnɛd",
+    "englishFull": "a stripe, an element in a pattern, a subdivision",
+    "class": "noun"
+  },
+  {
+    "id": 188,
+    "english": "subdivision",
+    "mehrileh": "mnehd",
+    "pronunciation": "mnɛd",
+    "englishFull": "a stripe, an element in a pattern, a subdivision",
+    "class": "noun"
+  },
+  {
+    "id": 189,
+    "english": "and",
+    "mehrileh": "veh",
+    "pronunciation": "vɛ",
+    "englishFull": "and",
+    "class": "conjunction"
+  },
+  {
+    "id": 190,
+    "english": "cry",
+    "mehrileh": "buln",
+    "pronunciation": "buln",
+    "englishFull": "to cry, to weep",
+    "class": "verb"
+  },
+  {
+    "id": 191,
+    "english": "weep",
+    "mehrileh": "buln",
+    "pronunciation": "buln",
+    "englishFull": "to cry, to weep",
+    "class": "verb"
+  },
+  {
+    "id": 192,
+    "english": "wall",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "a wall, especially of a house or structure, a side",
+    "class": "noun"
+  },
+  {
+    "id": 193,
+    "english": "side",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "a wall, especially of a house or structure, a side",
+    "class": "noun"
+  },
+  {
+    "id": 194,
+    "english": "wall",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "to wall, to enclose, to trap, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 195,
+    "english": "enclose",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "to wall, to enclose, to trap, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 196,
+    "english": "trap",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "to wall, to enclose, to trap, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 197,
+    "english": "imprison",
+    "mehrileh": "tal",
+    "pronunciation": "tal",
+    "englishFull": "to wall, to enclose, to trap, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 198,
+    "english": "fox",
+    "mehrileh": "smal",
+    "pronunciation": "smal",
+    "englishFull": "a fox",
+    "class": "noun"
+  },
+  {
+    "id": 199,
+    "english": "place",
+    "mehrileh": "hehst",
+    "pronunciation": "hɛst",
+    "englishFull": "to place (a block), to put",
+    "class": "verb"
+  },
+  {
+    "id": 200,
+    "english": "put",
+    "mehrileh": "hehst",
+    "pronunciation": "hɛst",
+    "englishFull": "to place (a block), to put",
+    "class": "verb"
+  },
+    {
+    "id": 201,
+    "english": "air",
+    "mehrileh": "vho",
+    "pronunciation": "ðɔ",
+    "englishFull": "air",
+    "class": "noun"
+  },
+  {
+    "id": 202,
+    "english": "leaf",
+    "mehrileh": "joyl",
+    "pronunciation": "ʒɔɪl",
+    "englishFull": "a leaf",
+    "class": "noun"
+  },
+  {
+    "id": 203,
+    "english": "flower",
+    "mehrileh": "pung",
+    "pronunciation": "puŋ",
+    "englishFull": "a flower",
+    "class": "noun"
+  },
+  {
+    "id": 204,
+    "english": "arm",
+    "mehrileh": "geus",
+    "pronunciation": "gəs",
+    "englishFull": "an arm (of a human or horse body)",
+    "class": "noun"
+  },
+  {
+    "id": 205,
+    "english": "skin",
+    "mehrileh": "mlehvh",
+    "pronunciation": "mlɛð",
+    "englishFull": "skin, a covering of something, a wrapping of something",
+    "class": "noun"
+  },
+  {
+    "id": 206,
+    "english": "covering",
+    "mehrileh": "mlehvh",
+    "pronunciation": "mlɛð",
+    "englishFull": "skin, a covering of something, a wrapping of something",
+    "class": "noun"
+  },
+  {
+    "id": 207,
+    "english": "wrapping",
+    "mehrileh": "mlehvh",
+    "pronunciation": "mlɛð",
+    "englishFull": "skin, a covering of something, a wrapping of something",
+    "class": "noun"
+  },
+  {
+    "id": 208,
+    "english": "or",
+    "mehrileh": "leh",
+    "pronunciation": "lɛ",
+    "englishFull": "or",
+    "class": "conjunction"
+  },
+  {
+    "id": 209,
+    "english": "lowtuff actor",
+    "mehrileh": "lotihf",
+    "pronunciation": "lɔtɪf",
+    "englishFull": "actor playing the role of \"lowtuff\" in the Mery initiation ritual (usually \"thi lotihf\", the lowtuff, when describing in a specific ritual), or the real Lowtuff",
+    "class": "noun"
+  },
+  {
+    "id": 210,
+    "english": "chicken",
+    "mehrileh": "siw",
+    "pronunciation": "siw",
+    "englishFull": "a chicken",
+    "class": "noun"
+  },
+  {
+    "id": 211,
+    "english": "fall",
+    "mehrileh": "yiwi",
+    "pronunciation": "jiwi",
+    "englishFull": "to fall",
+    "class": "verb"
+  },
+  {
+    "id": 212,
+    "english": "base",
+    "mehrileh": "sang",
+    "pronunciation": "saŋ",
+    "englishFull": "base, foundation",
+    "class": "noun"
+  },
+  {
+    "id": 213,
+    "english": "foundation",
+    "mehrileh": "sang",
+    "pronunciation": "saŋ",
+    "englishFull": "base, foundation",
+    "class": "noun"
+  },
+  {
+    "id": 214,
+    "english": "i",
+    "mehrileh": "tir",
+    "pronunciation": "tir",
+    "englishFull": "I, me, my, mine",
+    "class": "pronoun"
+  },
+  {
+    "id": 215,
+    "english": "me",
+    "mehrileh": "tir",
+    "pronunciation": "tir",
+    "englishFull": "I, me, my, mine",
+    "class": "pronoun"
+  },
+  {
+    "id": 216,
+    "english": "my",
+    "mehrileh": "tir",
+    "pronunciation": "tir",
+    "englishFull": "I, me, my, mine",
+    "class": "pronoun"
+  },
+  {
+    "id": 217,
+    "english": "mine",
+    "mehrileh": "tir",
+    "pronunciation": "tir",
+    "englishFull": "I, me, my, mine",
+    "class": "pronoun"
+  },
+  {
+    "id": 218,
+    "english": "you",
+    "mehrileh": "tshi",
+    "pronunciation": "tʃi",
+    "englishFull": "you, your, yours (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 219,
+    "english": "your",
+    "mehrileh": "tshi",
+    "pronunciation": "tʃi",
+    "englishFull": "you, your, yours (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 220,
+    "english": "yours",
+    "mehrileh": "tshi",
+    "pronunciation": "tʃi",
+    "englishFull": "you, your, yours (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 221,
+    "english": "they",
+    "mehrileh": "hehf",
+    "pronunciation": "hɛf",
+    "englishFull": "they, them, their, theirs (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 222,
+    "english": "them",
+    "mehrileh": "hehf",
+    "pronunciation": "hɛf",
+    "englishFull": "they, them, their, theirs (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 223,
+    "english": "their",
+    "mehrileh": "hehf",
+    "pronunciation": "hɛf",
+    "englishFull": "they, them, their, theirs (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 224,
+    "english": "theirs",
+    "mehrileh": "hehf",
+    "pronunciation": "hɛf",
+    "englishFull": "they, them, their, theirs (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 225,
+    "english": "we",
+    "mehrileh": "tiral",
+    "pronunciation": "tiral",
+    "englishFull": "inclusive we, us, our (includes the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 226,
+    "english": "us",
+    "mehrileh": "tiral",
+    "pronunciation": "tiral",
+    "englishFull": "inclusive we, us, our (includes the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 227,
+    "english": "our",
+    "mehrileh": "tiral",
+    "pronunciation": "tiral",
+    "englishFull": "inclusive we, us, our (includes the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 228,
+    "english": "we",
+    "mehrileh": "tirash",
+    "pronunciation": "tiraʃ",
+    "englishFull": "exclusive we, us, our (doesn't include the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 229,
+    "english": "us",
+    "mehrileh": "tirash",
+    "pronunciation": "tiraʃ",
+    "englishFull": "exclusive we, us, our (doesn't include the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 230,
+    "english": "our",
+    "mehrileh": "tirash",
+    "pronunciation": "tiraʃ",
+    "englishFull": "exclusive we, us, our (doesn't include the person being talked to)",
+    "class": "pronoun"
+  },
+  {
+    "id": 231,
+    "english": "you",
+    "mehrileh": "tshital",
+    "pronunciation": "tʃital",
+    "englishFull": "you, your, yours (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 232,
+    "english": "your",
+    "mehrileh": "tshital",
+    "pronunciation": "tʃital",
+    "englishFull": "you, your, yours (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 233,
+    "english": "yours",
+    "mehrileh": "tshital",
+    "pronunciation": "tʃital",
+    "englishFull": "you, your, yours (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 234,
+    "english": "they",
+    "mehrileh": "hehfal",
+    "pronunciation": "hɛfal",
+    "englishFull": "they, them, their, theirs (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 235,
+    "english": "them",
+    "mehrileh": "hehfal",
+    "pronunciation": "hɛfal",
+    "englishFull": "they, them, their, theirs (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 236,
+    "english": "their",
+    "mehrileh": "hehfal",
+    "pronunciation": "hɛfal",
+    "englishFull": "they, them, their, theirs (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 237,
+    "english": "theirs",
+    "mehrileh": "hehfal",
+    "pronunciation": "hɛfal",
+    "englishFull": "they, them, their, theirs (plural)",
+    "class": "pronoun"
+  },
+  {
+    "id": 238,
+    "english": "this",
+    "mehrileh": "yutsh",
+    "pronunciation": "jutʃ",
+    "englishFull": "this (thi tili tutsh (the thing here) ->thiyutsh->yutsh)",
+    "class": "pronoun"
+  },
+  {
+    "id": 239,
+    "english": "these",
+    "mehrileh": "yutshr",
+    "pronunciation": "jutʃr",
+    "englishFull": "these (thi tili tutsh (the thing here) ->thiyutsh->yutsh)",
+    "class": "pronoun"
+  },
+  {
+    "id": 240,
+    "english": "that",
+    "mehrileh": "yutral",
+    "pronunciation": "jutral",
+    "englishFull": "that which, that (yutsh+nitral, other)",
+    "class": "pronoun"
+  },
+  {
+    "id": 241,
+    "english": "those",
+    "mehrileh": "yutrar",
+    "pronunciation": "jutrar",
+    "englishFull": "those that, those",
+    "class": "pronoun"
+  },
+  {
+    "id": 242,
+    "english": "one who",
+    "mehrileh": "tarh",
+    "pronunciation": "taʁ",
+    "englishFull": "one who, ones who",
+    "class": "pronoun"
+  },
+  {
+    "id": 243,
+    "english": "ones who",
+    "mehrileh": "tarh",
+    "pronunciation": "taʁ",
+    "englishFull": "one who, ones who",
+    "class": "pronoun"
+  },
+  {
+    "id": 244,
+    "english": "who",
+    "mehrileh": "vhiv",
+    "pronunciation": "ðiv",
+    "englishFull": "who (singular) used in questions",
+    "class": "pronoun"
+  },
+  {
+    "id": 245,
+    "english": "who",
+    "mehrileh": "vhir",
+    "pronunciation": "ðir",
+    "englishFull": "who (plural) used in questions",
+    "class": "pronoun"
+  },
+  {
+    "id": 246,
+    "english": "what",
+    "mehrileh": "vhili",
+    "pronunciation": "ðili",
+    "englishFull": "what",
+    "class": "pronoun"
+  },
+  {
+    "id": 247,
+    "english": "it",
+    "mehrileh": "til",
+    "pronunciation": "til",
+    "englishFull": "it (singular)",
+    "class": "pronoun"
+  },
+  {
+    "id": 248,
+    "english": "it",
+    "mehrileh": "tilir",
+    "pronunciation": "tilir",
+    "englishFull": "it (plural)/they (impersonal)",
+    "class": "pronoun"
+  },
+  {
+    "id": 249,
+    "english": "they",
+    "mehrileh": "tilir",
+    "pronunciation": "tilir",
+    "englishFull": "it (plural)/they (impersonal)",
+    "class": "pronoun"
+  },
+  {
+    "id": 250,
+    "english": "every",
+    "mehrileh": "rara",
+    "pronunciation": "rara",
+    "englishFull": "every, everything",
+    "class": "pronoun"
+  },
+  {
+    "id": 251,
+    "english": "everything",
+    "mehrileh": "rara",
+    "pronunciation": "rara",
+    "englishFull": "every, everything",
+    "class": "pronoun"
+  },
+  {
+    "id": 252,
+    "english": "any",
+    "mehrileh": "fehr",
+    "pronunciation": "fɛr",
+    "englishFull": "any",
+    "class": "pronoun"
+  },
+  {
+    "id": 253,
+    "english": "anything",
+    "mehrileh": "tilifehr",
+    "pronunciation": "tilifɛr",
+    "englishFull": "anything",
+    "class": "pronoun"
+  },
+  {
+    "id": 254,
+    "english": "light blue",
+    "mehrileh": "wir",
+    "pronunciation": "wir",
+    "englishFull": "light blue, cyan, sky blue",
+    "class": ""
+  },
+  {
+    "id": 255,
+    "english": "cyan",
+    "mehrileh": "wir",
+    "pronunciation": "wir",
+    "englishFull": "light blue, cyan, sky blue",
+    "class": ""
+  },
+  {
+    "id": 256,
+    "english": "sky blue",
+    "mehrileh": "wir",
+    "pronunciation": "wir",
+    "englishFull": "light blue, cyan, sky blue",
+    "class": ""
+  },
+  {
+    "id": 257,
+    "english": "black",
+    "mehrileh": "shleun",
+    "pronunciation": "ʃløn",
+    "englishFull": "black, ink black",
+    "class": ""
+  },
+  {
+    "id": 258,
+    "english": "ink black",
+    "mehrileh": "shleun",
+    "pronunciation": "ʃløn",
+    "englishFull": "black, ink black",
+    "class": ""
+  },
+  {
+    "id": 259,
+    "english": "light gray",
+    "mehrileh": "plin",
+    "pronunciation": "plin",
+    "englishFull": "light gray",
+    "class": ""
+  },
+  {
+    "id": 260,
+    "english": "dark blue",
+    "mehrileh": "log",
+    "pronunciation": "lɔg",
+    "englishFull": "dark blue, ultramarine",
+    "class": ""
+  },
+  {
+    "id": 261,
+    "english": "ultramarine",
+    "mehrileh": "log",
+    "pronunciation": "lɔg",
+    "englishFull": "dark blue, ultramarine",
+    "class": ""
+  },
+  {
+    "id": 262,
+    "english": "yellow",
+    "mehrileh": "koz",
+    "pronunciation": "kɔz",
+    "englishFull": "yellow",
+    "class": ""
+  },
+  {
+    "id": 263,
+    "english": "orange",
+    "mehrileh": "djo",
+    "pronunciation": "dʒɔ",
+    "englishFull": "orange or red",
+    "class": ""
+  },
+  {
+    "id": 264,
+    "english": "red",
+    "mehrileh": "djo",
+    "pronunciation": "dʒɔ",
+    "englishFull": "orange or red",
+    "class": ""
+  },
+  {
+    "id": 265,
+    "english": "green",
+    "mehrileh": "moz",
+    "pronunciation": "mɔz",
+    "englishFull": "green",
+    "class": ""
+  },
+  {
+    "id": 266,
+    "english": "aquamarine",
+    "mehrileh": "wirmoz",
+    "pronunciation": "wirmɔz",
+    "englishFull": "aquamarine, blue-green",
+    "class": ""
+  },
+  {
+    "id": 267,
+    "english": "blue-green",
+    "mehrileh": "wirmoz",
+    "pronunciation": "wirmɔz",
+    "englishFull": "aquamarine, blue-green",
+    "class": ""
+  },
+  {
+    "id": 268,
+    "english": "crimson",
+    "mehrileh": "veh'ya",
+    "pronunciation": "vɛja",
+    "englishFull": "crimson, brown, dark red",
+    "class": ""
+  },
+  {
+    "id": 269,
+    "english": "brown",
+    "mehrileh": "veh'ya",
+    "pronunciation": "vɛja",
+    "englishFull": "crimson, brown, dark red",
+    "class": ""
+  },
+  {
+    "id": 270,
+    "english": "dark red",
+    "mehrileh": "veh'ya",
+    "pronunciation": "vɛja",
+    "englishFull": "crimson, brown, dark red",
+    "class": ""
+  },
+  {
+    "id": 271,
+    "english": "white",
+    "mehrileh": "tay",
+    "pronunciation": "taɪ",
+    "englishFull": "white",
+    "class": ""
+  },
+  {
+    "id": 272,
+    "english": "pink",
+    "mehrileh": "djotay",
+    "pronunciation": "dʒɔtaɪ",
+    "englishFull": "pink",
+    "class": ""
+  },
+  {
+    "id": 273,
+    "english": "inhabitant",
+    "mehrileh": "tshihva",
+    "pronunciation": "tʃɪva",
+    "englishFull": "an inhabitant of the world, a person",
+    "class": "noun"
+  },
+  {
+    "id": 274,
+    "english": "person",
+    "mehrileh": "tshihva",
+    "pronunciation": "tʃɪva",
+    "englishFull": "an inhabitant of the world, a person",
+    "class": "noun"
+  },
+  {
+    "id": 275,
+    "english": "body of water",
+    "mehrileh": "lota",
+    "pronunciation": "lɔta",
+    "englishFull": "a body of water",
+    "class": "noun"
+  },
+  {
+    "id": 276,
+    "english": "sea",
+    "mehrileh": "takrha",
+    "pronunciation": "takʁa",
+    "englishFull": "a sea, an ocean",
+    "class": "noun"
+  },
+  {
+    "id": 277,
+    "english": "ocean",
+    "mehrileh": "takrha",
+    "pronunciation": "takʁa",
+    "englishFull": "a sea, an ocean",
+    "class": "noun"
+  },
+  {
+    "id": 278,
+    "english": "small lake",
+    "mehrileh": "lotami",
+    "pronunciation": "lɔtami",
+    "englishFull": "a small lake, a pond",
+    "class": "noun"
+  },
+  {
+    "id": 279,
+    "english": "pond",
+    "mehrileh": "lotami",
+    "pronunciation": "lɔtami",
+    "englishFull": "a small lake, a pond",
+    "class": "noun"
+  },
+  {
+    "id": 280,
+    "english": "river",
+    "mehrileh": "lolimeh",
+    "pronunciation": "lɔlimɛ",
+    "englishFull": "a river, a stream",
+    "class": "noun"
+  },
+  {
+    "id": 281,
+    "english": "stream",
+    "mehrileh": "lolimeh",
+    "pronunciation": "lɔlimɛ",
+    "englishFull": "a river, a stream",
+    "class": "noun"
+  },
+  {
+    "id": 282,
+    "english": "lake",
+    "mehrileh": "takrhami",
+    "pronunciation": "lɔtakʁami",
+    "englishFull": "a lake or inland sea",
+    "class": "noun"
+  },
+  {
+    "id": 283,
+    "english": "inland sea",
+    "mehrileh": "takrhami",
+    "pronunciation": "lɔtakʁami",
+    "englishFull": "a lake or inland sea",
+    "class": "noun"
+  },
+  {
+    "id": 284,
+    "english": "drifter",
+    "mehrileh": "zrhatarh",
+    "pronunciation": "zʁataʁ",
+    "englishFull": "a drifter, a monster, one that haunts and terrifies",
+    "class": "noun"
+  },
+  {
+    "id": 285,
+    "english": "monster",
+    "mehrileh": "zrhatarh",
+    "pronunciation": "zʁataʁ",
+    "englishFull": "a drifter, a monster, one that haunts and terrifies",
+    "class": "noun"
+  },
+  {
+    "id": 286,
+    "english": "sky-blue",
+    "mehrileh": "tawirot",
+    "pronunciation": "tawirɔt",
+    "englishFull": "the color sky-blue, light blue, cyan",
+    "class": "noun"
+  },
+  {
+    "id": 287,
+    "english": "light blue",
+    "mehrileh": "tawirot",
+    "pronunciation": "tawirɔt",
+    "englishFull": "the color sky-blue, light blue, cyan",
+    "class": "noun"
+  },
+  {
+    "id": 288,
+    "english": "cyan",
+    "mehrileh": "tawirot",
+    "pronunciation": "tawirɔt",
+    "englishFull": "the color sky-blue, light blue, cyan",
+    "class": "noun"
+  },
+  {
+    "id": 289,
+    "english": "language",
+    "mehrileh": "mehrileh",
+    "pronunciation": "mɛrilɛ",
+    "englishFull": "the language of the mery people",
+    "class": "noun"
+  },
+  {
+    "id": 290,
+    "english": "pair",
+    "mehrileh": "hwileulm",
+    "pronunciation": "ɦiləlm",
+    "englishFull": "a pair of close friends or lovers, a pair of soulmates",
+    "class": "noun"
+  },
+  {
+    "id": 291,
+    "english": "close friends",
+    "mehrileh": "hwileulm",
+    "pronunciation": "ɦiləlm",
+    "englishFull": "a pair of close friends or lovers, a pair of soulmates",
+    "class": "noun"
+  },
+  {
+    "id": 292,
+    "english": "lovers",
+    "mehrileh": "hwileulm",
+    "pronunciation": "ɦiləlm",
+    "englishFull": "a pair of close friends or lovers, a pair of soulmates",
+    "class": "noun"
+  },
+  {
+    "id": 293,
+    "english": "soulmates",
+    "mehrileh": "hwileulm",
+    "pronunciation": "ɦiləlm",
+    "englishFull": "a pair of close friends or lovers, a pair of soulmates",
+    "class": "noun"
+  },
+  {
+    "id": 294,
+    "english": "many",
+    "mehrileh": "tilira",
+    "pronunciation": "tilira",
+    "englishFull": "many, much",
+    "class": "adjective"
+  },
+  {
+    "id": 295,
+    "english": "much",
+    "mehrileh": "tilira",
+    "pronunciation": "tilira",
+    "englishFull": "many, much",
+    "class": "adjective"
+  },
+  {
+    "id": 296,
+    "english": "west",
+    "mehrileh": "chlata",
+    "pronunciation": "χlata",
+    "englishFull": "the west",
+    "class": "noun"
+  },
+  {
+    "id": 297,
+    "english": "east",
+    "mehrileh": "chlana",
+    "pronunciation": "χlana",
+    "englishFull": "the east",
+    "class": "noun"
+  },
+  {
+    "id": 298,
+    "english": "north",
+    "mehrileh": "chlahweh",
+    "pronunciation": "χlaɦɛ",
+    "englishFull": "the north",
+    "class": "noun"
+  },
+  {
+    "id": 299,
+    "english": "south",
+    "mehrileh": "chlavweh",
+    "pronunciation": "χlavwɛ",
+    "englishFull": "the south",
+    "class": "noun"
+  },
+  {
+    "id": 300,
+    "english": "spawn",
+    "mehrileh": "tshihtala",
+    "pronunciation": "tʃɪtala",
+    "englishFull": "a moment someone spawns, a birth, the concept of Life in general",
+    "class": "noun"
+  },
+    {
+    "id": 301,
+    "english": "birth",
+    "mehrileh": "tshihtala",
+    "pronunciation": "tʃɪtala",
+    "englishFull": "a moment someone spawns, a birth, the concept of Life in general",
+    "class": "noun"
+  },
+  {
+    "id": 302,
+    "english": "life",
+    "mehrileh": "tshihtala",
+    "pronunciation": "tʃɪtala",
+    "englishFull": "a moment someone spawns, a birth, the concept of Life in general",
+    "class": "noun"
+  },
+  {
+    "id": 303,
+    "english": "spawn",
+    "mehrileh": "tshihtala",
+    "pronunciation": "tʃɪtala",
+    "englishFull": "to spawn, to be born",
+    "class": "verb"
+  },
+  {
+    "id": 304,
+    "english": "be born",
+    "mehrileh": "tshihtala",
+    "pronunciation": "tʃɪtala",
+    "englishFull": "to spawn, to be born",
+    "class": "verb"
+  },
+  {
+    "id": 305,
+    "english": "death",
+    "mehrileh": "tshihfihla",
+    "pronunciation": "tʃɪfɪla",
+    "englishFull": "a death",
+    "class": "noun"
+  },
+  {
+    "id": 306,
+    "english": "die",
+    "mehrileh": "tshihfihla",
+    "pronunciation": "tʃɪfɪla",
+    "englishFull": "to die",
+    "class": "verb"
+  },
+  {
+    "id": 307,
+    "english": "astronomist",
+    "mehrileh": "tawiritshil",
+    "pronunciation": "tawiritʃil",
+    "englishFull": "astronomist",
+    "class": "noun"
+  },
+  {
+    "id": 308,
+    "english": "artisan",
+    "mehrileh": "krhachtarh",
+    "pronunciation": "kʁaχtaʁ",
+    "englishFull": "an artisan, a craftsperson",
+    "class": "noun"
+  },
+  {
+    "id": 309,
+    "english": "craftsperson",
+    "mehrileh": "krhachtarh",
+    "pronunciation": "kʁaχtaʁ",
+    "englishFull": "an artisan, a craftsperson",
+    "class": "noun"
+  },
+  {
+    "id": 310,
+    "english": "hunter",
+    "mehrileh": "vheulehtarh",
+    "pronunciation": "ðəlɛtaʁ",
+    "englishFull": "a hunter",
+    "class": "noun"
+  },
+  {
+    "id": 311,
+    "english": "haunting",
+    "mehrileh": "zrha'yol",
+    "pronunciation": "zʁajɔl",
+    "englishFull": "a haunting, a moment in which terrifying things happen",
+    "class": "noun"
+  },
+  {
+    "id": 312,
+    "english": "prey",
+    "mehrileh": "vheulehneh",
+    "pronunciation": "ðəlɛnɛ",
+    "englishFull": "a prey",
+    "class": "noun"
+  },
+  {
+    "id": 313,
+    "english": "pickaxe",
+    "mehrileh": "toramihn",
+    "pronunciation": "toramɪn",
+    "englishFull": "a pickaxe",
+    "class": "noun"
+  },
+  {
+    "id": 314,
+    "english": "forest",
+    "mehrileh": "guthiy",
+    "pronunciation": "guθij",
+    "englishFull": "a forest",
+    "class": "noun"
+  },
+  {
+    "id": 315,
+    "english": "small place",
+    "mehrileh": "gulasim",
+    "pronunciation": "gulasim",
+    "englishFull": "a small place/area",
+    "class": "noun"
+  },
+  {
+    "id": 316,
+    "english": "small area",
+    "mehrileh": "gulasim",
+    "pronunciation": "gulasim",
+    "englishFull": "a small place/area",
+    "class": "noun"
+  },
+  {
+    "id": 317,
+    "english": "large place",
+    "mehrileh": "guladya",
+    "pronunciation": "guladja",
+    "englishFull": "a large place/area",
+    "class": "noun"
+  },
+  {
+    "id": 318,
+    "english": "large area",
+    "mehrileh": "guladya",
+    "pronunciation": "guladja",
+    "englishFull": "a large place/area",
+    "class": "noun"
+  },
+  {
+    "id": 319,
+    "english": "mutual aid",
+    "mehrileh": "rha'yara",
+    "pronunciation": "ʁajara",
+    "englishFull": "Mutual Aid, guiding philosophy of the Mery people",
+    "class": "noun"
+  },
+  {
+    "id": 320,
+    "english": "feral",
+    "mehrileh": "meh'yehtshig",
+    "pronunciation": "mɛjɛtʃig",
+    "englishFull": "feral, animal-like",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 321,
+    "english": "animal-like",
+    "mehrileh": "meh'yehtshig",
+    "pronunciation": "mɛjɛtʃig",
+    "englishFull": "feral, animal-like",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 322,
+    "english": "watch over",
+    "mehrileh": "niyaf",
+    "pronunciation": "nijaf",
+    "englishFull": "to watch over, to tend to",
+    "class": "verb"
+  },
+  {
+    "id": 323,
+    "english": "tend to",
+    "mehrileh": "niyaf",
+    "pronunciation": "nijaf",
+    "englishFull": "to watch over, to tend to",
+    "class": "verb"
+  },
+  {
+    "id": 324,
+    "english": "watch over farm animals",
+    "mehrileh": "meh'yaniyaf",
+    "pronunciation": "mɛjanijaf",
+    "englishFull": "to watch over farm animals",
+    "class": "verb"
+  },
+  {
+    "id": 325,
+    "english": "shepherd",
+    "mehrileh": "meh'yaniyafarh",
+    "pronunciation": "mɛjanijafaʁ",
+    "englishFull": "one who watches over farm animals, can mean shepherd",
+    "class": "noun"
+  },
+  {
+    "id": 326,
+    "english": "sunny",
+    "mehrileh": "tsholataty",
+    "pronunciation": "tʃɔlatatj",
+    "englishFull": "sunny, blessed, lucky",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 327,
+    "english": "blessed",
+    "mehrileh": "tsholataty",
+    "pronunciation": "tʃɔlatatj",
+    "englishFull": "sunny, blessed, lucky",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 328,
+    "english": "lucky",
+    "mehrileh": "tsholataty",
+    "pronunciation": "tʃɔlatatj",
+    "englishFull": "sunny, blessed, lucky",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 329,
+    "english": "equal",
+    "mehrileh": "krhateht",
+    "pronunciation": "kʁatɛt",
+    "englishFull": "equal (judgement), on the same level as",
+    "class": "adjective"
+  },
+  {
+    "id": 330,
+    "english": "lords",
+    "mehrileh": "frostsharh",
+    "pronunciation": "frɔstʃaʁ",
+    "englishFull": "in mythology: the Lords, ruler (of), lord (of), king (of) (archaic)",
+    "class": "noun"
+  },
+  {
+    "id": 331,
+    "english": "ruler",
+    "mehrileh": "frostsharh",
+    "pronunciation": "frɔstʃaʁ",
+    "englishFull": "in mythology: the Lords, ruler (of), lord (of), king (of) (archaic)",
+    "class": "noun"
+  },
+  {
+    "id": 332,
+    "english": "lord",
+    "mehrileh": "frostsharh",
+    "pronunciation": "frɔstʃaʁ",
+    "englishFull": "in mythology: the Lords, ruler (of), lord (of), king (of) (archaic)",
+    "class": "noun"
+  },
+  {
+    "id": 333,
+    "english": "king",
+    "mehrileh": "frostsharh",
+    "pronunciation": "frɔstʃaʁ",
+    "englishFull": "in mythology: the Lords, ruler (of), lord (of), king (of) (archaic)",
+    "class": "noun"
+  },
+  {
+    "id": 334,
+    "english": "kill",
+    "mehrileh": "frostshifih",
+    "pronunciation": "frɔstʃifɪ",
+    "englishFull": "to kill",
+    "class": "verb"
+  },
+  {
+    "id": 335,
+    "english": "blade",
+    "mehrileh": "torfro",
+    "pronunciation": "torfro",
+    "englishFull": "a blade, a sword, a spear",
+    "class": "noun"
+  },
+  {
+    "id": 336,
+    "english": "sword",
+    "mehrileh": "torfro",
+    "pronunciation": "torfro",
+    "englishFull": "a blade, a sword, a spear",
+    "class": "noun"
+  },
+  {
+    "id": 337,
+    "english": "spear",
+    "mehrileh": "torfro",
+    "pronunciation": "torfro",
+    "englishFull": "a blade, a sword, a spear",
+    "class": "noun"
+  },
+  {
+    "id": 338,
+    "english": "fight",
+    "mehrileh": "torfro",
+    "pronunciation": "torfro",
+    "englishFull": "to fight, to vie",
+    "class": "verb"
+  },
+  {
+    "id": 339,
+    "english": "vie",
+    "mehrileh": "torfro",
+    "pronunciation": "torfro",
+    "englishFull": "to fight, to vie",
+    "class": "verb"
+  },
+  {
+    "id": 340,
+    "english": "steer",
+    "mehrileh": "froslimeh",
+    "pronunciation": "frɔslimɛ",
+    "englishFull": "to steer, to make someone go somewhere, to control",
+    "class": "verb"
+  },
+  {
+    "id": 341,
+    "english": "make someone go somewhere",
+    "mehrileh": "froslimeh",
+    "pronunciation": "frɔslimɛ",
+    "englishFull": "to steer, to make someone go somewhere, to control",
+    "class": "verb"
+  },
+  {
+    "id": 342,
+    "english": "control",
+    "mehrileh": "froslimeh",
+    "pronunciation": "frɔslimɛ",
+    "englishFull": "to steer, to make someone go somewhere, to control",
+    "class": "verb"
+  },
+  {
+    "id": 343,
+    "english": "dominate",
+    "mehrileh": "frojan",
+    "pronunciation": "froʒan",
+    "englishFull": "to dominate",
+    "class": "verb"
+  },
+  {
+    "id": 344,
+    "english": "domination",
+    "mehrileh": "frojan",
+    "pronunciation": "froʒan",
+    "englishFull": "domination",
+    "class": "noun"
+  },
+  {
+    "id": 345,
+    "english": "heavenly",
+    "mehrileh": "wirehtshig",
+    "pronunciation": "wirɛtʃig",
+    "englishFull": "heavenly, divine, sacred, holy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 346,
+    "english": "divine",
+    "mehrileh": "wirehtshig",
+    "pronunciation": "wirɛtʃig",
+    "englishFull": "heavenly, divine, sacred, holy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 347,
+    "english": "sacred",
+    "mehrileh": "wirehtshig",
+    "pronunciation": "wirɛtʃig",
+    "englishFull": "heavenly, divine, sacred, holy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 348,
+    "english": "holy",
+    "mehrileh": "wirehtshig",
+    "pronunciation": "wirɛtʃig",
+    "englishFull": "heavenly, divine, sacred, holy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 349,
+    "english": "divine being",
+    "mehrileh": "wirehtshig",
+    "pronunciation": "wirɛtʃig",
+    "englishFull": "a divine being, ex: Tshola, Sithrol, The Lords",
+    "class": "noun"
+  },
+  {
+    "id": 350,
+    "english": "saint",
+    "mehrileh": "tawiga",
+    "pronunciation": "tawiga",
+    "englishFull": "a Saint, a holy person",
+    "class": "noun"
+  },
+  {
+    "id": 351,
+    "english": "holy person",
+    "mehrileh": "tawiga",
+    "pronunciation": "tawiga",
+    "englishFull": "a Saint, a holy person",
+    "class": "noun"
+  },
+  {
+    "id": 352,
+    "english": "everyone",
+    "mehrileh": "tshihvarara",
+    "pronunciation": "tʃivarara",
+    "englishFull": "everyone, every person, humanity",
+    "class": "noun"
+  },
+  {
+    "id": 353,
+    "english": "every person",
+    "mehrileh": "tshihvarara",
+    "pronunciation": "tʃivarara",
+    "englishFull": "everyone, every person, humanity",
+    "class": "noun"
+  },
+  {
+    "id": 354,
+    "english": "humanity",
+    "mehrileh": "tshihvarara",
+    "pronunciation": "tʃivarara",
+    "englishFull": "everyone, every person, humanity",
+    "class": "noun"
+  },
+  {
+    "id": 355,
+    "english": "run",
+    "mehrileh": "kimeh",
+    "pronunciation": "kimɛ",
+    "englishFull": "to run, to go somewhere speedily",
+    "class": "verb"
+  },
+  {
+    "id": 356,
+    "english": "go somewhere speedily",
+    "mehrileh": "kimeh",
+    "pronunciation": "kimɛ",
+    "englishFull": "to run, to go somewhere speedily",
+    "class": "verb"
+  },
+  {
+    "id": 357,
+    "english": "runner",
+    "mehrileh": "kimehtarh",
+    "pronunciation": "kimɛtaʁ",
+    "englishFull": "a runner, colloquially: a non-steppe person, a foreigner",
+    "class": "noun"
+  },
+  {
+    "id": 358,
+    "english": "non-steppe person",
+    "mehrileh": "kimehtarh",
+    "pronunciation": "kimɛtaʁ",
+    "englishFull": "a runner, colloquially: a non-steppe person, a foreigner",
+    "class": "noun"
+  },
+  {
+    "id": 359,
+    "english": "foreigner",
+    "mehrileh": "kimehtarh",
+    "pronunciation": "kimɛtaʁ",
+    "englishFull": "a runner, colloquially: a non-steppe person, a foreigner",
+    "class": "noun"
+  },
+  {
+    "id": 360,
+    "english": "savant",
+    "mehrileh": "niyarh",
+    "pronunciation": "nijaʁ",
+    "englishFull": "a savant, a scientist",
+    "class": "noun"
+  },
+  {
+    "id": 361,
+    "english": "scientist",
+    "mehrileh": "niyarh",
+    "pronunciation": "nijaʁ",
+    "englishFull": "a savant, a scientist",
+    "class": "noun"
+  },
+  {
+    "id": 362,
+    "english": "lake valley",
+    "mehrileh": "lotagul",
+    "pronunciation": "lɔtagul",
+    "englishFull": "a lake valley",
+    "class": "noun"
+  },
+  {
+    "id": 363,
+    "english": "temple",
+    "mehrileh": "rha'yagul",
+    "pronunciation": "ʁajagul",
+    "englishFull": "a temple, a place where one performs sacrifices/helps",
+    "class": "noun"
+  },
+  {
+    "id": 364,
+    "english": "evil",
+    "mehrileh": "frostsharhehtshig",
+    "pronunciation": "frɔstʃaʁɛtʃig",
+    "englishFull": "evil in a cold, calculated way, like the Lords in the sky",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 365,
+    "english": "wish for",
+    "mehrileh": "la'yameh",
+    "pronunciation": "lajamɛ",
+    "englishFull": "to wish for, to hope for, to want",
+    "class": "verb"
+  },
+  {
+    "id": 366,
+    "english": "hope for",
+    "mehrileh": "la'yameh",
+    "pronunciation": "lajamɛ",
+    "englishFull": "to wish for, to hope for, to want",
+    "class": "verb"
+  },
+  {
+    "id": 367,
+    "english": "want",
+    "mehrileh": "la'yameh",
+    "pronunciation": "lajamɛ",
+    "englishFull": "to wish for, to hope for, to want",
+    "class": "verb"
+  },
+  {
+    "id": 368,
+    "english": "urge",
+    "mehrileh": "nifro",
+    "pronunciation": "nifrɔ",
+    "englishFull": "used to urge or to recommend",
+    "class": "auxiliary verb"
+  },
+  {
+    "id": 369,
+    "english": "recommend",
+    "mehrileh": "nifro",
+    "pronunciation": "nifrɔ",
+    "englishFull": "used to urge or to recommend",
+    "class": "auxiliary verb"
+  },
+  {
+    "id": 370,
+    "english": "if",
+    "mehrileh": "nin",
+    "pronunciation": "nin",
+    "englishFull": "if, in the case that",
+    "class": "conjunction"
+  },
+  {
+    "id": 371,
+    "english": "union",
+    "mehrileh": "djahwil",
+    "pronunciation": "dʒaɦil",
+    "englishFull": "a union of countries, a federation",
+    "class": "noun"
+  },
+  {
+    "id": 372,
+    "english": "federation",
+    "mehrileh": "djahwil",
+    "pronunciation": "dʒaɦil",
+    "englishFull": "a union of countries, a federation",
+    "class": "noun"
+  },
+  {
+    "id": 373,
+    "english": "religion",
+    "mehrileh": "rha'yatshola",
+    "pronunciation": "ʁajatʃɔla",
+    "englishFull": "the religion surrounding Tshola, sun-help",
+    "class": "noun"
+  },
+  {
+    "id": 374,
+    "english": "sun-help",
+    "mehrileh": "rha'yatshola",
+    "pronunciation": "ʁajatʃɔla",
+    "englishFull": "the religion surrounding Tshola, sun-help",
+    "class": "noun"
+  },
+  {
+    "id": 375,
+    "english": "hole",
+    "mehrileh": "nimoz",
+    "pronunciation": "nimɔz",
+    "englishFull": "a hole, a sinkhole",
+    "class": "noun"
+  },
+  {
+    "id": 376,
+    "english": "sinkhole",
+    "mehrileh": "nimoz",
+    "pronunciation": "nimɔz",
+    "englishFull": "a hole, a sinkhole",
+    "class": "noun"
+  },
+  {
+    "id": 377,
+    "english": "box",
+    "mehrileh": "mizplin",
+    "pronunciation": "mizplin",
+    "englishFull": "a box, a container",
+    "class": "noun"
+  },
+  {
+    "id": 378,
+    "english": "container",
+    "mehrileh": "mizplin",
+    "pronunciation": "mizplin",
+    "englishFull": "a box, a container",
+    "class": "noun"
+  },
+  {
+    "id": 379,
+    "english": "contain",
+    "mehrileh": "mizplin",
+    "pronunciation": "mizplin",
+    "englishFull": "to contain, to store",
+    "class": "verb"
+  },
+  {
+    "id": 380,
+    "english": "store",
+    "mehrileh": "mizplin",
+    "pronunciation": "mizplin",
+    "englishFull": "to contain, to store",
+    "class": "verb"
+  },
+  {
+    "id": 381,
+    "english": "written word",
+    "mehrileh": "latoplat",
+    "pronunciation": "latɔplat",
+    "englishFull": "a written down word",
+    "class": "noun"
+  },
+  {
+    "id": 382,
+    "english": "library",
+    "mehrileh": "guplin",
+    "pronunciation": "guplin",
+    "englishFull": "a library",
+    "class": "noun"
+  },
+  {
+    "id": 383,
+    "english": "black",
+    "mehrileh": "shleunot",
+    "pronunciation": "ʃlønɔt",
+    "englishFull": "the color black",
+    "class": "noun"
+  },
+  {
+    "id": 384,
+    "english": "light gray",
+    "mehrileh": "plinot",
+    "pronunciation": "plinɔt",
+    "englishFull": "the color light gray",
+    "class": "noun"
+  },
+  {
+    "id": 385,
+    "english": "dark blue",
+    "mehrileh": "logot",
+    "pronunciation": "lɔgɔt",
+    "englishFull": "the color dark blue, ultramarine",
+    "class": "noun"
+  },
+  {
+    "id": 386,
+    "english": "ultramarine",
+    "mehrileh": "logot",
+    "pronunciation": "lɔgɔt",
+    "englishFull": "the color dark blue, ultramarine",
+    "class": "noun"
+  },
+  {
+    "id": 387,
+    "english": "eat",
+    "mehrileh": "ngakal",
+    "pronunciation": "ŋakal",
+    "englishFull": "to eat",
+    "class": "verb"
+  },
+  {
+    "id": 388,
+    "english": "ground",
+    "mehrileh": "tshihcha",
+    "pronunciation": "tʃɪχa",
+    "englishFull": "the ground, dirt",
+    "class": "noun"
+  },
+  {
+    "id": 389,
+    "english": "dirt",
+    "mehrileh": "tshihcha",
+    "pronunciation": "tʃɪχa",
+    "englishFull": "the ground, dirt",
+    "class": "noun"
+  },
+  {
+    "id": 390,
+    "english": "grain",
+    "mehrileh": "tarhkoz",
+    "pronunciation": "taʁkɔz",
+    "englishFull": "any grain, especially wheat",
+    "class": "noun"
+  },
+  {
+    "id": 391,
+    "english": "wheat",
+    "mehrileh": "tarhkoz",
+    "pronunciation": "taʁkɔz",
+    "englishFull": "any grain, especially wheat",
+    "class": "noun"
+  },
+  {
+    "id": 392,
+    "english": "yellow",
+    "mehrileh": "tarhkozot",
+    "pronunciation": "taʁkɔzɔt",
+    "englishFull": "the color yellow",
+    "class": "noun"
+  },
+  {
+    "id": 393,
+    "english": "orange",
+    "mehrileh": "ladjot",
+    "pronunciation": "ladʒɔt",
+    "englishFull": "the color orange or red",
+    "class": "noun"
+  },
+  {
+    "id": 394,
+    "english": "red",
+    "mehrileh": "ladjot",
+    "pronunciation": "ladʒɔt",
+    "englishFull": "the color orange or red",
+    "class": "noun"
+  },
+  {
+    "id": 395,
+    "english": "green",
+    "mehrileh": "mozot",
+    "pronunciation": "mɔzɔt",
+    "englishFull": "the color green",
+    "class": "noun"
+  },
+  {
+    "id": 396,
+    "english": "crimson",
+    "mehrileh": "veh'yagot",
+    "pronunciation": "vɛhjaɡɔt",
+    "englishFull": "the color crimson",
+    "class": "noun"
+  },
+  {
+    "id": 397,
+    "english": "lapis lazuli",
+    "mehrileh": "tochlog",
+    "pronunciation": "tɔχlɔg",
+    "englishFull": "lapis lazuli",
+    "class": "noun"
+  },
+  {
+    "id": 398,
+    "english": "redstone",
+    "mehrileh": "tochdjo",
+    "pronunciation": "tɔχdʒɔ",
+    "englishFull": "redstone (minecraft)",
+    "class": "noun"
+  },
+  {
+    "id": 399,
+    "english": "giver",
+    "mehrileh": "denarh",
+    "pronunciation": "dɛnaʁ",
+    "englishFull": "a giver, one who gives",
+    "class": "noun"
+  },
+  {
+    "id": 400,
+    "english": "day",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "the day, day-time",
+    "class": "noun"
+  },
+    {
+    "id": 401,
+    "english": "day-time",
+    "mehrileh": "tala",
+    "pronunciation": "tala",
+    "englishFull": "the day, day-time",
+    "class": "noun"
+  },
+  {
+    "id": 402,
+    "english": "night",
+    "mehrileh": "tasheu",
+    "pronunciation": "taʃə",
+    "englishFull": "the night, night-time",
+    "class": "noun"
+  },
+  {
+    "id": 403,
+    "english": "night-time",
+    "mehrileh": "tasheu",
+    "pronunciation": "taʃə",
+    "englishFull": "the night, night-time",
+    "class": "noun"
+  },
+  {
+    "id": 404,
+    "english": "wolf",
+    "mehrileh": "mehysi",
+    "pronunciation": "mɛɪsi",
+    "englishFull": "a wolf, a dog",
+    "class": "noun"
+  },
+  {
+    "id": 405,
+    "english": "dog",
+    "mehrileh": "mehysi",
+    "pronunciation": "mɛɪsi",
+    "englishFull": "a wolf, a dog",
+    "class": "noun"
+  },
+  {
+    "id": 406,
+    "english": "king",
+    "mehrileh": "tsharh",
+    "pronunciation": "tʃaʁ",
+    "englishFull": "a king, a ruler",
+    "class": "noun"
+  },
+  {
+    "id": 407,
+    "english": "ruler",
+    "mehrileh": "tsharh",
+    "pronunciation": "tʃaʁ",
+    "englishFull": "a king, a ruler",
+    "class": "noun"
+  },
+  {
+    "id": 408,
+    "english": "swamp tree",
+    "mehrileh": "thiylo",
+    "pronunciation": "θijlɔ",
+    "englishFull": "a swamp tree, a tree partially submerged in water",
+    "class": "noun"
+  },
+  {
+    "id": 409,
+    "english": "swamp",
+    "mehrileh": "guthiylo",
+    "pronunciation": "guθijlɔ",
+    "englishFull": "a swamp",
+    "class": "noun"
+  },
+  {
+    "id": 410,
+    "english": "mist",
+    "mehrileh": "shiylo",
+    "pronunciation": "ʃijlɔ",
+    "englishFull": "mist, fog",
+    "class": "noun"
+  },
+  {
+    "id": 411,
+    "english": "fog",
+    "mehrileh": "shiylo",
+    "pronunciation": "ʃijlɔ",
+    "englishFull": "mist, fog",
+    "class": "noun"
+  },
+  {
+    "id": 412,
+    "english": "cloud",
+    "mehrileh": "taylo",
+    "pronunciation": "taɪlɔ",
+    "englishFull": "cloud",
+    "class": "noun"
+  },
+  {
+    "id": 413,
+    "english": "white",
+    "mehrileh": "taylot",
+    "pronunciation": "taɪlɔt",
+    "englishFull": "the color white",
+    "class": "noun"
+  },
+  {
+    "id": 414,
+    "english": "other",
+    "mehrileh": "nitral",
+    "pronunciation": "nitral",
+    "englishFull": "other, contrary to, strange",
+    "class": "adjective"
+  },
+  {
+    "id": 415,
+    "english": "contrary to",
+    "mehrileh": "nitral",
+    "pronunciation": "nitral",
+    "englishFull": "other, contrary to, strange",
+    "class": "adjective"
+  },
+  {
+    "id": 416,
+    "english": "strange",
+    "mehrileh": "nitral",
+    "pronunciation": "nitral",
+    "englishFull": "other, contrary to, strange",
+    "class": "adjective"
+  },
+  {
+    "id": 417,
+    "english": "duration",
+    "mehrileh": "tami",
+    "pronunciation": "tami",
+    "englishFull": "a duration",
+    "class": "noun"
+  },
+  {
+    "id": 418,
+    "english": "during",
+    "mehrileh": "tami",
+    "pronunciation": "tami",
+    "englishFull": "during, while, for",
+    "class": "postposition"
+  },
+  {
+    "id": 419,
+    "english": "while",
+    "mehrileh": "tami",
+    "pronunciation": "tami",
+    "englishFull": "during, while, for",
+    "class": "postposition"
+  },
+  {
+    "id": 420,
+    "english": "for",
+    "mehrileh": "tami",
+    "pronunciation": "tami",
+    "englishFull": "during, while, for",
+    "class": "postposition"
+  },
+  {
+    "id": 421,
+    "english": "moment",
+    "mehrileh": "tamitil",
+    "pronunciation": "tamitil",
+    "englishFull": "a moment, an instance of",
+    "class": "noun"
+  },
+  {
+    "id": 422,
+    "english": "instance",
+    "mehrileh": "tamitil",
+    "pronunciation": "tamitil",
+    "englishFull": "a moment, an instance of",
+    "class": "noun"
+  },
+  {
+    "id": 423,
+    "english": "when",
+    "mehrileh": "tamitil",
+    "pronunciation": "tamitil",
+    "englishFull": "when",
+    "class": "adverb"
+  },
+  {
+    "id": 424,
+    "english": "long duration",
+    "mehrileh": "tamidya",
+    "pronunciation": "tamidja",
+    "englishFull": "a long duration",
+    "class": "noun"
+  },
+  {
+    "id": 425,
+    "english": "primordial",
+    "mehrileh": "yehtan'g",
+    "pronunciation": "jɛtang",
+    "englishFull": "primordial",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 426,
+    "english": "apocalyptic",
+    "mehrileh": "yehta'ya",
+    "pronunciation": "jɛtaja",
+    "englishFull": "apolyptic, relating to the end times",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 427,
+    "english": "good",
+    "mehrileh": "tatya",
+    "pronunciation": "tatja",
+    "englishFull": "good, happy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 428,
+    "english": "happy",
+    "mehrileh": "tatya",
+    "pronunciation": "tatja",
+    "englishFull": "good, happy",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 429,
+    "english": "hello",
+    "mehrileh": "dantati",
+    "pronunciation": "dantati",
+    "englishFull": "hello or goodbye (depends on context)",
+    "class": "interjection"
+  },
+  {
+    "id": 430,
+    "english": "goodbye",
+    "mehrileh": "dantati",
+    "pronunciation": "dantati",
+    "englishFull": "hello or goodbye (depends on context)",
+    "class": "interjection"
+  },
+  {
+    "id": 431,
+    "english": "bless",
+    "mehrileh": "latsh",
+    "pronunciation": "latʃ",
+    "englishFull": "to bless/make lucky",
+    "class": "verb"
+  },
+  {
+    "id": 432,
+    "english": "make lucky",
+    "mehrileh": "latsh",
+    "pronunciation": "latʃ",
+    "englishFull": "to bless/make lucky",
+    "class": "verb"
+  },
+  {
+    "id": 433,
+    "english": "goodbye",
+    "mehrileh": "tshehtsh",
+    "pronunciation": "tʃɛtʃ",
+    "englishFull": "goodbye (very formal)",
+    "class": "interjection"
+  },
+  {
+    "id": 434,
+    "english": "tomorrow",
+    "mehrileh": "damiteh",
+    "pronunciation": "damitɛ",
+    "englishFull": "tomorrow",
+    "class": "noun"
+  },
+  {
+    "id": 435,
+    "english": "future moment",
+    "mehrileh": "tamiteh",
+    "pronunciation": "tamitɛ",
+    "englishFull": "a future moment, a future instance",
+    "class": "noun"
+  },
+  {
+    "id": 436,
+    "english": "future instance",
+    "mehrileh": "tamiteh",
+    "pronunciation": "tamitɛ",
+    "englishFull": "a future moment, a future instance",
+    "class": "noun"
+  },
+  {
+    "id": 437,
+    "english": "prospective",
+    "mehrileh": "tamiteh",
+    "pronunciation": "tamitɛ",
+    "englishFull": "prospective",
+    "class": "adjective"
+  },
+  {
+    "id": 438,
+    "english": "long",
+    "mehrileh": "lolm",
+    "pronunciation": "lɔlm",
+    "englishFull": "long",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 439,
+    "english": "far-past moment",
+    "mehrileh": "tamitaz",
+    "pronunciation": "tamitaz",
+    "englishFull": "a far-past moment, a far-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 440,
+    "english": "far-past instance",
+    "mehrileh": "tamitaz",
+    "pronunciation": "tamitaz",
+    "englishFull": "a far-past moment, a far-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 441,
+    "english": "recent-past moment",
+    "mehrileh": "tamitiz",
+    "pronunciation": "tamitiz",
+    "englishFull": "a recent-past moment, a recent-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 442,
+    "english": "recent-past instance",
+    "mehrileh": "tamitiz",
+    "pronunciation": "tamitiz",
+    "englishFull": "a recent-past moment, a recent-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 443,
+    "english": "day-past moment",
+    "mehrileh": "tamitan",
+    "pronunciation": "tamitan",
+    "englishFull": "a day-past moment, a day-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 444,
+    "english": "day-past instance",
+    "mehrileh": "tamitan",
+    "pronunciation": "tamitan",
+    "englishFull": "a day-past moment, a day-past instance",
+    "class": "noun"
+  },
+  {
+    "id": 445,
+    "english": "future moment",
+    "mehrileh": "tamitehdan",
+    "pronunciation": "tamitɛdan",
+    "englishFull": "a future moment, a future instance",
+    "class": "noun"
+  },
+  {
+    "id": 446,
+    "english": "future instance",
+    "mehrileh": "tamitehdan",
+    "pronunciation": "tamitɛdan",
+    "englishFull": "a future moment, a future instance",
+    "class": "noun"
+  },
+  {
+    "id": 447,
+    "english": "last",
+    "mehrileh": "tamitam",
+    "pronunciation": "tamitam",
+    "englishFull": "to last",
+    "class": "verb"
+  },
+  {
+    "id": 448,
+    "english": "yesterday",
+    "mehrileh": "damitan",
+    "pronunciation": "damitan",
+    "englishFull": "yesterday",
+    "class": "noun"
+  },
+  {
+    "id": 449,
+    "english": "day before yesterday",
+    "mehrileh": "danmitan'g",
+    "pronunciation": "damitang",
+    "englishFull": "the day before yesterday",
+    "class": "noun"
+  },
+  {
+    "id": 450,
+    "english": "day after tomorrow",
+    "mehrileh": "danmitehchya",
+    "pronunciation": "damitɛχja",
+    "englishFull": "the day after tomorrow, overmorrow",
+    "class": "noun"
+  },
+  {
+    "id": 451,
+    "english": "overmorrow",
+    "mehrileh": "danmitehchya",
+    "pronunciation": "damitɛχja",
+    "englishFull": "the day after tomorrow, overmorrow",
+    "class": "noun"
+  },
+  {
+    "id": 452,
+    "english": "head",
+    "mehrileh": "shankrha",
+    "pronunciation": "ʃankʁa",
+    "englishFull": "the head (anatomically), the face, the top of",
+    "class": "noun"
+  },
+  {
+    "id": 453,
+    "english": "face",
+    "mehrileh": "shankrha",
+    "pronunciation": "ʃankʁa",
+    "englishFull": "the head (anatomically), the face, the top of",
+    "class": "noun"
+  },
+  {
+    "id": 454,
+    "english": "top of",
+    "mehrileh": "shankrha",
+    "pronunciation": "ʃankʁa",
+    "englishFull": "the head (anatomically), the face, the top of",
+    "class": "noun"
+  },
+  {
+    "id": 455,
+    "english": "neck",
+    "mehrileh": "krhachya",
+    "pronunciation": "kʁaχja",
+    "englishFull": "the neck",
+    "class": "noun"
+  },
+  {
+    "id": 456,
+    "english": "heart",
+    "mehrileh": "mineh'ya",
+    "pronunciation": "minɛja",
+    "englishFull": "the heart",
+    "class": "noun"
+  },
+  {
+    "id": 457,
+    "english": "persevere",
+    "mehrileh": "nifihla",
+    "pronunciation": "nifɪla",
+    "englishFull": "to persevere, to continue",
+    "class": "verb"
+  },
+  {
+    "id": 458,
+    "english": "continue",
+    "mehrileh": "nifihla",
+    "pronunciation": "nifɪla",
+    "englishFull": "to persevere, to continue",
+    "class": "verb"
+  },
+  {
+    "id": 459,
+    "english": "beautiful",
+    "mehrileh": "yat",
+    "pronunciation": "jat",
+    "englishFull": "beautiful",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 460,
+    "english": "finished hand-made object",
+    "mehrileh": "tidan",
+    "pronunciation": "tidan",
+    "englishFull": "a finished hand-made object, a consequence",
+    "class": "noun"
+  },
+  {
+    "id": 461,
+    "english": "consequence",
+    "mehrileh": "tidan",
+    "pronunciation": "tidan",
+    "englishFull": "a finished hand-made object, a consequence",
+    "class": "noun"
+  },
+  {
+    "id": 462,
+    "english": "art piece",
+    "mehrileh": "na'ya",
+    "pronunciation": "naja",
+    "englishFull": "an art piece",
+    "class": "noun"
+  },
+  {
+    "id": 463,
+    "english": "artistic",
+    "mehrileh": "na'yehtshig",
+    "pronunciation": "najɛtʃig",
+    "englishFull": "artistic, relating to art",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 464,
+    "english": "soulless creature",
+    "mehrileh": "nivya",
+    "pronunciation": "nivja",
+    "englishFull": "one with no soul, a soulless creature",
+    "class": "noun"
+  },
+  {
+    "id": 465,
+    "english": "body",
+    "mehrileh": "tshihnvya",
+    "pronunciation": "tʃɪnvja",
+    "englishFull": "a body, especially a dead body, a husk of a person",
+    "class": "noun"
+  },
+  {
+    "id": 466,
+    "english": "dead body",
+    "mehrileh": "tshihnvya",
+    "pronunciation": "tʃɪnvja",
+    "englishFull": "a body, especially a dead body, a husk of a person",
+    "class": "noun"
+  },
+  {
+    "id": 467,
+    "english": "husk of a person",
+    "mehrileh": "tshihnvya",
+    "pronunciation": "tʃɪnvja",
+    "englishFull": "a body, especially a dead body, a husk of a person",
+    "class": "noun"
+  },
+  {
+    "id": 468,
+    "english": "dead body",
+    "mehrileh": "sdonvya",
+    "pronunciation": "sdɔnvja",
+    "englishFull": "an explicitly dead body",
+    "class": "noun"
+  },
+  {
+    "id": 469,
+    "english": "love with the body",
+    "mehrileh": "dotshil",
+    "pronunciation": "dɔtʃil",
+    "englishFull": "to love/like with the body, to be sexually attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 470,
+    "english": "be sexually attracted to",
+    "mehrileh": "dotshil",
+    "pronunciation": "dɔtʃil",
+    "englishFull": "to love/like with the body, to be sexually attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 471,
+    "english": "love with the soul",
+    "mehrileh": "yatshil",
+    "pronunciation": "jatʃil",
+    "englishFull": "to love/like with the soul, to be romantically attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 472,
+    "english": "be romantically attracted to",
+    "mehrileh": "yatshil",
+    "pronunciation": "jatʃil",
+    "englishFull": "to love/like with the soul, to be romantically attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 473,
+    "english": "love with the eye",
+    "mehrileh": "niyatshil",
+    "pronunciation": "nijatʃil",
+    "englishFull": "to love/like with the eye, to be aesthetically attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 474,
+    "english": "be aesthetically attracted to",
+    "mehrileh": "niyatshil",
+    "pronunciation": "nijatʃil",
+    "englishFull": "to love/like with the eye, to be aesthetically attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 475,
+    "english": "be attracted to",
+    "mehrileh": "heula'yameh",
+    "pronunciation": "həlajamɛ",
+    "englishFull": "to be attracted to",
+    "class": "verb"
+  },
+  {
+    "id": 476,
+    "english": "writing style",
+    "mehrileh": "plili",
+    "pronunciation": "plili",
+    "englishFull": "a writing style=a script, a style, manner in which something is done, a rule (for games)",
+    "class": "noun"
+  },
+  {
+    "id": 477,
+    "english": "script",
+    "mehrileh": "plili",
+    "pronunciation": "plili",
+    "englishFull": "a writing style=a script, a style, manner in which something is done, a rule (for games)",
+    "class": "noun"
+  },
+  {
+    "id": 478,
+    "english": "style",
+    "mehrileh": "plili",
+    "pronunciation": "plili",
+    "englishFull": "a writing style=a script, a style, manner in which something is done, a rule (for games)",
+    "class": "noun"
+  },
+  {
+    "id": 479,
+    "english": "manner",
+    "mehrileh": "plili",
+    "pronunciation": "plili",
+    "englishFull": "a writing style=a script, a style, manner in which something is done, a rule (for games)",
+    "class": "noun"
+  },
+  {
+    "id": 480,
+    "english": "rule",
+    "mehrileh": "plili",
+    "pronunciation": "plili",
+    "englishFull": "a writing style=a script, a style, manner in which something is done, a rule (for games)",
+    "class": "noun"
+  },
+  {
+    "id": 481,
+    "english": "attraction",
+    "mehrileh": "pliheula'yameh",
+    "pronunciation": "plihəlajamɛ",
+    "englishFull": "attraction",
+    "class": "noun"
+  },
+  {
+    "id": 482,
+    "english": "act of watching over",
+    "mehrileh": "pliniyaf",
+    "pronunciation": "plinijaf",
+    "englishFull": "the act of watching over something",
+    "class": "noun"
+  },
+  {
+    "id": 483,
+    "english": "sexual attraction",
+    "mehrileh": "plidotshil",
+    "pronunciation": "dɔtʃil",
+    "englishFull": "sexual attraction",
+    "class": "noun"
+  },
+  {
+    "id": 484,
+    "english": "romantic attraction",
+    "mehrileh": "pliyatshil",
+    "pronunciation": "jatʃil",
+    "englishFull": "romantic attraction",
+    "class": "noun"
+  },
+  {
+    "id": 485,
+    "english": "aesthetic attraction",
+    "mehrileh": "pliniyatshil",
+    "pronunciation": "plinijatʃil",
+    "englishFull": "aesthetic attraction",
+    "class": "noun"
+  },
+  {
+    "id": 486,
+    "english": "perseverance",
+    "mehrileh": "plinifihla",
+    "pronunciation": "plinifɪla",
+    "englishFull": "perserverance, the act of relentlessly continuing",
+    "class": "noun"
+  },
+  {
+    "id": 487,
+    "english": "good luck",
+    "mehrileh": "plilaragn",
+    "pronunciation": "plilaraŋ",
+    "englishFull": "good luck, good fortune",
+    "class": "noun"
+  },
+  {
+    "id": 488,
+    "english": "good fortune",
+    "mehrileh": "plilaragn",
+    "pronunciation": "plilaraŋ",
+    "englishFull": "good luck, good fortune",
+    "class": "noun"
+  },
+  {
+    "id": 489,
+    "english": "containment",
+    "mehrileh": "plimizpli",
+    "pronunciation": "plimizpli",
+    "englishFull": "containement, storage",
+    "class": "noun"
+  },
+  {
+    "id": 490,
+    "english": "storage",
+    "mehrileh": "plimizpli",
+    "pronunciation": "plimizpli",
+    "englishFull": "containement, storage",
+    "class": "noun"
+  },
+  {
+    "id": 491,
+    "english": "murder",
+    "mehrileh": "plifrotsh",
+    "pronunciation": "plifrɔstʃ",
+    "englishFull": "a murder, a killing",
+    "class": "noun"
+  },
+  {
+    "id": 492,
+    "english": "killing",
+    "mehrileh": "plifrotsh",
+    "pronunciation": "plifrɔstʃ",
+    "englishFull": "a murder, a killing",
+    "class": "noun"
+  },
+  {
+    "id": 493,
+    "english": "similarity",
+    "mehrileh": "pliteht",
+    "pronunciation": "plitɛt",
+    "englishFull": "similarity",
+    "class": "noun"
+  },
+  {
+    "id": 494,
+    "english": "rest",
+    "mehrileh": "plitawir",
+    "pronunciation": "plitawir",
+    "englishFull": "rest",
+    "class": "noun"
+  },
+  {
+    "id": 495,
+    "english": "mindset of going without purpose",
+    "mehrileh": "plitehreh",
+    "pronunciation": "plitɛrɛ",
+    "englishFull": "the mindset of going without purpose, inner peace, tranquility",
+    "class": "noun"
+  },
+  {
+    "id": 496,
+    "english": "inner peace",
+    "mehrileh": "plitehreh",
+    "pronunciation": "plitɛrɛ",
+    "englishFull": "the mindset of going without purpose, inner peace, tranquility",
+    "class": "noun"
+  },
+  {
+    "id": 497,
+    "english": "tranquility",
+    "mehrileh": "plitehreh",
+    "pronunciation": "plitɛrɛ",
+    "englishFull": "the mindset of going without purpose, inner peace, tranquility",
+    "class": "noun"
+  },
+  {
+    "id": 498,
+    "english": "act of making",
+    "mehrileh": "plikrhach",
+    "pronunciation": "plikʁaχ",
+    "englishFull": "the act of making something, \"a makage\" so to speak",
+    "class": "noun"
+  },
+  {
+    "id": 499,
+    "english": "artistically",
+    "mehrileh": "plina'yehtshig",
+    "pronunciation": "plinajɛtʃig",
+    "englishFull": "readily, preparedly, artistically",
+    "class": ""
+  },
+  {
+    "id": 500,
+    "english": "beautifully",
+    "mehrileh": "pliyat",
+    "pronunciation": "plijat",
+    "englishFull": "beautifully",
+    "class": "adverb"
+  },
+    {
+    "id": 501,
+    "english": "prospectively",
+    "mehrileh": "plitamiteh",
+    "pronunciation": "plitamitɛ",
+    "englishFull": "prospectively",
+    "class": "adverb"
+  },
+  {
+    "id": 502,
+    "english": "weirdly",
+    "mehrileh": "plinitral",
+    "pronunciation": "plinitral",
+    "englishFull": "weirdly, in a way opposite than what is expected",
+    "class": "adverb"
+  },
+  {
+    "id": 503,
+    "english": "properly",
+    "mehrileh": "plitatya",
+    "pronunciation": "plitatja",
+    "englishFull": "in a good, honest or innocent manner, properly",
+    "class": "adverb"
+  },
+  {
+    "id": 504,
+    "english": "in an apocalyptic manner",
+    "mehrileh": "pliyehta'ya",
+    "pronunciation": "plijɛtaja",
+    "englishFull": "in an apocalyptic manner",
+    "class": "adverb"
+  },
+  {
+    "id": 505,
+    "english": "together",
+    "mehrileh": "rha'yarateht",
+    "pronunciation": "ʁajaratɛt",
+    "englishFull": "together, in a cooperative manner (very formal)",
+    "class": "adverb"
+  },
+  {
+    "id": 506,
+    "english": "spoken word",
+    "mehrileh": "latomi",
+    "pronunciation": "latɔmi",
+    "englishFull": "a spoken word",
+    "class": "noun"
+  },
+  {
+    "id": 507,
+    "english": "true",
+    "mehrileh": "mityan'g",
+    "pronunciation": "mitjang",
+    "englishFull": "true, veritable, real",
+    "class": "adjective"
+  },
+  {
+    "id": 508,
+    "english": "veritable",
+    "mehrileh": "mityan'g",
+    "pronunciation": "mitjang",
+    "englishFull": "true, veritable, real",
+    "class": "adjective"
+  },
+  {
+    "id": 509,
+    "english": "real",
+    "mehrileh": "mityan'g",
+    "pronunciation": "mitjang",
+    "englishFull": "true, veritable, real",
+    "class": "adjective"
+  },
+  {
+    "id": 510,
+    "english": "untrue",
+    "mehrileh": "nimit",
+    "pronunciation": "nimit",
+    "englishFull": "untrue, false, fake",
+    "class": "adjective"
+  },
+  {
+    "id": 511,
+    "english": "false",
+    "mehrileh": "nimit",
+    "pronunciation": "nimit",
+    "englishFull": "untrue, false, fake",
+    "class": "adjective"
+  },
+  {
+    "id": 512,
+    "english": "fake",
+    "mehrileh": "nimit",
+    "pronunciation": "nimit",
+    "englishFull": "untrue, false, fake",
+    "class": "adjective"
+  },
+  {
+    "id": 513,
+    "english": "liquid",
+    "mehrileh": "loteht",
+    "pronunciation": "lɔtɛt",
+    "englishFull": "a liquid",
+    "class": "noun"
+  },
+  {
+    "id": 514,
+    "english": "change",
+    "mehrileh": "nitehng",
+    "pronunciation": "nitɛŋ",
+    "englishFull": "to change, to transform",
+    "class": "verb"
+  },
+  {
+    "id": 515,
+    "english": "transform",
+    "mehrileh": "nitehng",
+    "pronunciation": "nitɛŋ",
+    "englishFull": "to change, to transform",
+    "class": "verb"
+  },
+  {
+    "id": 516,
+    "english": "location",
+    "mehrileh": "gutshihva",
+    "pronunciation": "gutʃɪva",
+    "englishFull": "a location where someone or something is",
+    "class": "noun"
+  },
+  {
+    "id": 517,
+    "english": "move",
+    "mehrileh": "nitehngihva",
+    "pronunciation": "nitɛŋɪva",
+    "englishFull": "to move.., to push.., to hit (a button)..",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 518,
+    "english": "push",
+    "mehrileh": "nitehngihva",
+    "pronunciation": "nitɛŋɪva",
+    "englishFull": "to move.., to push.., to hit (a button)..",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 519,
+    "english": "hit",
+    "mehrileh": "nitehngihva",
+    "pronunciation": "nitɛŋɪva",
+    "englishFull": "to move.., to push.., to hit (a button)..",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 520,
+    "english": "make a liquid flow",
+    "mehrileh": "lotihva",
+    "pronunciation": "lɔtɪva",
+    "englishFull": "to make a liquid flow, colloquially, to cry",
+    "class": "verb"
+  },
+  {
+    "id": 521,
+    "english": "ride",
+    "mehrileh": "sha'yolonga",
+    "pronunciation": "ʃajɔlɔŋa",
+    "englishFull": "to ride (when not specified, a horse)",
+    "class": "verb"
+  },
+  {
+    "id": 522,
+    "english": "horse-rider",
+    "mehrileh": "sha'yolongarh",
+    "pronunciation": "ʃajɔlɔŋaʁ",
+    "englishFull": "a horse-rider, coloquially, a person of the Steppe",
+    "class": "noun"
+  },
+  {
+    "id": 523,
+    "english": "person of the Steppe",
+    "mehrileh": "sha'yolongarh",
+    "pronunciation": "ʃajɔlɔŋaʁ",
+    "englishFull": "a horse-rider, coloquially, a person of the Steppe",
+    "class": "noun"
+  },
+  {
+    "id": 524,
+    "english": "dead",
+    "mehrileh": "vyeht",
+    "pronunciation": "vjɛt",
+    "englishFull": "dead",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 525,
+    "english": "wood",
+    "mehrileh": "thiv",
+    "pronunciation": "θiv",
+    "englishFull": "wood, a log, oak log",
+    "class": "noun"
+  },
+  {
+    "id": 526,
+    "english": "log",
+    "mehrileh": "thiv",
+    "pronunciation": "θiv",
+    "englishFull": "wood, a log, oak log",
+    "class": "noun"
+  },
+  {
+    "id": 527,
+    "english": "oak log",
+    "mehrileh": "thiv",
+    "pronunciation": "θiv",
+    "englishFull": "wood, a log, oak log",
+    "class": "noun"
+  },
+  {
+    "id": 528,
+    "english": "wine",
+    "mehrileh": "lolusih",
+    "pronunciation": "lɔlusi",
+    "englishFull": "wine",
+    "class": "noun"
+  },
+  {
+    "id": 529,
+    "english": "relating to lusitanya",
+    "mehrileh": "lusih",
+    "pronunciation": "lusi",
+    "englishFull": "relating to lusitanya",
+    "class": "adjective"
+  },
+  {
+    "id": 530,
+    "english": "striped",
+    "mehrileh": "mnatya",
+    "pronunciation": "mnatja",
+    "englishFull": "striped, patterned",
+    "class": "adjective"
+  },
+  {
+    "id": 531,
+    "english": "patterned",
+    "mehrileh": "mnatya",
+    "pronunciation": "mnatja",
+    "englishFull": "striped, patterned",
+    "class": "adjective"
+  },
+  {
+    "id": 532,
+    "english": "birch wood",
+    "mehrileh": "thiamnatya",
+    "pronunciation": "θiamnatja",
+    "englishFull": "birch wood, birch tree",
+    "class": "noun"
+  },
+  {
+    "id": 533,
+    "english": "birch tree",
+    "mehrileh": "thiamnatya",
+    "pronunciation": "θiamnatja",
+    "englishFull": "birch wood, birch tree",
+    "class": "noun"
+  },
+  {
+    "id": 534,
+    "english": "acacia wood",
+    "mehrileh": "thidjo",
+    "pronunciation": "θidʒɔ",
+    "englishFull": "acacia wood, acacia tree",
+    "class": "noun"
+  },
+  {
+    "id": 535,
+    "english": "acacia tree",
+    "mehrileh": "thidjo",
+    "pronunciation": "θidʒɔ",
+    "englishFull": "acacia wood, acacia tree",
+    "class": "noun"
+  },
+  {
+    "id": 536,
+    "english": "jungle",
+    "mehrileh": "guthimehtshig",
+    "pronunciation": "guθimɛtʃig",
+    "englishFull": "a jungle",
+    "class": "noun"
+  },
+  {
+    "id": 537,
+    "english": "jungle wood",
+    "mehrileh": "thigumehtshal",
+    "pronunciation": "θigumɛtʃal",
+    "englishFull": "jungle wood, jungle tree",
+    "class": "noun"
+  },
+  {
+    "id": 538,
+    "english": "jungle tree",
+    "mehrileh": "thigumehtshal",
+    "pronunciation": "θigumɛtʃal",
+    "englishFull": "jungle wood, jungle tree",
+    "class": "noun"
+  },
+  {
+    "id": 539,
+    "english": "spruce wood",
+    "mehrileh": "thidanzi",
+    "pronunciation": "θidanzi",
+    "englishFull": "spruce wood, spruce tree",
+    "class": "noun"
+  },
+  {
+    "id": 540,
+    "english": "spruce tree",
+    "mehrileh": "thidanzi",
+    "pronunciation": "θidanzi",
+    "englishFull": "spruce wood, spruce tree",
+    "class": "noun"
+  },
+  {
+    "id": 541,
+    "english": "relating to danzilona",
+    "mehrileh": "danzi",
+    "pronunciation": "danzi",
+    "englishFull": "relating to danzilona",
+    "class": "adjective"
+  },
+  {
+    "id": 542,
+    "english": "dark oak wood",
+    "mehrileh": "thishleun",
+    "pronunciation": "θiʃløn",
+    "englishFull": "dark oak wood, a dark oak tree",
+    "class": "noun"
+  },
+  {
+    "id": 543,
+    "english": "dark oak tree",
+    "mehrileh": "thishleun",
+    "pronunciation": "θiʃløn",
+    "englishFull": "dark oak wood, a dark oak tree",
+    "class": "noun"
+  },
+  {
+    "id": 544,
+    "english": "danziloan",
+    "mehrileh": "danzilonashal",
+    "pronunciation": "danzilɔnaʃal",
+    "englishFull": "a Danziloan, one who is from Danzilona",
+    "class": "noun"
+  },
+  {
+    "id": 545,
+    "english": "lusitanian",
+    "mehrileh": "lusihtanyashal",
+    "pronunciation": "lusitanjaʃal",
+    "englishFull": "a Lusitanian, one who is from Lusitania",
+    "class": "noun"
+  },
+  {
+    "id": 546,
+    "english": "pledge",
+    "mehrileh": "latowitshig",
+    "pronunciation": "latɔwitʃig",
+    "englishFull": "a pledge, usually sacred, religious or very important",
+    "class": "noun"
+  },
+  {
+    "id": 547,
+    "english": "take a pledge",
+    "mehrileh": "latow",
+    "pronunciation": "latɔw",
+    "englishFull": "to take a pledge, to pledge.., usually inflected -latow",
+    "class": "verb"
+  },
+  {
+    "id": 548,
+    "english": "pledge",
+    "mehrileh": "latow",
+    "pronunciation": "latɔw",
+    "englishFull": "to take a pledge, to pledge.., usually inflected -latow",
+    "class": "verb"
+  },
+  {
+    "id": 549,
+    "english": "one who has taken the mery pledge",
+    "mehrileh": "latowitshilatizarh",
+    "pronunciation": "latɔwitʃilatizaʁ",
+    "englishFull": "one who has taken the mery pledge",
+    "class": "noun"
+  },
+  {
+    "id": 550,
+    "english": "tall",
+    "mehrileh": "krhal",
+    "pronunciation": "kʁal",
+    "englishFull": "tall (for people)",
+    "class": "adjective"
+  },
+  {
+    "id": 551,
+    "english": "state's tower",
+    "mehrileh": "rha'yagukrhal",
+    "pronunciation": "ʁajagukʁal",
+    "englishFull": "the State's tower",
+    "class": "noun"
+  },
+  {
+    "id": 552,
+    "english": "statist",
+    "mehrileh": "rha'yagukrhashal",
+    "pronunciation": "ʁajagukʁaʃal",
+    "englishFull": "a Statist",
+    "class": "noun"
+  },
+  {
+    "id": 553,
+    "english": "state apocryphal",
+    "mehrileh": "yapokrhifal",
+    "pronunciation": "japɔkʁifal",
+    "englishFull": "one of the 9 State Apocryphals of the State",
+    "class": "noun"
+  },
+  {
+    "id": 554,
+    "english": "wise person",
+    "mehrileh": "yatshiteht",
+    "pronunciation": "jatʃitɛt",
+    "englishFull": "a very wise person, an elder",
+    "class": "noun"
+  },
+  {
+    "id": 555,
+    "english": "elder",
+    "mehrileh": "yatshiteht",
+    "pronunciation": "jatʃitɛt",
+    "englishFull": "a very wise person, an elder",
+    "class": "noun"
+  },
+  {
+    "id": 556,
+    "english": "trust",
+    "mehrileh": "vehdeh",
+    "pronunciation": "vɛdɛ",
+    "englishFull": "to trust",
+    "class": "verb"
+  },
+  {
+    "id": 557,
+    "english": "be trusted",
+    "mehrileh": "vehragn",
+    "pronunciation": "vɛraŋ",
+    "englishFull": "to be trusted",
+    "class": "verb"
+  },
+  {
+    "id": 558,
+    "english": "leader",
+    "mehrileh": "vehragnarh",
+    "pronunciation": "vɛraŋaʁ",
+    "englishFull": "a leader (of), the head (of)",
+    "class": "noun"
+  },
+  {
+    "id": 559,
+    "english": "head",
+    "mehrileh": "vehragnarh",
+    "pronunciation": "vɛraŋaʁ",
+    "englishFull": "a leader (of), the head (of)",
+    "class": "noun"
+  },
+  {
+    "id": 560,
+    "english": "leader",
+    "mehrileh": "niyafarh",
+    "pronunciation": "nijafaʁ",
+    "englishFull": "a leader (of), the head (of), the king (of)",
+    "class": "noun"
+  },
+  {
+    "id": 561,
+    "english": "king",
+    "mehrileh": "niyafarh",
+    "pronunciation": "nijafaʁ",
+    "englishFull": "a leader (of), the head (of), the king (of)",
+    "class": "noun"
+  },
+  {
+    "id": 562,
+    "english": "welcome",
+    "mehrileh": "tsha'yoniy",
+    "pronunciation": "tʃajɔnij",
+    "englishFull": "welcome",
+    "class": "interjection"
+  },
+  {
+    "id": 563,
+    "english": "understand",
+    "mehrileh": "shiniy",
+    "pronunciation": "ʃinij",
+    "englishFull": "to understand, to comprehend",
+    "class": "verb"
+  },
+  {
+    "id": 564,
+    "english": "comprehend",
+    "mehrileh": "shiniy",
+    "pronunciation": "ʃinij",
+    "englishFull": "to understand, to comprehend",
+    "class": "verb"
+  },
+  {
+    "id": 565,
+    "english": "obsidian",
+    "mehrileh": "tochbuln",
+    "pronunciation": "tɔχbuln",
+    "englishFull": "obsidian",
+    "class": "noun"
+  },
+  {
+    "id": 566,
+    "english": "mine",
+    "mehrileh": "tomihn",
+    "pronunciation": "tɔmɪn",
+    "englishFull": "to mine, to perform a difficult task, to work hard until exhausted",
+    "class": "verb"
+  },
+  {
+    "id": 567,
+    "english": "perform a difficult task",
+    "mehrileh": "tomihn",
+    "pronunciation": "tɔmɪn",
+    "englishFull": "to mine, to perform a difficult task, to work hard until exhausted",
+    "class": "verb"
+  },
+  {
+    "id": 568,
+    "english": "work hard until exhausted",
+    "mehrileh": "tomihn",
+    "pronunciation": "tɔmɪn",
+    "englishFull": "to mine, to perform a difficult task, to work hard until exhausted",
+    "class": "verb"
+  },
+  {
+    "id": 569,
+    "english": "difficulty",
+    "mehrileh": "plitomihn",
+    "pronunciation": "plitɔmɪn",
+    "englishFull": "a difficulty, a problem, an issue",
+    "class": "noun"
+  },
+  {
+    "id": 570,
+    "english": "problem",
+    "mehrileh": "plitomihn",
+    "pronunciation": "plitɔmɪn",
+    "englishFull": "a difficulty, a problem, an issue",
+    "class": "noun"
+  },
+  {
+    "id": 571,
+    "english": "issue",
+    "mehrileh": "plitomihn",
+    "pronunciation": "plitɔmɪn",
+    "englishFull": "a difficulty, a problem, an issue",
+    "class": "noun"
+  },
+  {
+    "id": 572,
+    "english": "excel in",
+    "mehrileh": "krha'ya",
+    "pronunciation": "kʁaja",
+    "englishFull": "to excel in, to have a talent in",
+    "class": "verb"
+  },
+  {
+    "id": 573,
+    "english": "have a talent in",
+    "mehrileh": "krha'ya",
+    "pronunciation": "kʁaja",
+    "englishFull": "to excel in, to have a talent in",
+    "class": "verb"
+  },
+  {
+    "id": 574,
+    "english": "talent",
+    "mehrileh": "plikrhay",
+    "pronunciation": "plikʁaɪ",
+    "englishFull": "a talent, a skill, archaic: the concept of proficiency",
+    "class": "noun"
+  },
+  {
+    "id": 575,
+    "english": "skill",
+    "mehrileh": "plikrhay",
+    "pronunciation": "plikʁaɪ",
+    "englishFull": "a talent, a skill, archaic: the concept of proficiency",
+    "class": "noun"
+  },
+  {
+    "id": 576,
+    "english": "difficult",
+    "mehrileh": "mihtshig",
+    "pronunciation": "mɪtʃig",
+    "englishFull": "difficult",
+    "class": "adjective"
+  },
+  {
+    "id": 577,
+    "english": "friend",
+    "mehrileh": "tshilagn",
+    "pronunciation": "tʃɪlaŋ",
+    "englishFull": "a friend, includes lovers",
+    "class": "noun"
+  },
+  {
+    "id": 578,
+    "english": "populist",
+    "mehrileh": "tshilpragnarh",
+    "pronunciation": "tʃilpraŋaʁ",
+    "englishFull": "a person who tries to be liked, a populist",
+    "class": "noun"
+  },
+  {
+    "id": 579,
+    "english": "muscle",
+    "mehrileh": "mnehdont",
+    "pronunciation": "mnɛdɔnt",
+    "englishFull": "a muscle",
+    "class": "noun"
+  },
+  {
+    "id": 580,
+    "english": "strong",
+    "mehrileh": "dontehtshig",
+    "pronunciation": "dɔntɛtʃig",
+    "englishFull": "strong, muscley",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 581,
+    "english": "muscley",
+    "mehrileh": "dontehtshig",
+    "pronunciation": "dɔntɛtʃig",
+    "englishFull": "strong, muscley",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 582,
+    "english": "very clear",
+    "mehrileh": "nishiyl",
+    "pronunciation": "niʃijl",
+    "englishFull": "very clear, with no hesitation or doubt, sound",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 583,
+    "english": "brain",
+    "mehrileh": "niyankrha",
+    "pronunciation": "niʃankʁa",
+    "englishFull": "the brain, the mind",
+    "class": "noun"
+  },
+  {
+    "id": 584,
+    "english": "mind",
+    "mehrileh": "niyankrha",
+    "pronunciation": "niʃankʁa",
+    "englishFull": "the brain, the mind",
+    "class": "noun"
+  },
+  {
+    "id": 585,
+    "english": "shield",
+    "mehrileh": "taltor",
+    "pronunciation": "taltɔr",
+    "englishFull": "a shield",
+    "class": "noun"
+  },
+  {
+    "id": 586,
+    "english": "shield",
+    "mehrileh": "taltor",
+    "pronunciation": "taltɔr",
+    "englishFull": "to shield, to protect",
+    "class": "verb"
+  },
+  {
+    "id": 587,
+    "english": "protect",
+    "mehrileh": "taltor",
+    "pronunciation": "taltɔr",
+    "englishFull": "to shield, to protect",
+    "class": "verb"
+  },
+  {
+    "id": 588,
+    "english": "be ready",
+    "mehrileh": "nithdan",
+    "pronunciation": "niθdan",
+    "englishFull": "to be ready, to be prepared",
+    "class": "verb"
+  },
+  {
+    "id": 589,
+    "english": "be prepared",
+    "mehrileh": "nithdan",
+    "pronunciation": "niθdan",
+    "englishFull": "to be ready, to be prepared",
+    "class": "verb"
+  },
+  {
+    "id": 590,
+    "english": "readiness",
+    "mehrileh": "plinithdan",
+    "pronunciation": "pliniθdan",
+    "englishFull": "readyness, preparedness",
+    "class": "noun"
+  },
+  {
+    "id": 591,
+    "english": "preparedness",
+    "mehrileh": "plinithdan",
+    "pronunciation": "pliniθdan",
+    "englishFull": "readyness, preparedness",
+    "class": "noun"
+  },
+  {
+    "id": 592,
+    "english": "ready",
+    "mehrileh": "plinitshig",
+    "pronunciation": "plinitʃig",
+    "englishFull": "ready, prepared",
+    "class": "adjective"
+  },
+  {
+    "id": 593,
+    "english": "prepared",
+    "mehrileh": "plinitshig",
+    "pronunciation": "plinitʃig",
+    "englishFull": "ready, prepared",
+    "class": "adjective"
+  },
+  {
+    "id": 594,
+    "english": "readily",
+    "mehrileh": "plinitshig",
+    "pronunciation": "plinitʃig",
+    "englishFull": "readily, preparedly",
+    "class": "adverb"
+  },
+  {
+    "id": 595,
+    "english": "preparedly",
+    "mehrileh": "plinitshig",
+    "pronunciation": "plinitʃig",
+    "englishFull": "readily, preparedly",
+    "class": "adverb"
+  },
+  {
+    "id": 596,
+    "english": "any",
+    "mehrileh": "fehr",
+    "pronunciation": "fɛr",
+    "englishFull": "any, often inflected \"-fehr\"",
+    "class": "adjective"
+  },
+  {
+    "id": 597,
+    "english": "be committed to",
+    "mehrileh": "mihntiltshig",
+    "pronunciation": "mɪntiltʃig",
+    "englishFull": "to be commited (to), to be devoted (to)",
+    "class": "verb"
+  },
+  {
+    "id": 598,
+    "english": "be devoted to",
+    "mehrileh": "mihntiltshig",
+    "pronunciation": "mɪntiltʃig",
+    "englishFull": "to be commited (to), to be devoted (to)",
+    "class": "verb"
+  },
+  {
+    "id": 599,
+    "english": "committedly",
+    "mehrileh": "plihntilshig",
+    "pronunciation": "plɪntiltʃig",
+    "englishFull": "commitedly, devotedly",
+    "class": "adverb"
+  },
+  {
+    "id": 600,
+    "english": "devotedly",
+    "mehrileh": "plihntilshig",
+    "pronunciation": "plɪntiltʃig",
+    "englishFull": "commitedly, devotedly",
+    "class": "adverb"
+  },
+    {
+    "id": 601,
+    "english": "now",
+    "mehrileh": "yehdeht",
+    "pronunciation": "jɛdɛt",
+    "englishFull": "now, the current moment",
+    "class": "noun"
+  },
+  {
+    "id": 602,
+    "english": "resin",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "resin, glue",
+    "class": "noun"
+  },
+  {
+    "id": 603,
+    "english": "glue",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "resin, glue",
+    "class": "noun"
+  },
+  {
+    "id": 604,
+    "english": "stay",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "to stay, to stick (to), to glue (to), to bind (to)",
+    "class": "noun"
+  },
+  {
+    "id": 605,
+    "english": "stick",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "to stay, to stick (to), to glue (to), to bind (to)",
+    "class": "noun"
+  },
+  {
+    "id": 606,
+    "english": "glue",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "to stay, to stick (to), to glue (to), to bind (to)",
+    "class": "noun"
+  },
+  {
+    "id": 607,
+    "english": "bind",
+    "mehrileh": "lothiy",
+    "pronunciation": "lɔθij",
+    "englishFull": "to stay, to stick (to), to glue (to), to bind (to)",
+    "class": "noun"
+  },
+  {
+    "id": 608,
+    "english": "decree",
+    "mehrileh": "plin lothiyehn'g",
+    "pronunciation": "plin lɔθijɛng",
+    "englishFull": "a decree, a treaty, a written law (usually applying to a whole society)",
+    "class": "noun"
+  },
+  {
+    "id": 609,
+    "english": "treaty",
+    "mehrileh": "plin lothiyehn'g",
+    "pronunciation": "plin lɔθijɛng",
+    "englishFull": "a decree, a treaty, a written law (usually applying to a whole society)",
+    "class": "noun"
+  },
+  {
+    "id": 610,
+    "english": "written law",
+    "mehrileh": "plin lothiyehn'g",
+    "pronunciation": "plin lɔθijɛng",
+    "englishFull": "a decree, a treaty, a written law (usually applying to a whole society)",
+    "class": "noun"
+  },
+  {
+    "id": 611,
+    "english": "oath",
+    "mehrileh": "latomi lothiyehn'g",
+    "pronunciation": "latɔmi lɔθijɛng",
+    "englishFull": "an oath (usually applying to a whole society)",
+    "class": "noun"
+  },
+  {
+    "id": 612,
+    "english": "moon",
+    "mehrileh": "laheulm",
+    "pronunciation": "lahəlm",
+    "englishFull": "the Moon",
+    "class": "noun"
+  },
+  {
+    "id": 613,
+    "english": "home",
+    "mehrileh": "tardjo",
+    "pronunciation": "tardʒɔ",
+    "englishFull": "a home, a house",
+    "class": "noun"
+  },
+  {
+    "id": 614,
+    "english": "house",
+    "mehrileh": "tardjo",
+    "pronunciation": "tardʒɔ",
+    "englishFull": "a home, a house",
+    "class": "noun"
+  },
+  {
+    "id": 615,
+    "english": "hello",
+    "mehrileh": "tirta",
+    "pronunciation": "tirta",
+    "englishFull": "hello",
+    "class": "interjection"
+  },
+  {
+    "id": 616,
+    "english": "root",
+    "mehrileh": "thichya",
+    "pronunciation": "θiχja",
+    "englishFull": "root",
+    "class": "noun"
+  },
+  {
+    "id": 617,
+    "english": "carrot",
+    "mehrileh": "thichyadjo",
+    "pronunciation": "θiχjadʒɔ",
+    "englishFull": "carrot",
+    "class": "noun"
+  },
+  {
+    "id": 618,
+    "english": "small piece",
+    "mehrileh": "timi",
+    "pronunciation": "timi",
+    "englishFull": "a small piece of something, a very small thing, a crumb, a particle, a pixel",
+    "class": "noun"
+  },
+  {
+    "id": 619,
+    "english": "crumb",
+    "mehrileh": "timi",
+    "pronunciation": "timi",
+    "englishFull": "a small piece of something, a very small thing, a crumb, a particle, a pixel",
+    "class": "noun"
+  },
+  {
+    "id": 620,
+    "english": "particle",
+    "mehrileh": "timi",
+    "pronunciation": "timi",
+    "englishFull": "a small piece of something, a very small thing, a crumb, a particle, a pixel",
+    "class": "noun"
+  },
+  {
+    "id": 621,
+    "english": "pixel",
+    "mehrileh": "timi",
+    "pronunciation": "timi",
+    "englishFull": "a small piece of something, a very small thing, a crumb, a particle, a pixel",
+    "class": "noun"
+  },
+  {
+    "id": 622,
+    "english": "smash",
+    "mehrileh": "timi",
+    "pronunciation": "timi",
+    "englishFull": "to smash, usually violently",
+    "class": "verb"
+  },
+  {
+    "id": 623,
+    "english": "powder",
+    "mehrileh": "timira",
+    "pronunciation": "timira",
+    "englishFull": "powder, dust",
+    "class": "noun"
+  },
+  {
+    "id": 624,
+    "english": "dust",
+    "mehrileh": "timira",
+    "pronunciation": "timira",
+    "englishFull": "powder, dust",
+    "class": "noun"
+  },
+  {
+    "id": 625,
+    "english": "crush",
+    "mehrileh": "timira",
+    "pronunciation": "timira",
+    "englishFull": "to crush, to grind, usually methodically",
+    "class": "verb"
+  },
+  {
+    "id": 626,
+    "english": "grind",
+    "mehrileh": "timira",
+    "pronunciation": "timira",
+    "englishFull": "to crush, to grind, usually methodically",
+    "class": "verb"
+  },
+  {
+    "id": 627,
+    "english": "sand",
+    "mehrileh": "timirotkash",
+    "pronunciation": "timirɔtkaʃ",
+    "englishFull": "sand",
+    "class": "noun"
+  },
+  {
+    "id": 628,
+    "english": "beach",
+    "mehrileh": "takrhamoti",
+    "pronunciation": "takʁamɔti",
+    "englishFull": "a beach",
+    "class": "noun"
+  },
+  {
+    "id": 629,
+    "english": "gem",
+    "mehrileh": "rhatoshal",
+    "pronunciation": "ʁatɔʃal",
+    "englishFull": "a gem, especially diamonds",
+    "class": "noun"
+  },
+  {
+    "id": 630,
+    "english": "diamonds",
+    "mehrileh": "rhatoshal",
+    "pronunciation": "ʁatɔʃal",
+    "englishFull": "a gem, especially diamonds",
+    "class": "noun"
+  },
+  {
+    "id": 631,
+    "english": "be colored",
+    "mehrileh": "gotzyeh",
+    "pronunciation": "gɔtzjɛ",
+    "englishFull": "to be colored (as in to have any color, not a race thing)",
+    "class": "verb"
+  },
+  {
+    "id": 632,
+    "english": "colored",
+    "mehrileh": "gotzyeh",
+    "pronunciation": "gɔtzjɛ",
+    "englishFull": "colored (as in to have any color, not a race thing)",
+    "class": "adjective"
+  },
+  {
+    "id": 633,
+    "english": "metal",
+    "mehrileh": "togzyeh",
+    "pronunciation": "tɔgzjɛ",
+    "englishFull": "any metal, any king of colorful stone (granite, diorite, calcite, etc)",
+    "class": "noun"
+  },
+  {
+    "id": 634,
+    "english": "colorful stone",
+    "mehrileh": "togzyeh",
+    "pronunciation": "tɔgzjɛ",
+    "englishFull": "any metal, any king of colorful stone (granite, diorite, calcite, etc)",
+    "class": "noun"
+  },
+  {
+    "id": 635,
+    "english": "piece of iron",
+    "mehrileh": "toglin",
+    "pronunciation": "tɔlin",
+    "englishFull": "a piece of iron, especially smelted",
+    "class": "noun"
+  },
+  {
+    "id": 636,
+    "english": "drop",
+    "mehrileh": "vhotut",
+    "pronunciation": "vɔtut",
+    "englishFull": "to drop",
+    "class": "verb"
+  },
+  {
+    "id": 637,
+    "english": "dropper",
+    "mehrileh": "vhotutarh",
+    "pronunciation": "vɔtutaʁ",
+    "englishFull": "a dropper",
+    "class": "noun"
+  },
+  {
+    "id": 638,
+    "english": "input",
+    "mehrileh": "hehstutsh",
+    "pronunciation": "hɛstutʃ",
+    "englishFull": "to input (in), to enter something (into), to vote (on)",
+    "class": "verb"
+  },
+  {
+    "id": 639,
+    "english": "enter",
+    "mehrileh": "hehstutsh",
+    "pronunciation": "hɛstutʃ",
+    "englishFull": "to input (in), to enter something (into), to vote (on)",
+    "class": "verb"
+  },
+  {
+    "id": 640,
+    "english": "vote",
+    "mehrileh": "hehstutsh",
+    "pronunciation": "hɛstutʃ",
+    "englishFull": "to input (in), to enter something (into), to vote (on)",
+    "class": "verb"
+  },
+  {
+    "id": 641,
+    "english": "button",
+    "mehrileh": "toshnit",
+    "pronunciation": "tɔʃnit",
+    "englishFull": "a button",
+    "class": "noun"
+  },
+  {
+    "id": 642,
+    "english": "lantern",
+    "mehrileh": "rha'yatal",
+    "pronunciation": "ʁajatal",
+    "englishFull": "a lantern, a lamp",
+    "class": "noun"
+  },
+  {
+    "id": 643,
+    "english": "lamp",
+    "mehrileh": "rha'yatal",
+    "pronunciation": "ʁajatal",
+    "englishFull": "a lantern, a lamp",
+    "class": "noun"
+  },
+  {
+    "id": 644,
+    "english": "rain",
+    "mehrileh": "lotal",
+    "pronunciation": "lɔtal",
+    "englishFull": "rain",
+    "class": "noun"
+  },
+  {
+    "id": 645,
+    "english": "stick",
+    "mehrileh": "thijo",
+    "pronunciation": "θiʒɔ",
+    "englishFull": "a stick",
+    "class": "noun"
+  },
+  {
+    "id": 646,
+    "english": "draw sticks",
+    "mehrileh": "thijorang",
+    "pronunciation": "θiʒɔraŋ",
+    "englishFull": "to draw sticks, colloquially, to engage in a game of chance, to gamble",
+    "class": "verb"
+  },
+  {
+    "id": 647,
+    "english": "gamble",
+    "mehrileh": "thijorang",
+    "pronunciation": "θiʒɔraŋ",
+    "englishFull": "to draw sticks, colloquially, to engage in a game of chance, to gamble",
+    "class": "verb"
+  },
+  {
+    "id": 648,
+    "english": "gambling",
+    "mehrileh": "plithijorang",
+    "pronunciation": "pliθiʒɔraŋ",
+    "englishFull": "the concept of gambling",
+    "class": "noun"
+  },
+  {
+    "id": 649,
+    "english": "gambling machine",
+    "mehrileh": "torathi",
+    "pronunciation": "tɔraθi",
+    "englishFull": "a gambling machine, a game of chance",
+    "class": "noun"
+  },
+  {
+    "id": 650,
+    "english": "game of chance",
+    "mehrileh": "torathi",
+    "pronunciation": "tɔraθi",
+    "englishFull": "a gambling machine, a game of chance",
+    "class": "noun"
+  },
+  {
+    "id": 651,
+    "english": "function",
+    "mehrileh": "torangat",
+    "pronunciation": "tɔraŋat",
+    "englishFull": "to function",
+    "class": "verb"
+  },
+  {
+    "id": 652,
+    "english": "bamboo stick",
+    "mehrileh": "thijomoz",
+    "pronunciation": "θiʒɔmɔz",
+    "englishFull": "a bamboo stick",
+    "class": "noun"
+  },
+  {
+    "id": 653,
+    "english": "town",
+    "mehrileh": "vehladjo",
+    "pronunciation": "vɛladʒɔ",
+    "englishFull": "town, city",
+    "class": "noun"
+  },
+  {
+    "id": 654,
+    "english": "city",
+    "mehrileh": "vehladjo",
+    "pronunciation": "vɛladʒɔ",
+    "englishFull": "town, city",
+    "class": "noun"
+  },
+  {
+    "id": 655,
+    "english": "politically active community",
+    "mehrileh": "vehladjotshehdeht",
+    "pronunciation": "vɛladʒɔtʃɛdɛt",
+    "englishFull": "a politically active and free community or town",
+    "class": "noun"
+  },
+  {
+    "id": 656,
+    "english": "hand",
+    "mehrileh": "geufih",
+    "pronunciation": "gəfɪ",
+    "englishFull": "a hand",
+    "class": "noun"
+  },
+  {
+    "id": 657,
+    "english": "touch",
+    "mehrileh": "geufih",
+    "pronunciation": "gəfɪ",
+    "englishFull": "to touch",
+    "class": "verb"
+  },
+  {
+    "id": 658,
+    "english": "hug",
+    "mehrileh": "geusatal",
+    "pronunciation": "gəsatal",
+    "englishFull": "to hug, to hold tenderly",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 659,
+    "english": "hold tenderly",
+    "mehrileh": "geusatal",
+    "pronunciation": "gəsatal",
+    "englishFull": "to hug, to hold tenderly",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 660,
+    "english": "hold hands with",
+    "mehrileh": "geufihtal",
+    "pronunciation": "gəfɪtal",
+    "englishFull": "to hold hands with",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 661,
+    "english": "association",
+    "mehrileh": "mehmehgeuftal",
+    "pronunciation": "mɛmɛgəftal",
+    "englishFull": "an association, a group, a union, less so: a community",
+    "class": "noun"
+  },
+  {
+    "id": 662,
+    "english": "group",
+    "mehrileh": "mehmehgeuftal",
+    "pronunciation": "mɛmɛgəftal",
+    "englishFull": "an association, a group, a union, less so: a community",
+    "class": "noun"
+  },
+  {
+    "id": 663,
+    "english": "union",
+    "mehrileh": "mehmehgeuftal",
+    "pronunciation": "mɛmɛgəftal",
+    "englishFull": "an association, a group, a union, less so: a community",
+    "class": "noun"
+  },
+  {
+    "id": 664,
+    "english": "factory",
+    "mehrileh": "gutorar",
+    "pronunciation": "gutɔrar",
+    "englishFull": "a factory",
+    "class": "noun"
+  },
+  {
+    "id": 665,
+    "english": "work",
+    "mehrileh": "plikrhach",
+    "pronunciation": "plikʁaχ",
+    "englishFull": "work in general",
+    "class": "noun"
+  },
+  {
+    "id": 666,
+    "english": "intensive work",
+    "mehrileh": "krhagurat",
+    "pronunciation": "kʁagurat",
+    "englishFull": "intensive work, industrial work, factory work",
+    "class": "noun"
+  },
+  {
+    "id": 667,
+    "english": "industrial work",
+    "mehrileh": "krhagurat",
+    "pronunciation": "kʁagurat",
+    "englishFull": "intensive work, industrial work, factory work",
+    "class": "noun"
+  },
+  {
+    "id": 668,
+    "english": "factory work",
+    "mehrileh": "krhagurat",
+    "pronunciation": "kʁagurat",
+    "englishFull": "intensive work, industrial work, factory work",
+    "class": "noun"
+  },
+  {
+    "id": 669,
+    "english": "industrial",
+    "mehrileh": "krhagurateht",
+    "pronunciation": "kʁagurat",
+    "englishFull": "industrial, intensive, less-so: difficult",
+    "class": "adjective"
+  },
+  {
+    "id": 670,
+    "english": "intensive",
+    "mehrileh": "krhagurateht",
+    "pronunciation": "kʁagurat",
+    "englishFull": "industrial, intensive, less-so: difficult",
+    "class": "adjective"
+  },
+  {
+    "id": 671,
+    "english": "mery council",
+    "mehrileh": "mehmehgeus",
+    "pronunciation": "mɛmɛgəs",
+    "englishFull": "a Mery council (a voting body of specific or all Mery called to vote on a specific subject)",
+    "class": "noun"
+  },
+  {
+    "id": 672,
+    "english": "tall",
+    "mehrileh": "gehrha",
+    "pronunciation": "gɛʁa",
+    "englishFull": "tall, long (for inanimate things)",
+    "class": "adjective"
+  },
+  {
+    "id": 673,
+    "english": "long",
+    "mehrileh": "gehrha",
+    "pronunciation": "gɛʁa",
+    "englishFull": "tall, long (for inanimate things)",
+    "class": "adjective"
+  },
+  {
+    "id": 674,
+    "english": "mountain",
+    "mehrileh": "togehrha",
+    "pronunciation": "tɔgɛʁa",
+    "englishFull": "a mountain",
+    "class": "noun"
+  },
+  {
+    "id": 675,
+    "english": "fish",
+    "mehrileh": "mehylo",
+    "pronunciation": "mɛɪlɔ",
+    "englishFull": "a fish, colloquially, any water animal",
+    "class": "noun"
+  },
+  {
+    "id": 676,
+    "english": "water animal",
+    "mehrileh": "mehylo",
+    "pronunciation": "mɛɪlɔ",
+    "englishFull": "a fish, colloquially, any water animal",
+    "class": "noun"
+  },
+  {
+    "id": 677,
+    "english": "swordfish",
+    "mehrileh": "mehylorfro",
+    "pronunciation": "mɛɪlɔrfrɔ",
+    "englishFull": "a swordfish, an aggresive fish (guardian etc), the Eastern Continent in CivMC",
+    "class": "noun"
+  },
+  {
+    "id": 678,
+    "english": "eastern continent",
+    "mehrileh": "mehylorfro",
+    "pronunciation": "mɛɪlɔrfrɔ",
+    "englishFull": "a swordfish, an aggresive fish (guardian etc), the Eastern Continent in CivMC",
+    "class": "noun"
+  },
+  {
+    "id": 679,
+    "english": "build",
+    "mehrileh": "talara",
+    "pronunciation": "talara",
+    "englishFull": "a build, a structure",
+    "class": "noun"
+  },
+  {
+    "id": 680,
+    "english": "structure",
+    "mehrileh": "talara",
+    "pronunciation": "talara",
+    "englishFull": "a build, a structure",
+    "class": "noun"
+  },
+  {
+    "id": 681,
+    "english": "tower",
+    "mehrileh": "takrhal",
+    "pronunciation": "takʁal",
+    "englishFull": "a tower",
+    "class": "noun"
+  },
+  {
+    "id": 682,
+    "english": "lighthouse",
+    "mehrileh": "takrhal rhayadeht",
+    "pronunciation": "takʁal ʁajadɛt",
+    "englishFull": "a lighthouse",
+    "class": "noun"
+  },
+  {
+    "id": 683,
+    "english": "island",
+    "mehrileh": "djotal",
+    "pronunciation": "dʒɔtal",
+    "englishFull": "an island",
+    "class": "noun"
+  },
+  {
+    "id": 684,
+    "english": "alone",
+    "mehrileh": "nira",
+    "pronunciation": "nira",
+    "englishFull": "alone, only",
+    "class": "adverb"
+  },
+  {
+    "id": 685,
+    "english": "only",
+    "mehrileh": "nira",
+    "pronunciation": "nira",
+    "englishFull": "alone, only",
+    "class": "adverb"
+  },
+  {
+    "id": 686,
+    "english": "be autonomous",
+    "mehrileh": "toranganir",
+    "pronunciation": "tɔraŋanir",
+    "englishFull": "to be autonomous, to be self sufficient",
+    "class": "verb"
+  },
+  {
+    "id": 687,
+    "english": "be self sufficient",
+    "mehrileh": "toranganir",
+    "pronunciation": "tɔraŋanir",
+    "englishFull": "to be autonomous, to be self sufficient",
+    "class": "verb"
+  },
+  {
+    "id": 688,
+    "english": "autonomous",
+    "mehrileh": "ranganirad",
+    "pronunciation": "raŋanirad",
+    "englishFull": "autonomous, self-reliant, self-sufficient, self-governing",
+    "class": "adjective"
+  },
+  {
+    "id": 689,
+    "english": "self-reliant",
+    "mehrileh": "ranganirad",
+    "pronunciation": "raŋanirad",
+    "englishFull": "autonomous, self-reliant, self-sufficient, self-governing",
+    "class": "adjective"
+  },
+  {
+    "id": 690,
+    "english": "self-sufficient",
+    "mehrileh": "ranganirad",
+    "pronunciation": "raŋanirad",
+    "englishFull": "autonomous, self-reliant, self-sufficient, self-governing",
+    "class": "adjective"
+  },
+  {
+    "id": 691,
+    "english": "self-governing",
+    "mehrileh": "ranganirad",
+    "pronunciation": "raŋanirad",
+    "englishFull": "autonomous, self-reliant, self-sufficient, self-governing",
+    "class": "adjective"
+  },
+  {
+    "id": 692,
+    "english": "peace treaty",
+    "mehrileh": "plintawir",
+    "pronunciation": "plintawir",
+    "englishFull": "a peace treaty between two or more groups",
+    "class": "noun"
+  },
+  {
+    "id": 693,
+    "english": "eye",
+    "mehrileh": "niyneh",
+    "pronunciation": "nijnɛ",
+    "englishFull": "an eye",
+    "class": "noun"
+  },
+  {
+    "id": 694,
+    "english": "pearl",
+    "mehrileh": "niyneh, to pearl, tarh, see affix table",
+    "pronunciation": "nijnɛ",
+    "englishFull": "to pearl, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 695,
+    "english": "imprison",
+    "mehrileh": "niyneh, to pearl, tarh, see affix table",
+    "pronunciation": "nijnɛ",
+    "englishFull": "to pearl, to imprison",
+    "class": "verb"
+  },
+  {
+    "id": 696,
+    "english": "end dimension",
+    "mehrileh": "djanitalat",
+    "pronunciation": "dʒanitalat",
+    "englishFull": "the end dimension",
+    "class": "noun"
+  },
+  {
+    "id": 697,
+    "english": "eye of ender",
+    "mehrileh": "niyneh djanitalashal",
+    "pronunciation": "nijnɛ dʒanitalaʃal",
+    "englishFull": "an eye of ender",
+    "class": "noun"
+  },
+  {
+    "id": 698,
+    "english": "enderman",
+    "mehrileh": "mehshleu",
+    "pronunciation": "mɛʃlə",
+    "englishFull": "an enderman",
+    "class": "noun"
+  },
+  {
+    "id": 699,
+    "english": "ender pearl",
+    "mehrileh": "niyneh mehshleuteht",
+    "pronunciation": "nijnɛ mɛʃlətɛt",
+    "englishFull": "an ender pearl",
+    "class": "noun"
+  },
+  {
+    "id": 700,
+    "english": "new",
+    "mehrileh": "talatshig",
+    "pronunciation": "talatʃig",
+    "englishFull": "new",
+    "class": "adjective (v)"
+  },
+    {
+    "id": 701,
+    "english": "again",
+    "mehrileh": "plita",
+    "pronunciation": "plita",
+    "englishFull": "again, anew",
+    "class": "adverb"
+  },
+  {
+    "id": 702,
+    "english": "anew",
+    "mehrileh": "plita",
+    "pronunciation": "plita",
+    "englishFull": "again, anew",
+    "class": "adverb"
+  },
+  {
+    "id": 703,
+    "english": "re-do",
+    "mehrileh": "mihnita",
+    "pronunciation": "mɪnita",
+    "englishFull": "to re-do, to do again, to re-try",
+    "class": "verb"
+  },
+  {
+    "id": 704,
+    "english": "do again",
+    "mehrileh": "mihnita",
+    "pronunciation": "mɪnita",
+    "englishFull": "to re-do, to do again, to re-try",
+    "class": "verb"
+  },
+  {
+    "id": 705,
+    "english": "re-try",
+    "mehrileh": "mihnita",
+    "pronunciation": "mɪnita",
+    "englishFull": "to re-do, to do again, to re-try",
+    "class": "verb"
+  },
+  {
+    "id": 706,
+    "english": "ritual",
+    "mehrileh": "nita'yol",
+    "pronunciation": "nitajɔl",
+    "englishFull": "a (non-sacred) ritual, something one repeats regularly, a lasting repetition",
+    "class": "noun"
+  },
+  {
+    "id": 707,
+    "english": "religious ritual",
+    "mehrileh": "nita'yireh",
+    "pronunciation": "nitajirɛ",
+    "englishFull": "a religious ritual",
+    "class": "noun"
+  },
+  {
+    "id": 708,
+    "english": "become",
+    "mehrileh": "yat",
+    "pronunciation": "jat",
+    "englishFull": "to become, to turn into",
+    "class": "verb"
+  },
+  {
+    "id": 709,
+    "english": "turn into",
+    "mehrileh": "yat",
+    "pronunciation": "jat",
+    "englishFull": "to become, to turn into",
+    "class": "verb"
+  },
+  {
+    "id": 710,
+    "english": "initiation",
+    "mehrileh": "ya'yol",
+    "pronunciation": "jajɔl",
+    "englishFull": "an initiation, an integration",
+    "class": "noun"
+  },
+  {
+    "id": 711,
+    "english": "integration",
+    "mehrileh": "ya'yol",
+    "pronunciation": "jajɔl",
+    "englishFull": "an initiation, an integration",
+    "class": "noun"
+  },
+  {
+    "id": 712,
+    "english": "truthfully",
+    "mehrileh": "plimityan'g",
+    "pronunciation": "plimitjang",
+    "englishFull": "truthfully, honestly, veritably",
+    "class": "adverb"
+  },
+  {
+    "id": 713,
+    "english": "honestly",
+    "mehrileh": "plimityan'g",
+    "pronunciation": "plimitjang",
+    "englishFull": "truthfully, honestly, veritably",
+    "class": "adverb"
+  },
+  {
+    "id": 714,
+    "english": "veritably",
+    "mehrileh": "plimityan'g",
+    "pronunciation": "plimitjang",
+    "englishFull": "truthfully, honestly, veritably",
+    "class": "adverb"
+  },
+  {
+    "id": 715,
+    "english": "shiny",
+    "mehrileh": "rha'yatshig",
+    "pronunciation": "ʁajatʃig",
+    "englishFull": "shiny, luminous",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 716,
+    "english": "luminous",
+    "mehrileh": "rha'yatshig",
+    "pronunciation": "ʁajatʃig",
+    "englishFull": "shiny, luminous",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 717,
+    "english": "story",
+    "mehrileh": "plina'yol",
+    "pronunciation": "plinajɔl",
+    "englishFull": "a story, a tale, a legend",
+    "class": "noun"
+  },
+  {
+    "id": 718,
+    "english": "tale",
+    "mehrileh": "plina'yol",
+    "pronunciation": "plinajɔl",
+    "englishFull": "a story, a tale, a legend",
+    "class": "noun"
+  },
+  {
+    "id": 719,
+    "english": "legend",
+    "mehrileh": "plina'yol",
+    "pronunciation": "plinajɔl",
+    "englishFull": "a story, a tale, a legend",
+    "class": "noun"
+  },
+  {
+    "id": 720,
+    "english": "moment of making",
+    "mehrileh": "krhachayol",
+    "pronunciation": "kʁaχajɔl",
+    "englishFull": "a moment when something is made",
+    "class": "noun"
+  },
+  {
+    "id": 721,
+    "english": "lexicon",
+    "mehrileh": "plinbehhu",
+    "pronunciation": "plinbɛhu",
+    "englishFull": "a lexicon, an alphabet (specifically the mehrileh one)",
+    "class": "noun"
+  },
+  {
+    "id": 722,
+    "english": "alphabet",
+    "mehrileh": "plinbehhu",
+    "pronunciation": "plinbɛhu",
+    "englishFull": "a lexicon, an alphabet (specifically the mehrileh one)",
+    "class": "noun"
+  },
+  {
+    "id": 723,
+    "english": "central",
+    "mehrileh": "mehr",
+    "pronunciation": "mɛr",
+    "englishFull": "central",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 724,
+    "english": "center",
+    "mehrileh": "chlamehr",
+    "pronunciation": "χlamɛr",
+    "englishFull": "the center",
+    "class": "noun"
+  },
+  {
+    "id": 725,
+    "english": "underworld",
+    "mehrileh": "tshihvchiya",
+    "pronunciation": "tʃɪvχija",
+    "englishFull": "the underworld, the nether",
+    "class": "noun"
+  },
+  {
+    "id": 726,
+    "english": "nether",
+    "mehrileh": "tshihvchiya",
+    "pronunciation": "tʃɪvχija",
+    "englishFull": "the underworld, the nether",
+    "class": "noun"
+  },
+  {
+    "id": 727,
+    "english": "overworld",
+    "mehrileh": "tshihvshan'g",
+    "pronunciation": "tʃɪvʃang",
+    "englishFull": "the overworld",
+    "class": "noun"
+  },
+  {
+    "id": 728,
+    "english": "navigate",
+    "mehrileh": "lofros",
+    "pronunciation": "lɔfrɔs",
+    "englishFull": "to naviguate (specifically on water), to drive a ship",
+    "class": "verb"
+  },
+  {
+    "id": 729,
+    "english": "drive a ship",
+    "mehrileh": "lofros",
+    "pronunciation": "lɔfrɔs",
+    "englishFull": "to naviguate (specifically on water), to drive a ship",
+    "class": "verb"
+  },
+  {
+    "id": 730,
+    "english": "sailor",
+    "mehrileh": "lofrosarh",
+    "pronunciation": "lɔfrɔsaʁ",
+    "englishFull": "a sailor, a sea captain",
+    "class": "noun"
+  },
+  {
+    "id": 731,
+    "english": "sea captain",
+    "mehrileh": "lofrosarh",
+    "pronunciation": "lɔfrɔsaʁ",
+    "englishFull": "a sailor, a sea captain",
+    "class": "noun"
+  },
+  {
+    "id": 732,
+    "english": "boat",
+    "mehrileh": "toralo",
+    "pronunciation": "tɔralɔ",
+    "englishFull": "a boat",
+    "class": "noun"
+  },
+  {
+    "id": 733,
+    "english": "drawing",
+    "mehrileh": "tawiteht",
+    "pronunciation": "tawitɛt",
+    "englishFull": "a drawing",
+    "class": "noun"
+  },
+  {
+    "id": 734,
+    "english": "map",
+    "mehrileh": "tawitehk",
+    "pronunciation": "tawitɛk",
+    "englishFull": "a map",
+    "class": "noun"
+  },
+  {
+    "id": 735,
+    "english": "hand-made",
+    "mehrileh": "tidanehtshig",
+    "pronunciation": "tidanɛtʃig",
+    "englishFull": "hand-made",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 736,
+    "english": "plains",
+    "mehrileh": "shayogul",
+    "pronunciation": "shajɔgul",
+    "englishFull": "plains",
+    "class": "noun"
+  },
+  {
+    "id": 737,
+    "english": "full mery",
+    "mehrileh": "yatehn'g",
+    "pronunciation": "jatɛng",
+    "englishFull": "a Mery who has completed the mery initiation ritual is thus a full Mery",
+    "class": "noun"
+  },
+  {
+    "id": 738,
+    "english": "material",
+    "mehrileh": "torakrhach",
+    "pronunciation": "tɔrakʁaχ",
+    "englishFull": "a material, a piece of fabric",
+    "class": "noun"
+  },
+  {
+    "id": 739,
+    "english": "piece of fabric",
+    "mehrileh": "torakrhach",
+    "pronunciation": "tɔrakʁaχ",
+    "englishFull": "a material, a piece of fabric",
+    "class": "noun"
+  },
+  {
+    "id": 740,
+    "english": "piece of clothing",
+    "mehrileh": "mlehvhitig",
+    "pronunciation": "mlɛðitig",
+    "englishFull": "a piece of clothing",
+    "class": "noun"
+  },
+  {
+    "id": 741,
+    "english": "fabric",
+    "mehrileh": "toramlehvhitig",
+    "pronunciation": "tɔramlɛðitig",
+    "englishFull": "fabric (specifically used to make clothes)",
+    "class": "noun"
+  },
+  {
+    "id": 742,
+    "english": "protective",
+    "mehrileh": "taltorehtshig",
+    "pronunciation": "taltɔrɛtʃig",
+    "englishFull": "protective, used to protect, defensive",
+    "class": "adjective"
+  },
+  {
+    "id": 743,
+    "english": "defensive",
+    "mehrileh": "taltorehtshig",
+    "pronunciation": "taltɔrɛtʃig",
+    "englishFull": "protective, used to protect, defensive",
+    "class": "adjective"
+  },
+  {
+    "id": 744,
+    "english": "piece of armor",
+    "mehrileh": "taltorehtshig",
+    "pronunciation": "taltɔrɛtʃig",
+    "englishFull": "a piece of armor",
+    "class": "noun"
+  },
+  {
+    "id": 745,
+    "english": "whole",
+    "mehrileh": "tilitsh",
+    "pronunciation": "tilitʃ",
+    "englishFull": "whole, full, complete, entire",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 746,
+    "english": "full",
+    "mehrileh": "tilitsh",
+    "pronunciation": "tilitʃ",
+    "englishFull": "whole, full, complete, entire",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 747,
+    "english": "complete",
+    "mehrileh": "tilitsh",
+    "pronunciation": "tilitʃ",
+    "englishFull": "whole, full, complete, entire",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 748,
+    "english": "entire",
+    "mehrileh": "tilitsh",
+    "pronunciation": "tilitʃ",
+    "englishFull": "whole, full, complete, entire",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 749,
+    "english": "feel",
+    "mehrileh": "vehyni",
+    "pronunciation": "vɛɪni",
+    "englishFull": "to feel",
+    "class": "verb"
+  },
+  {
+    "id": 750,
+    "english": "feel happy",
+    "mehrileh": "vehyni plitatya",
+    "pronunciation": "vɛɪni plitatja",
+    "englishFull": "to feel happy, to feel good",
+    "class": "verb"
+  },
+  {
+    "id": 751,
+    "english": "feel good",
+    "mehrileh": "vehyni plitatya",
+    "pronunciation": "vɛɪni plitatja",
+    "englishFull": "to feel happy, to feel good",
+    "class": "verb"
+  },
+  {
+    "id": 752,
+    "english": "happiness",
+    "mehrileh": "plilitatya",
+    "pronunciation": "plilitatja",
+    "englishFull": "happyness, joy, wellness",
+    "class": "noun"
+  },
+  {
+    "id": 753,
+    "english": "joy",
+    "mehrileh": "plilitatya",
+    "pronunciation": "plilitatja",
+    "englishFull": "happyness, joy, wellness",
+    "class": "noun"
+  },
+  {
+    "id": 754,
+    "english": "wellness",
+    "mehrileh": "plilitatya",
+    "pronunciation": "plilitatja",
+    "englishFull": "happyness, joy, wellness",
+    "class": "noun"
+  },
+  {
+    "id": 755,
+    "english": "neighbor",
+    "mehrileh": "nitir",
+    "pronunciation": "nitir",
+    "englishFull": "neighbor (christian religious sense kinda), fellow, fr: prochain, comme \"mon prochain\"",
+    "class": "noun"
+  },
+  {
+    "id": 756,
+    "english": "fellow",
+    "mehrileh": "nitir",
+    "pronunciation": "nitir",
+    "englishFull": "neighbor (christian religious sense kinda), fellow, fr: prochain, comme \"mon prochain\"",
+    "class": "noun"
+  },
+  {
+    "id": 757,
+    "english": "my neighbor",
+    "mehrileh": "nitirti",
+    "pronunciation": "nitirti",
+    "englishFull": "my neighbor, fr: mon prochain",
+    "class": "noun"
+  },
+  {
+    "id": 758,
+    "english": "agree with",
+    "mehrileh": "tshig vehyni",
+    "pronunciation": "",
+    "englishFull": "to agree with.., to vote for.., to approve of.., to decide on..",
+    "class": "verb"
+  },
+  {
+    "id": 759,
+    "english": "vote for",
+    "mehrileh": "tshig vehyni",
+    "pronunciation": "",
+    "englishFull": "to agree with.., to vote for.., to approve of.., to decide on..",
+    "class": "verb"
+  },
+  {
+    "id": 760,
+    "english": "approve of",
+    "mehrileh": "tshig vehyni",
+    "pronunciation": "",
+    "englishFull": "to agree with.., to vote for.., to approve of.., to decide on..",
+    "class": "verb"
+  },
+  {
+    "id": 761,
+    "english": "decide on",
+    "mehrileh": "tshig vehyni",
+    "pronunciation": "",
+    "englishFull": "to agree with.., to vote for.., to approve of.., to decide on..",
+    "class": "verb"
+  },
+  {
+    "id": 762,
+    "english": "gold",
+    "mehrileh": "tochtshola",
+    "pronunciation": "tɔχtʃɔla",
+    "englishFull": "gold",
+    "class": "noun"
+  },
+  {
+    "id": 763,
+    "english": "golden",
+    "mehrileh": "tochtsholatsh",
+    "pronunciation": "tɔχtʃɔlatʃ",
+    "englishFull": "golden, gilded",
+    "class": "adjective"
+  },
+  {
+    "id": 764,
+    "english": "gilded",
+    "mehrileh": "tochtsholatsh",
+    "pronunciation": "tɔχtʃɔlatʃ",
+    "englishFull": "golden, gilded",
+    "class": "adjective"
+  },
+  {
+    "id": 765,
+    "english": "primordial of chance",
+    "mehrileh": "thijorvril",
+    "pronunciation": "θiʒɔvril",
+    "englishFull": "in mythology: the Primordial of Chance, Luck or Fortune",
+    "class": "noun"
+  },
+  {
+    "id": 766,
+    "english": "protection",
+    "mehrileh": "plitaltor",
+    "pronunciation": "plitaltɔr",
+    "englishFull": "protection, safety",
+    "class": "noun"
+  },
+  {
+    "id": 767,
+    "english": "safety",
+    "mehrileh": "plitaltor",
+    "pronunciation": "plitaltɔr",
+    "englishFull": "protection, safety",
+    "class": "noun"
+  },
+  {
+    "id": 768,
+    "english": "strength",
+    "mehrileh": "plidontehtshig",
+    "pronunciation": "plidɔntɛtʃig",
+    "englishFull": "strength, especially physical strength",
+    "class": "noun"
+  },
+  {
+    "id": 769,
+    "english": "throw",
+    "mehrileh": "hehsvhot",
+    "pronunciation": "hɛsðɔt",
+    "englishFull": "to throw",
+    "class": "verb"
+  },
+  {
+    "id": 770,
+    "english": "piece of meat",
+    "mehrileh": "mehyvyeht",
+    "pronunciation": "mɛɪvjɛt",
+    "englishFull": "a piece of meat, (dead) chicken",
+    "class": "noun"
+  },
+  {
+    "id": 771,
+    "english": "dead chicken",
+    "mehrileh": "mehyvyeht",
+    "pronunciation": "mɛɪvjɛt",
+    "englishFull": "a piece of meat, (dead) chicken",
+    "class": "noun"
+  },
+  {
+    "id": 772,
+    "english": "piece of beef",
+    "mehrileh": "mehyvyeht djo",
+    "pronunciation": "mɛɪvjɛt dʒɔ",
+    "englishFull": "a piece of beef, mutton, any type of red meat",
+    "class": "noun"
+  },
+  {
+    "id": 773,
+    "english": "mutton",
+    "mehrileh": "mehyvyeht djo",
+    "pronunciation": "mɛɪvjɛt dʒɔ",
+    "englishFull": "a piece of beef, mutton, any type of red meat",
+    "class": "noun"
+  },
+  {
+    "id": 774,
+    "english": "red meat",
+    "mehrileh": "mehyvyeht djo",
+    "pronunciation": "mɛɪvjɛt dʒɔ",
+    "englishFull": "a piece of beef, mutton, any type of red meat",
+    "class": "noun"
+  },
+  {
+    "id": 775,
+    "english": "fruit",
+    "mehrileh": "tarhkpung",
+    "pronunciation": "taʁkpuŋ",
+    "englishFull": "a fruit",
+    "class": "noun"
+  },
+  {
+    "id": 776,
+    "english": "apple",
+    "mehrileh": "pungajoyl",
+    "pronunciation": "taʁkpuŋaʒɔɪl",
+    "englishFull": "an apple",
+    "class": "noun"
+  },
+  {
+    "id": 777,
+    "english": "majority",
+    "mehrileh": "heulmkrha",
+    "pronunciation": "həlmkʁa",
+    "englishFull": "a majority",
+    "class": "noun"
+  },
+  {
+    "id": 778,
+    "english": "by majority",
+    "mehrileh": "heulmkrhashal",
+    "pronunciation": "həlmkʁaʃal",
+    "englishFull": "by majority",
+    "class": "adverb"
+  },
+  {
+    "id": 779,
+    "english": "pre-approve",
+    "mehrileh": "tshig vehynishan'g",
+    "pronunciation": "",
+    "englishFull": "to pre-approve..",
+    "class": "verb"
+  },
+  {
+    "id": 780,
+    "english": "respawn",
+    "mehrileh": "tshitalaplita",
+    "pronunciation": "tʃɪtalaplita",
+    "englishFull": "to respawn",
+    "class": "verb"
+  },
+  {
+    "id": 781,
+    "english": "instance of respawning",
+    "mehrileh": "tshitalaplita",
+    "pronunciation": "tʃɪtalaplita",
+    "englishFull": "an instance of respawning",
+    "class": "noun"
+  },
+  {
+    "id": 782,
+    "english": "sacrifice tower",
+    "mehrileh": "takrhaltshola",
+    "pronunciation": "takʁaltʃɔla",
+    "englishFull": "a usually tall tower in which one performs sacrifices at the top",
+    "class": "noun"
+  },
+  {
+    "id": 783,
+    "english": "bed",
+    "mehrileh": "takrhola",
+    "pronunciation": "takʁɔla",
+    "englishFull": "a bed",
+    "class": "noun"
+  },
+  {
+    "id": 784,
+    "english": "go to sleep",
+    "mehrileh": "takrhola",
+    "pronunciation": "takʁɔla",
+    "englishFull": "to (go to) sleep, to lie down",
+    "class": "verb"
+  },
+  {
+    "id": 785,
+    "english": "lie down",
+    "mehrileh": "takrhola",
+    "pronunciation": "takʁɔla",
+    "englishFull": "to (go to) sleep, to lie down",
+    "class": "verb"
+  },
+  {
+    "id": 786,
+    "english": "be able to",
+    "mehrileh": "dont",
+    "pronunciation": "dɔnt",
+    "englishFull": "to be able to, can",
+    "class": "verb"
+  },
+  {
+    "id": 787,
+    "english": "can",
+    "mehrileh": "dont",
+    "pronunciation": "dɔnt",
+    "englishFull": "to be able to, can",
+    "class": "verb"
+  },
+  {
+    "id": 788,
+    "english": "uninitiated mery",
+    "mehrileh": "niyatehn'g",
+    "pronunciation": "nijatɛng",
+    "englishFull": "a Mery who has not completed the mery initiation ritual but has been pre-approved for initiation by the other Mery",
+    "class": "noun"
+  },
+  {
+    "id": 789,
+    "english": "uninitiated",
+    "mehrileh": "niyatehn'g",
+    "pronunciation": "nijatɛng",
+    "englishFull": "unitiated, especially when refering to Mery initiation",
+    "class": "adjective"
+  },
+  {
+    "id": 790,
+    "english": "initiated",
+    "mehrileh": "yatehn'g",
+    "pronunciation": "jatɛng",
+    "englishFull": "initiated, especially when refering to Mery initiation",
+    "class": "adjective"
+  },
+  {
+    "id": 791,
+    "english": "tell a story",
+    "mehrileh": "plina'yolato",
+    "pronunciation": "plinajɔlatɔ",
+    "englishFull": "to tell (a story), to read aloud (a story), fr: raconter (une histoire)",
+    "class": "verb"
+  },
+  {
+    "id": 792,
+    "english": "act",
+    "mehrileh": "plina'yoltehla",
+    "pronunciation": "plinajɔltɛla",
+    "englishFull": "to act, to play a role",
+    "class": "verb"
+  },
+  {
+    "id": 793,
+    "english": "play a role",
+    "mehrileh": "plina'yoltehla",
+    "pronunciation": "plinajɔltɛla",
+    "englishFull": "to act, to play a role",
+    "class": "verb"
+  },
+  {
+    "id": 794,
+    "english": "actor",
+    "mehrileh": "plina'yoltehlarh",
+    "pronunciation": "plinajɔltɛlaʁ",
+    "englishFull": "an actor",
+    "class": "noun"
+  },
+  {
+    "id": 795,
+    "english": "wake up",
+    "mehrileh": "tshitaladanamilimeh",
+    "pronunciation": "tʃɪtaladanamilimɛ",
+    "englishFull": "to wake up, to rise",
+    "class": "verb"
+  },
+  {
+    "id": 796,
+    "english": "rise",
+    "mehrileh": "tshitaladanamilimeh",
+    "pronunciation": "tʃɪtaladanamilimɛ",
+    "englishFull": "to wake up, to rise",
+    "class": "verb"
+  },
+  {
+    "id": 797,
+    "english": "sunset",
+    "mehrileh": "tsholatakrholayol",
+    "pronunciation": "tʃɔlatakʁɔlajɔl",
+    "englishFull": "sunset",
+    "class": "noun"
+  },
+  {
+    "id": 798,
+    "english": "sunrise",
+    "mehrileh": "tsholatshitaladanamilimehyol",
+    "pronunciation": "tʃɔlatʃɪtaladanamilimɛjɔl",
+    "englishFull": "sunrise",
+    "class": "noun"
+  },
+  {
+    "id": 799,
+    "english": "leather",
+    "mehrileh": "mlehvhmeul",
+    "pronunciation": "mlɛðməl",
+    "englishFull": "leather",
+    "class": "noun"
+  },
+  {
+    "id": 800,
+    "english": "made of leather",
+    "mehrileh": "mlehvhmeulehtsh",
+    "pronunciation": "mlɛðməlɛtʃ",
+    "englishFull": "made of leather, leather-like",
+    "class": "adjective"
+  },
+    {
+    "id": 801,
+    "english": "leather-like",
+    "mehrileh": "mlehvhmeulehtsh",
+    "pronunciation": "mlɛðməlɛtʃ",
+    "englishFull": "made of leather, leather-like",
+    "class": "adjective"
+  },
+  {
+    "id": 802,
+    "english": "second",
+    "mehrileh": "yehtimi",
+    "pronunciation": "jɛtimi",
+    "englishFull": "a second",
+    "class": "noun"
+  },
+  {
+    "id": 803,
+    "english": "lucky person",
+    "mehrileh": "niyprang",
+    "pronunciation": "nijpraŋ",
+    "englishFull": "a lucky person",
+    "class": "noun"
+  },
+  {
+    "id": 804,
+    "english": "lucky",
+    "mehrileh": "niyprang",
+    "pronunciation": "nijpraŋ",
+    "englishFull": "lucky (lit.: seen)",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 805,
+    "english": "double",
+    "mehrileh": "hwilkrha",
+    "pronunciation": "ɦilkʁa",
+    "englishFull": "double (often inflected -hwilkrha to mark the double of smth)",
+    "class": "noun"
+  },
+  {
+    "id": 806,
+    "english": "double",
+    "mehrileh": "hwilkrha (...) krhach",
+    "pronunciation": "",
+    "englishFull": "to double",
+    "class": "verb"
+  },
+  {
+    "id": 807,
+    "english": "doubled",
+    "mehrileh": "hwilkrhatsh",
+    "pronunciation": "ɦilkʁatʃ",
+    "englishFull": "doubled",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 808,
+    "english": "set free",
+    "mehrileh": "talartimi",
+    "pronunciation": "talartimi",
+    "englishFull": "to set free, to free",
+    "class": "verb"
+  },
+  {
+    "id": 809,
+    "english": "free",
+    "mehrileh": "talartimi",
+    "pronunciation": "talartimi",
+    "englishFull": "to set free, to free",
+    "class": "verb"
+  },
+  {
+    "id": 810,
+    "english": "old",
+    "mehrileh": "lorha",
+    "pronunciation": "lɔʁa",
+    "englishFull": "old, ancient",
+    "class": "adjective"
+  },
+  {
+    "id": 811,
+    "english": "ancient",
+    "mehrileh": "lorha",
+    "pronunciation": "lɔʁa",
+    "englishFull": "old, ancient",
+    "class": "adjective"
+  },
+  {
+    "id": 812,
+    "english": "bot",
+    "mehrileh": "niyankrhachen'g",
+    "pronunciation": "niʃankʁaχɛng",
+    "englishFull": "an bot, a robot",
+    "class": "noun"
+  },
+  {
+    "id": 813,
+    "english": "robot",
+    "mehrileh": "niyankrhachen'g",
+    "pronunciation": "niʃankʁaχɛng",
+    "englishFull": "an bot, a robot",
+    "class": "noun"
+  },
+  {
+    "id": 814,
+    "english": "dead person",
+    "mehrileh": "tshihvatoch",
+    "pronunciation": "tʃɪvatɔχ",
+    "englishFull": "a dead person, one who is on the other side of the world (hell)",
+    "class": "noun"
+  },
+  {
+    "id": 815,
+    "english": "living person",
+    "mehrileh": "tshihvafihladont",
+    "pronunciation": "tʃɪvafɪladɔnt",
+    "englishFull": "a living person, one who is on the overworld",
+    "class": "noun"
+  },
+  {
+    "id": 816,
+    "english": "non-mery person",
+    "mehrileh": "nimehri",
+    "pronunciation": "nimɛri",
+    "englishFull": "a non-Mery person",
+    "class": "noun"
+  },
+  {
+    "id": 817,
+    "english": "crafting table",
+    "mehrileh": "torakrach",
+    "pronunciation": "tɔrakraχ",
+    "englishFull": "a crafting table",
+    "class": "noun"
+  },
+  {
+    "id": 818,
+    "english": "furnace",
+    "mehrileh": "tochatal",
+    "pronunciation": "tɔχatal",
+    "englishFull": "a furnace",
+    "class": "noun"
+  },
+  {
+    "id": 819,
+    "english": "transform into water",
+    "mehrileh": "loyat",
+    "pronunciation": "lɔjat",
+    "englishFull": "to transform into water, to be melted",
+    "class": "verb"
+  },
+  {
+    "id": 820,
+    "english": "be melted",
+    "mehrileh": "loyat",
+    "pronunciation": "lɔjat",
+    "englishFull": "to transform into water, to be melted",
+    "class": "verb"
+  },
+  {
+    "id": 821,
+    "english": "make something into water",
+    "mehrileh": "loyatap",
+    "pronunciation": "lɔjatap",
+    "englishFull": "to make something into water, to melt",
+    "class": "verb"
+  },
+  {
+    "id": 822,
+    "english": "melt",
+    "mehrileh": "loyatap",
+    "pronunciation": "lɔjatap",
+    "englishFull": "to make something into water, to melt",
+    "class": "verb"
+  },
+  {
+    "id": 823,
+    "english": "common land",
+    "mehrileh": "varashil",
+    "pronunciation": "varaʃil",
+    "englishFull": "common land, land used by everyone in a given settlement, public property",
+    "class": "noun"
+  },
+  {
+    "id": 824,
+    "english": "public property",
+    "mehrileh": "varashil",
+    "pronunciation": "varaʃil",
+    "englishFull": "common land, land used by everyone in a given settlement, public property",
+    "class": "noun"
+  },
+  {
+    "id": 825,
+    "english": "accept",
+    "mehrileh": "niplitomihzyeh",
+    "pronunciation": "niplitɔmɪnzjɛ",
+    "englishFull": "to accept, to trust",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 826,
+    "english": "trust",
+    "mehrileh": "niplitomihzyeh",
+    "pronunciation": "niplitɔmɪnzjɛ",
+    "englishFull": "to accept, to trust",
+    "class": "verb (transitive)"
+  },
+  {
+    "id": 827,
+    "english": "decision",
+    "mehrileh": "vehyniyol",
+    "pronunciation": "vɛjnijɔl",
+    "englishFull": "a decision made by multiple people, an agreement",
+    "class": "noun"
+  },
+  {
+    "id": 828,
+    "english": "agreement",
+    "mehrileh": "vehyniyol",
+    "pronunciation": "vɛjnijɔl",
+    "englishFull": "a decision made by multiple people, an agreement",
+    "class": "noun"
+  },
+  {
+    "id": 829,
+    "english": "unity",
+    "mehrileh": "pligeusatal",
+    "pronunciation": "pligəsatal",
+    "englishFull": "unity, friendship, comraderie",
+    "class": "noun"
+  },
+  {
+    "id": 830,
+    "english": "friendship",
+    "mehrileh": "pligeusatal",
+    "pronunciation": "pligəsatal",
+    "englishFull": "unity, friendship, comraderie",
+    "class": "noun"
+  },
+  {
+    "id": 831,
+    "english": "comraderie",
+    "mehrileh": "pligeusatal",
+    "pronunciation": "pligəsatal",
+    "englishFull": "unity, friendship, comraderie",
+    "class": "noun"
+  },
+  {
+    "id": 832,
+    "english": "smile",
+    "mehrileh": "latota",
+    "pronunciation": "latɔta",
+    "englishFull": "a smile",
+    "class": "noun"
+  },
+  {
+    "id": 833,
+    "english": "keep",
+    "mehrileh": "zyehplita",
+    "pronunciation": "zjɛplita",
+    "englishFull": "to keep, to maintain",
+    "class": "verb"
+  },
+  {
+    "id": 834,
+    "english": "maintain",
+    "mehrileh": "zyehplita",
+    "pronunciation": "zjɛplita",
+    "englishFull": "to keep, to maintain",
+    "class": "verb"
+  },
+  {
+    "id": 835,
+    "english": "do regularly",
+    "mehrileh": "mihnitata",
+    "pronunciation": "mɪnitata",
+    "englishFull": "to do regularly, to do repeatedly",
+    "class": "verb"
+  },
+  {
+    "id": 836,
+    "english": "do repeatedly",
+    "mehrileh": "mihnitata",
+    "pronunciation": "mɪnitata",
+    "englishFull": "to do regularly, to do repeatedly",
+    "class": "verb"
+  },
+  {
+    "id": 837,
+    "english": "regularly",
+    "mehrileh": "plimihnitatad",
+    "pronunciation": "plimɪnitatad",
+    "englishFull": "regularly, repeatedly",
+    "class": "adverb"
+  },
+  {
+    "id": 838,
+    "english": "repeatedly",
+    "mehrileh": "plimihnitatad",
+    "pronunciation": "plimɪnitatad",
+    "englishFull": "regularly, repeatedly",
+    "class": "adverb"
+  },
+  {
+    "id": 839,
+    "english": "afterwards",
+    "mehrileh": "yutralchiya",
+    "pronunciation": "jutralχija",
+    "englishFull": "afterwards",
+    "class": "adverb"
+  },
+  {
+    "id": 840,
+    "english": "hereafter",
+    "mehrileh": "yehdehtacha",
+    "pronunciation": "jɛdɛtaχa",
+    "englishFull": "hereafter",
+    "class": "adverb"
+  },
+  {
+    "id": 841,
+    "english": "plant",
+    "mehrileh": "chashalmoz",
+    "pronunciation": "χaʃalmɔz",
+    "englishFull": "a plant",
+    "class": "noun"
+  },
+  {
+    "id": 842,
+    "english": "cactus",
+    "mehrileh": "kakto",
+    "pronunciation": "kaktɔ",
+    "englishFull": "a cactus",
+    "class": "noun"
+  },
+  {
+    "id": 843,
+    "english": "hockey",
+    "mehrileh": "hoki",
+    "pronunciation": "hɔki",
+    "englishFull": "hockey",
+    "class": "noun"
+  },
+  {
+    "id": 844,
+    "english": "exchange",
+    "mehrileh": "dehnvarti",
+    "pronunciation": "dɛnvarti",
+    "englishFull": "to exchange, to trade",
+    "class": "verb"
+  },
+  {
+    "id": 845,
+    "english": "trade",
+    "mehrileh": "dehnvarti",
+    "pronunciation": "dɛnvarti",
+    "englishFull": "to exchange, to trade",
+    "class": "verb"
+  },
+  {
+    "id": 846,
+    "english": "commercial",
+    "mehrileh": "dehnvartitsh",
+    "pronunciation": "dɛnvartitʃ",
+    "englishFull": "commercial",
+    "class": "adjective"
+  },
+  {
+    "id": 847,
+    "english": "company",
+    "mehrileh": "mehmehgeuftal dehnvartitsh",
+    "pronunciation": "mɛmɛgəftal dɛnvartitʃ",
+    "englishFull": "a company, a corporation, a buisness",
+    "class": "noun"
+  },
+  {
+    "id": 848,
+    "english": "corporation",
+    "mehrileh": "mehmehgeuftal dehnvartitsh",
+    "pronunciation": "mɛmɛgəftal dɛnvartitʃ",
+    "englishFull": "a company, a corporation, a buisness",
+    "class": "noun"
+  },
+  {
+    "id": 849,
+    "english": "business",
+    "mehrileh": "mehmehgeuftal dehnvartitsh",
+    "pronunciation": "mɛmɛgəftal dɛnvartitʃ",
+    "englishFull": "a company, a corporation, a buisness",
+    "class": "noun"
+  },
+  {
+    "id": 850,
+    "english": "shop",
+    "mehrileh": "gudehn",
+    "pronunciation": "gudɛn",
+    "englishFull": "a shop",
+    "class": "noun"
+  },
+  {
+    "id": 851,
+    "english": "worker",
+    "mehrileh": "krhacharh",
+    "pronunciation": "kʁaχaʁ",
+    "englishFull": "a worker",
+    "class": "noun"
+  },
+  {
+    "id": 852,
+    "english": "smelt",
+    "mehrileh": "chatalat",
+    "pronunciation": "χatalat",
+    "englishFull": "to smelt, to cook",
+    "class": "verb"
+  },
+  {
+    "id": 853,
+    "english": "cook",
+    "mehrileh": "chatalat",
+    "pronunciation": "χatalat",
+    "englishFull": "to smelt, to cook",
+    "class": "verb"
+  },
+  {
+    "id": 854,
+    "english": "hot",
+    "mehrileh": "ladjotsh",
+    "pronunciation": "ladʒɔtʃ",
+    "englishFull": "hot, heated",
+    "class": "adjective"
+  },
+  {
+    "id": 855,
+    "english": "heated",
+    "mehrileh": "ladjotsh",
+    "pronunciation": "ladʒɔtʃ",
+    "englishFull": "hot, heated",
+    "class": "adjective"
+  },
+  {
+    "id": 856,
+    "english": "boil",
+    "mehrileh": "loladjotap",
+    "pronunciation": "lɔladʒɔtap",
+    "englishFull": "to boil, especially water",
+    "class": "verb"
+  },
+  {
+    "id": 857,
+    "english": "potion",
+    "mehrileh": "lotshihtalateht",
+    "pronunciation": "lɔtʃɪtalatɛt",
+    "englishFull": "a potion",
+    "class": "noun"
+  },
+  {
+    "id": 858,
+    "english": "drink",
+    "mehrileh": "longakal",
+    "pronunciation": "lɔŋakal",
+    "englishFull": "to drink",
+    "class": "verb"
+  },
+  {
+    "id": 859,
+    "english": "dark",
+    "mehrileh": "sithrolehtshig",
+    "pronunciation": "siθrɔlɛʃig",
+    "englishFull": "dark (light-wise), evil, unpure of soul, bad",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 860,
+    "english": "evil",
+    "mehrileh": "sithrolehtshig",
+    "pronunciation": "siθrɔlɛʃig",
+    "englishFull": "dark (light-wise), evil, unpure of soul, bad",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 861,
+    "english": "unpure of soul",
+    "mehrileh": "sithrolehtshig",
+    "pronunciation": "siθrɔlɛʃig",
+    "englishFull": "dark (light-wise), evil, unpure of soul, bad",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 862,
+    "english": "bad",
+    "mehrileh": "sithrolehtshig",
+    "pronunciation": "siθrɔlɛʃig",
+    "englishFull": "dark (light-wise), evil, unpure of soul, bad",
+    "class": "adjective (v)"
+  },
+  {
+    "id": 863,
+    "english": "arm/leg of mob",
+    "mehrileh": "geumeht",
+    "pronunciation": "gəmɛ",
+    "englishFull": "an arm/leg of a mob",
+    "class": "noun"
+  },
+  {
+    "id": 864,
+    "english": "wing",
+    "mehrileh": "mehsiw",
+    "pronunciation": "mɛsiw",
+    "englishFull": "a wing",
+    "class": "noun"
+  },
+  {
+    "id": 865,
+    "english": "bird",
+    "mehrileh": "mehsiwariyeh",
+    "pronunciation": "mɛsiwarijɛ",
+    "englishFull": "a bird",
+    "class": "noun"
+  },
+  {
+    "id": 866,
+    "english": "phoenix",
+    "mehrileh": "mehsiwariyeh ladjoteht",
+    "pronunciation": "mɛsiwarijɛ ladʒɔtɛt",
+    "englishFull": "a phoenix",
+    "class": "noun"
+  },
+  {
+    "id": 867,
+    "english": "string",
+    "mehrileh": "timitorakrach",
+    "pronunciation": "timitorakraχ",
+    "englishFull": "string",
+    "class": "noun"
+  },
+  {
+    "id": 868,
+    "english": "almost",
+    "mehrileh": "plitutsh",
+    "pronunciation": "plitutʃ",
+    "englishFull": "almost, nearly",
+    "class": "adverb"
+  },
+  {
+    "id": 869,
+    "english": "nearly",
+    "mehrileh": "plitutsh",
+    "pronunciation": "plitutʃ",
+    "englishFull": "almost, nearly",
+    "class": "adverb"
+  },
+  {
+    "id": 870,
+    "english": "overhang",
+    "mehrileh": "yiwitutsh",
+    "pronunciation": "jiwitutʃ",
+    "englishFull": "to overhang (over)",
+    "class": "verb"
+  },
+  {
+    "id": 871,
+    "english": "enter",
+    "mehrileh": "tardjshil",
+    "pronunciation": "tardʒʃil",
+    "englishFull": "to enter",
+    "class": "verb"
+  },
+  {
+    "id": 872,
+    "english": "knowledge",
+    "mehrileh": "pliniy",
+    "pronunciation": "plinij",
+    "englishFull": "knowledge, relfexion",
+    "class": "noun"
+  },
+  {
+    "id": 873,
+    "english": "reflection",
+    "mehrileh": "pliniy",
+    "pronunciation": "plinij",
+    "englishFull": "knowledge, relfexion",
+    "class": "noun"
+  },
+  {
+    "id": 874,
+    "english": "empire",
+    "mehrileh": "tsharharhateht",
+    "pronunciation": "tʃaʁaʁatɛt",
+    "englishFull": "an empire, a god (NOT the mythical figures of rha'yatshola)",
+    "class": "noun"
+  },
+  {
+    "id": 875,
+    "english": "god",
+    "mehrileh": "tsharharhateht",
+    "pronunciation": "tʃaʁaʁatɛt",
+    "englishFull": "an empire, a god (NOT the mythical figures of rha'yatshola)",
+    "class": "noun"
+  },
+  {
+    "id": 876,
+    "english": "imperial",
+    "mehrileh": "tsharharhatehtsh",
+    "pronunciation": "tʃaʁaʁatɛtʃ",
+    "englishFull": "imperial, godlike, religious (not rha'yatshola)",
+    "class": "adjective"
+  },
+  {
+    "id": 877,
+    "english": "godlike",
+    "mehrileh": "tsharharhatehtsh",
+    "pronunciation": "tʃaʁaʁatɛtʃ",
+    "englishFull": "imperial, godlike, religious (not rha'yatshola)",
+    "class": "adjective"
+  },
+  {
+    "id": 878,
+    "english": "religious",
+    "mehrileh": "tsharharhatehtsh",
+    "pronunciation": "tʃaʁaʁatɛtʃ",
+    "englishFull": "imperial, godlike, religious (not rha'yatshola)",
+    "class": "adjective"
+  },
+  {
+    "id": 879,
+    "english": "tell the truth",
+    "mehrileh": "plimtyan'gato",
+    "pronunciation": "plimtjangato",
+    "englishFull": "to tell the truth, to explain, to show, to present",
+    "class": "verb"
+  },
+  {
+    "id": 880,
+    "english": "explain",
+    "mehrileh": "plimtyan'gato",
+    "pronunciation": "plimtjangato",
+    "englishFull": "to tell the truth, to explain, to show, to present",
+    "class": "verb"
+  },
+  {
+    "id": 881,
+    "english": "show",
+    "mehrileh": "plimtyan'gato",
+    "pronunciation": "plimtjangato",
+    "englishFull": "to tell the truth, to explain, to show, to present",
+    "class": "verb"
+  },
+  {
+    "id": 882,
+    "english": "present",
+    "mehrileh": "plimtyan'gato",
+    "pronunciation": "plimtjangato",
+    "englishFull": "to tell the truth, to explain, to show, to present",
+    "class": "verb"
+  },
+  {
+    "id": 883,
+    "english": "vegetable",
+    "mehrileh": "joylolm",
+    "pronunciation": "ʒɔɪlolm",
+    "englishFull": "a vegetable",
+    "class": "noun"
+  },
+  {
+    "id": 884,
+    "english": "mery criminal",
+    "mehrileh": "mehrithrolehtshig",
+    "pronunciation": "",
+    "englishFull": "a Mery criminal, a traitor",
+    "class": "noun"
+  },
+  {
+    "id": 885,
+    "english": "traitor",
+    "mehrileh": "mehrithrolehtshig",
+    "pronunciation": "",
+    "englishFull": "a Mery criminal, a traitor",
+    "class": "noun"
+  },
+  {
+    "id": 886,
+    "english": "criminal",
+    "mehrileh": "tshihvasithrolehtshig",
+    "pronunciation": "",
+    "englishFull": "a criminal",
+    "class": "noun"
+  },
+  {
+    "id": 887,
+    "english": "pearler",
+    "mehrileh": "niynehtarh",
+    "pronunciation": "nijnɛtaʁ",
+    "englishFull": "a pearler, a raider, a criminal",
+    "class": "noun"
+  },
+  {
+    "id": 888,
+    "english": "raider",
+    "mehrileh": "niynehtarh",
+    "pronunciation": "nijnɛtaʁ",
+    "englishFull": "a pearler, a raider, a criminal",
+    "class": "noun"
+  },
+  {
+    "id": 889,
+    "english": "criminal",
+    "mehrileh": "niynehtarh",
+    "pronunciation": "nijnɛtaʁ",
+    "englishFull": "a pearler, a raider, a criminal",
+    "class": "noun"
+  },
+  {
+    "id": 890,
+    "english": "baker",
+    "mehrileh": "chatalatarh",
+    "pronunciation": "χatalataʁ",
+    "englishFull": "a baker",
+    "class": "noun"
+  },
+  {
+    "id": 891,
+    "english": "outpost",
+    "mehrileh": "taltimirotkash",
+    "pronunciation": "",
+    "englishFull": "an outpost",
+    "class": "noun"
+  },
+  {
+    "id": 892,
+    "english": "castle",
+    "mehrileh": "tardjotaltor",
+    "pronunciation": "",
+    "englishFull": "a castle",
+    "class": "noun"
+  }
 ]
