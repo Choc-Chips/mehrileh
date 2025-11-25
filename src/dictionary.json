@@ -269,7 +269,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "mehrileh": "krha",
     "pronunciation": "kʁa",
     "englishFull": "big, tall, imposing, serious, old, more",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 40,
@@ -325,7 +325,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "mehrileh": "mi",
     "pronunciation": "mi",
     "englishFull": "small, short, innocent, childish, young, less",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 47,
@@ -2557,7 +2557,7 @@
     "mehrileh": "meh'yehtshig",
     "pronunciation": "mɛjɛtʃig",
     "englishFull": "feral, animal-like",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 321,
@@ -2565,7 +2565,7 @@
     "mehrileh": "meh'yehtshig",
     "pronunciation": "mɛjɛtʃig",
     "englishFull": "feral, animal-like",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 322,
@@ -2605,7 +2605,7 @@
     "mehrileh": "tsholataty",
     "pronunciation": "tʃɔlatatj",
     "englishFull": "sunny, blessed, lucky",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 327,
@@ -2613,7 +2613,7 @@
     "mehrileh": "tsholataty",
     "pronunciation": "tʃɔlatatj",
     "englishFull": "sunny, blessed, lucky",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 328,
@@ -2621,7 +2621,7 @@
     "mehrileh": "tsholataty",
     "pronunciation": "tʃɔlatatj",
     "englishFull": "sunny, blessed, lucky",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 329,
@@ -2757,7 +2757,7 @@
     "mehrileh": "wirehtshig",
     "pronunciation": "wirɛtʃig",
     "englishFull": "heavenly, divine, sacred, holy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 346,
@@ -2765,7 +2765,7 @@
     "mehrileh": "wirehtshig",
     "pronunciation": "wirɛtʃig",
     "englishFull": "heavenly, divine, sacred, holy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 347,
@@ -2773,7 +2773,7 @@
     "mehrileh": "wirehtshig",
     "pronunciation": "wirɛtʃig",
     "englishFull": "heavenly, divine, sacred, holy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 348,
@@ -2781,7 +2781,7 @@
     "mehrileh": "wirehtshig",
     "pronunciation": "wirɛtʃig",
     "englishFull": "heavenly, divine, sacred, holy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 349,
@@ -2909,7 +2909,7 @@
     "mehrileh": "frostsharhehtshig",
     "pronunciation": "frɔstʃaʁɛtʃig",
     "englishFull": "evil in a cold, calculated way, like the Lords in the sky",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 365,
@@ -3397,7 +3397,7 @@
     "mehrileh": "yehtan'g",
     "pronunciation": "jɛtang",
     "englishFull": "primordial",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 426,
@@ -3405,7 +3405,7 @@
     "mehrileh": "yehta'ya",
     "pronunciation": "jɛtaja",
     "englishFull": "apolyptic, relating to the end times",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 427,
@@ -3413,7 +3413,7 @@
     "mehrileh": "tatya",
     "pronunciation": "tatja",
     "englishFull": "good, happy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 428,
@@ -3421,7 +3421,7 @@
     "mehrileh": "tatya",
     "pronunciation": "tatja",
     "englishFull": "good, happy",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 429,
@@ -3501,7 +3501,7 @@
     "mehrileh": "lolm",
     "pronunciation": "lɔlm",
     "englishFull": "long",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 439,
@@ -3669,7 +3669,7 @@
     "mehrileh": "yat",
     "pronunciation": "jat",
     "englishFull": "beautiful",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 460,
@@ -3701,7 +3701,7 @@
     "mehrileh": "na'yehtshig",
     "pronunciation": "najɛtʃig",
     "englishFull": "artistic, relating to art",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 464,
@@ -4189,7 +4189,7 @@
     "mehrileh": "vyeht",
     "pronunciation": "vjɛt",
     "englishFull": "dead",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 525,
@@ -4637,7 +4637,7 @@
     "mehrileh": "dontehtshig",
     "pronunciation": "dɔntɛtʃig",
     "englishFull": "strong, muscley",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 581,
@@ -4645,7 +4645,7 @@
     "mehrileh": "dontehtshig",
     "pronunciation": "dɔntɛtʃig",
     "englishFull": "strong, muscley",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 582,
@@ -4653,7 +4653,7 @@
     "mehrileh": "nishiyl",
     "pronunciation": "niʃijl",
     "englishFull": "very clear, with no hesitation or doubt, sound",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 583,
@@ -5597,7 +5597,7 @@
     "mehrileh": "talatshig",
     "pronunciation": "talatʃig",
     "englishFull": "new",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
     {
     "id": 701,
@@ -5717,7 +5717,7 @@
     "mehrileh": "rha'yatshig",
     "pronunciation": "ʁajatʃig",
     "englishFull": "shiny, luminous",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 716,
@@ -5725,7 +5725,7 @@
     "mehrileh": "rha'yatshig",
     "pronunciation": "ʁajatʃig",
     "englishFull": "shiny, luminous",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 717,
@@ -5781,7 +5781,7 @@
     "mehrileh": "mehr",
     "pronunciation": "mɛr",
     "englishFull": "central",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 724,
@@ -5877,7 +5877,7 @@
     "mehrileh": "tidanehtshig",
     "pronunciation": "tidanɛtʃig",
     "englishFull": "hand-made",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 736,
@@ -5957,7 +5957,7 @@
     "mehrileh": "tilitsh",
     "pronunciation": "tilitʃ",
     "englishFull": "whole, full, complete, entire",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 746,
@@ -5965,7 +5965,7 @@
     "mehrileh": "tilitsh",
     "pronunciation": "tilitʃ",
     "englishFull": "whole, full, complete, entire",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 747,
@@ -5973,7 +5973,7 @@
     "mehrileh": "tilitsh",
     "pronunciation": "tilitʃ",
     "englishFull": "whole, full, complete, entire",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 748,
@@ -5981,7 +5981,7 @@
     "mehrileh": "tilitsh",
     "pronunciation": "tilitʃ",
     "englishFull": "whole, full, complete, entire",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 749,
@@ -6429,7 +6429,7 @@
     "mehrileh": "niyprang",
     "pronunciation": "nijpraŋ",
     "englishFull": "lucky (lit.: seen)",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 805,
@@ -6453,7 +6453,7 @@
     "mehrileh": "hwilkrhatsh",
     "pronunciation": "ɦilkʁatʃ",
     "englishFull": "doubled",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 808,
@@ -6869,7 +6869,7 @@
     "mehrileh": "sithrolehtshig",
     "pronunciation": "siθrɔlɛʃig",
     "englishFull": "dark (light-wise), evil, unpure of soul, bad",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 860,
@@ -6877,7 +6877,7 @@
     "mehrileh": "sithrolehtshig",
     "pronunciation": "siθrɔlɛʃig",
     "englishFull": "dark (light-wise), evil, unpure of soul, bad",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 861,
@@ -6885,7 +6885,7 @@
     "mehrileh": "sithrolehtshig",
     "pronunciation": "siθrɔlɛʃig",
     "englishFull": "dark (light-wise), evil, unpure of soul, bad",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 862,
@@ -6893,7 +6893,7 @@
     "mehrileh": "sithrolehtshig",
     "pronunciation": "siθrɔlɛʃig",
     "englishFull": "dark (light-wise), evil, unpure of soul, bad",
-    "class": "adjective (v)"
+    "class": "adjective"
   },
   {
     "id": 863,

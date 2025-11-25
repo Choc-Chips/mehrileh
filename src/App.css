@@ -47,7 +47,7 @@ h2 {
 }
 
 .card input {
-  width: 220px;
+  width: 210px;
   height: 1.8em;
   background: url(./assets/search.svg) no-repeat left;
   background-size: 18px;
@@ -58,11 +58,29 @@ h2 {
   border-radius: 10px;
 }
 
+.word {
+  margin: 10px 0;
+}
+
 .word:hover {
   cursor: pointer;
   text-decoration: underline;
 }
 
-.chosen {
+h3 {
+  font-size: 1.3em;
+  margin: 0;
+}
+
+.pronunciation {
+  margin: 0px 0;
+}
+
+.class {
+  font-size: 0.9em;
+  margin: 10px 0;
+}
+
+.selected {
   font-weight: bold;
 }
